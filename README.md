@@ -1,4 +1,6 @@
-# LatinoSineFlexione
+# Latino sine flexione
+
 Material about Latino sine flexione
 
-* Added Vocabulary
+* Added grammar + vocabulary
+* Added Kindle-compatible files
