@@ -143,11 +143,7 @@ In Interlingua, ergo, *persona et numero de verbo es indicato per subjecto, sine
 
 Existe tres varietates de tempores verbale: presente, preterito et futuro, id es: quod es simultaneo ad momento in que nos loque, anteriore ad isto momento, posteriore ad ipso. Ista 3 varietates generale de tempore subdivide se in plure ramos secundo differente punctos de visu accessorio que pote essere combinato cum ideas generale et fundamentale de ista 3 varietates primitiva. Sed uno solo es tempore absoluto, id es tempore presente, tempore simultaneo ad nostra parola; alios duo es tempore relativo, relativo id es ad rapporto de comparatione cum tempore presente (Et in realitate verbo non esserè que expressione de una facultate, sine deliminatione de tempore nec de spatio; illos que grammaticas denomina tempores de verbo non es que momentos de tempo, precisato ab adverbios et locutiones adverbiale, expresso aut subaudito, et non ab verbo ipso que, sicut tempore, non habe limites. Quando nos dice *lunedie me vade ad Roma*, futuro es in *lunedie* et non in *vade*, et quando nos dice: *me loque italiano*, me non intende que me loque italiano in isto momento, sed que me sci loquere, habe locuto et loquerà italiano).
 
-### PRESENTE
-
 Idea de presente non es susceptibile nec de magis nec de minus, sic un pote habere uno solo tempore presente ad omne modo de verbo. ln contrario preterito et futuro admitte plure gradus. Sed isto gradus non existe in omne lingua et etiam quando existe non es uso in casus equale. Italiano dice: « Non fare questo » et francico dice: *Ne fais pas ça*. Primo adopta infinito et secundo adopta indicativo presente. Italiano dice: *Non riceverei che persone che conoscessi bene* et francico dice: *je ne recevrais que des gens que je connaîlrais bien*. Primo ute subjunctivo et secundo ute conditionale. Italiano dice: *Credo che intendiate* et francico dice: *je crois que vous entendez*. Primo ute subjunctivo et secundo ute indicativo presente. Nos poteré multiplicare ad infinito isto exemplos extendendo illos ad omne alia lingua, sed id suffice ad monstrare que non es juxto judicare Interlingua comparando illa ad regulas grammaticale de una natione, nam omne natione habendo regulas grammaticale differente, non pote existere una grammatica conforme ad usus de omne populos, et nos debe solo simplificare ad maximo grammatica pro tollere ab illa omne difficultate, reducendo illa ad un minimo acceptabile ad omne.
-
-### PRETERITO
 
 Preterito (quod es simultaneo ad un tempore precedente) et futuro (quod es simultaneo ad un tempore posteriore) es idem forma de presente translato in un periodo differente; illos habe in sua essentia charactere commune de simultaneitate; solo differentia es que simultaneitate in presente habe relatione ad acto de parola, epocha primitiva, sine indicatione de relatione cum alia epocha, dum simultaneitate in preterito et futuro coincide cum un' epocha anteriore aut posteriore ad acto de parola. Ad exemplo, in periodo futuro (I): *Quando voi verrele io leggerò* (F.) *quand vous viendrez, je librai*), ista formula responde ad ista: quando vostra actione de venire es (esserà) facto, me pote (poterà) dicere: *me lege*.
 
@@ -295,3 +291,33 @@ Es opinione generale de interlinguistas que, si infinitivo debe essere indicato 
 
 Themate de verbo plus *-re* es equale in generale ad infinitivo latino; exceptiones es in numero ultra minimo et pote essere neglecto.
 
+### PRESENTE
+
+Indicativo presente es formato per solo themate de verbo sine suffixo. Exemplo: *Ama, lege, time, audi*.  
+
+### PRETERITO
+
+Preterito es formato aut in modo analitico per auxiliario *habere* + participio passivo (ex. *me habe facto*) aut per adjunctione de suffIxo *-ba* ad thema (ex. *me legeba*). Per suffixo *-ba* nos habe tempore imperfecto (passato indefinito) [Aliquo interlinguista sectatore de una majore puritate latina, in verbos que habe thema terminante in *-a* prefer preterito facto non per suffixo *-ba*, sed per suffixo *-vi*.].
+
+Pro indicare actione que perdura lice utero auxiliario essere, in differente formas de sua conjugatione, cum participio presente de omne verbo. Ex. *me es scribente* (A. *I am writing*), *me esseba scribente* (A. *I was writing*). Jam in latino nos inveni exemplos de usu analogo; ex: *erat cernens magnalia Dei — sum dicens*.
+
+### PARTICIPO PRESENTE
+
+Participio presente pote essere expresso, in omne lingua de Europa, aut per synthesi cum suffixo *-ente* aut per analysi, cum pronomine relativo *que*.
+
+Ambo modo es internationale.
+
+*Que* es thema de accusativo latino *quem* (nom. masc. *qui* et *quis*, fem. *quae*, neutro *quod* et *quid*, ablativo *quo*). Vive in linguas neolatina: F. *qui, que.* — H. *que, quien.* — I. *chi, che.* — P. *que, quem.* — Romano *ce.* Latino *que* existe etiam in greco, germanico, slavo; ergo habe plena internationalitate.
+
+*-ente*, quale suffixo de participio presente (cum forma *-nte* post themas in *a* et *e* et forma *-ente* post themas in *-i* aut consonante), existe in vocabulos commune ad linguas A, D, F, H, I, P, R. Ex.: *adjalanle, agente, assistente, coefficiente, concurrente, continente, correspondente, dissidente, emigrante, exponente, patiente, presidente, prefeudente, reagente, recipiente, regente, secante, studente, tangente, trascendente, transparente, variane*, etc.
+
+Participio presente pote, in loco de suffixo, essere expresso per uso de pronomine *que*.
+
+- pretendente = que pretende
+- correspondente = que corresponde, etc.
+
+### PARTICIPIO PASSIVO
+
+Pro participio pass. existe suffixo *-to*, que es latino et internationale, nam nos inveni illo in vocabulos que habe plena internationalitate. Isto suffixo es de usu commune in F. H. I. P., Romano; vive in greco internationale (anecdoto, antidoto, etc.), et in vocabulos commune ad A. D. F. H. I. P. R. Reducto ad *-t* es uso, etiam, in alia linguas.  
+
+In Interlingua participio passivo es formato per additione de suffixo *-to* ad themate, sed si forma sic obtenta differ ab participio passivo latino, lice adoptare participio latino, nam illo 
