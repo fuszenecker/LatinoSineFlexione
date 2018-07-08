@@ -16,6 +16,39 @@ REVISTA UNIVERSALE, 1913
 - P(ortuguez)
 - R(usso)
 
+## INDICE
+
+<!-- TOC -->
+
+- [MANUALE PRACTICO DE INTERLINGUA](#manuale-practico-de-interlingua)
+    - [ABBREVIATIONES](#abbreviationes)
+    - [INDICE](#indice)
+    - [BASE DE INTERLINGUA](#base-de-interlingua)
+    - [DE THEMA](#de-thema)
+        - [(1)](#1)
+        - [(2)](#2)
+        - [(3)](#3)
+        - [(4)](#4)
+        - [(5)](#5)
+        - [(6)](#6)
+    - [DE ARTICULO](#de-articulo)
+    - [DE VERBO](#de-verbo)
+        - [CONJUNCTIVO](#conjunctivo)
+        - [FUTURO](#futuro)
+        - [CONDITIONALE](#conditionale)
+        - [IMPERATIVO](#imperativo)
+        - [INFINITIVO](#infinitivo)
+        - [PRESENTE](#presente)
+        - [PRETERITO](#preterito)
+        - [PARTICIPO PRESENTE](#participo-presente)
+        - [PARTICIPIO PASSIVO](#participio-passivo)
+        - [GERUNDIO](#gerundio)
+        - [TEMPORES ANTERIORE](#tempores-anteriore)
+        - [PASSIVO](#passivo)
+    - [GENERE ET NUMERO](#genere-et-numero)
+
+<!-- /TOC -->
+
 ## BASE DE INTERLINGUA
 
 Interlingua habe base exclusivamente latina, non solum quia base commune de majore parte de linguas de Europa es latina, sed specialmodo quia latino es supranationale, id es acceptato ab omne populos, docto in omne schola superiore de toto mundo civile. Nulla alia lingua presenta isto charactere mundiale et ista neutralitate.
@@ -320,4 +353,43 @@ Participio presente pote, in loco de suffixo, essere expresso per uso de pronomi
 
 Pro participio pass. existe suffixo *-to*, que es latino et internationale, nam nos inveni illo in vocabulos que habe plena internationalitate. Isto suffixo es de usu commune in F. H. I. P., Romano; vive in greco internationale (anecdoto, antidoto, etc.), et in vocabulos commune ad A. D. F. H. I. P. R. Reducto ad *-t* es uso, etiam, in alia linguas.  
 
-In Interlingua participio passivo es formato per additione de suffixo *-to* ad themate, sed si forma sic obtenta differ ab participio passivo latino, lice adoptare participio latino, nam illo 
+In Interlingua participio passivo es formato per additione de suffixo *-to* ad themate, sed si forma sic obtenta differ ab participio passivo latino, lice adoptare participio latino, nam illo es quasi semper internationale. Ex: *lecto, uso, scripto*. Linguas hispana et portuguesa habe etiam 2 formas de participio pass.: forma regulare (*corregido, contraido, erigido, dirigido*), et forma irregulare, equale ad forma latina: *correcto, contracto, erecto, electo, directo*. Participio es indicato in *Vocabulario internalionale* de Basso et in omne vocabulario latino.
+
+### GERUNDIO
+
+Gerundio es formato per additione de suffixo *-ndo* ad themate (*-endo* post *-i*). Ex.: *amando, timendo, audiendo*. Isto suffixo es latino et vive in vocabulos commune ad A. D. F. H. I. P. R. et alias lingua de Europa.
+
+### TEMPORES ANTERIORE
+
+Tempores anteriore es formato per auxiliare *habere* (in diversa formas de sua conjugatione) cum participio passivo de verbo principale. Ex.: *me habe amato*, *me habeba amato*, etc.
+
+### PASSIVO
+
+Conjugatione passiva es facta per tempores correspondente de auxiliario *essere* cum participio pass. de verbo principale. Ex.: *me es amato*, etc.
+
+Ad thema de verbos *dic, duc, fac, fer, fi, es* lice adjungere desinentia *e* pro facilitare sua conjugatione: *es* fi tunc *esse*.
+
+Ex.: es + ente = essente; dic + ba = diceba; fi + re = fiere; fer + ndo = ferendo, sed fer + re = ferre.
+
+## GENERE ET NUMERO
+
+Questione de « genere» es multum complexa. Genere grammaticale es differente de una lingua ad alia et es derivato solum ex usu; nulla regula internationale existe. Creare un genere grammaticale es creare una difficultate per omne populo; adoptare genere latino es adjungere una difficultate enorme pro illos que non sci latino aut habe oblito generes latino, nam distinctione inter 3 generes grammaticale latino es saepe difficile etiam pro illos que olim habe cognito latino. Genere grammaticale es, ceterum, non solum artificiale sed etiam toto superfluo, nam non es necessario tribuere un sexu ad vocabulos.
+
+Pro istos argumentos, pro desiderio de obtinere maxima simplicitate pro omnes, multos interlinguistas non fac distinctione de genere in substantivo et hoc duce ad invariabilitate de adjectivo (ut in anglo) et de pronomines.
+
+Ista simplicitate non satisfac alios interlinguistas, que deplora dissonantias sicut: me*o* grammatica, tu*o* natione, tu*o* matre, un*o* lingua, ist*e* regula, etc.
+
+In modo speciale latinistas es offenso in suo sentimento linguistico audiendo ista dissonantia. *Interlingua*, que habe base latina, debe evitare de displicere ad illos que debe constituere primo et optimo elemento de propaganda et de successu.
+
+Pro evitare ista dissonantia sine introductione regulas difficile, D.° Pinth, interlinguista emerito, habe proposito regula que nos et alios interlinguistas habe adoptato.
+
+- Substantivo que indica ente de sexu femineo es feminino; omne alio es masculino [Ergo matre, filia, sorore etc. es feminino.].
+- Finale *o* de adjectivo, participio, pronomine es mutato ad *a* si illa es conjuncto cum substantivo, que indica ente de sexu feminino, aut substantivo que habe un de finales: *-a*, *-i*, *-ione*, *-tate*, *-tute*, *-tudine* et non exprime ente mascula.
+
+In latino omne substantivo cum finale *-a*, excepto circa 7 de usu ultra raro, es feminino; etiam illos cum finale *-ie*, excepto *meridie*, es feminino. Circa 960 substantivos cum finale *-ione* es, in latino, de genere feminino; solum circa 15, de usu multo raro (excepto *septentrione* et *papilione*), es masculino. Omnes cum finale *-tate*, *-tude*, *-tudine* es feminino. In ista numeratione non es incluso substantivos que exprime ente masculo, (sicut *poeta*, *geometra* etc.).
+
+Regula supradicta multum simplice servi ad non latinistas. Latinistas pote semper reddere feminino adjectivo secundum regula de grammatica latina que, sicut nos habe viso, concorda — excepto casus ultra raro — cum regula hic supra. 
+
+Plurale es facto per adjunctione de suffixo *-s* ad forma non mutata de singulare.
+
+-- N° XXVIII ES PAGINA SEQUENTE --
