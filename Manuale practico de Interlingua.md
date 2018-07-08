@@ -141,7 +141,11 @@ In Interlingua, ergo, *persona et numero de verbo es indicato per subjecto, sine
 
 Existe tres varietates de tempores verbale: presente, preterito et futuro, id es: quod es simultaneo ad momento in que nos loque, anteriore ad isto momento, posteriore ad ipso. Ista 3 varietates generale de tempore subdivide se in plure ramos secundo differente punctos de visu accessorio que pote essere combinato cum ideas generale et fundamentale de ista 3 varietates primitiva. Sed uno solo es tempore absoluto, id es tempore presente, tempore simultaneo ad nostra parola; alios duo es tempore relativo, relativo id es ad rapporto de comparatione cum tempore presente (Et in realitate verbo non esserè que expressione de una facultate, sine deliminatione de tempore nec de spatio; illos que grammaticas denomina tempores de verbo non es que momentos de tempo, precisato ab adverbios et locutiones adverbiale, expresso aut subaudito, et non ab verbo ipso que, sicut tempore, non habe limites. Quando nos dice *lunedie me vade ad Roma*, futuro es in *lunedie* et non in *vade*, et quando nos dice: *me loque italiano*, me non intende que me loque italiano in isto momento, sed que me sci loquere, habe locuto et loquerà italiano).
 
-Idea de presente non es susceptibile nec de magis nec de minus, sic un pote habere uno solo tempore presente ad omne modo de verbo. ln contrario preterito et futuro admitte plure gradus. Sed isto gradus non existe in omne lingua et etiam quando existe non es uso in casus equale. Italiano dice: « Non fare questo » et francico dice: *Ne fais pas ça*. Primo adopta infinito et secundo adopta indicativo presente. Italiano dice: *Non riceverei che persone che conoscessi bene* et francico dice: *je ne recevrais que des gens que je connaîlrais bien*. Primo ute subjunctivo et secundo ute conditionale. Italiano dice: *Credo che intendiate* et francico dice: *je crois que vous entendez*. Primo ute subjunctivo et secundo ute indicativo presente. Nos poteré multiplicare ad infinito isto exemplos extendendo illos ad omne alia lingua, sed id suffice ad monstrare que non es juxto judicare Interlingua comparando illa ad regulas grammaticale de una natione, nam omne natione habendo regulas grammaticale differente, non pote existere una grammatica conforme ad usus de omne populos, et nos debe solo simplificare ad maximo grammatica pro tollere ab illa omne difficultate, reducendo illa ad un minimo acceptabile ad omne. 
+### PRESENTE.
+
+Idea de presente non es susceptibile nec de magis nec de minus, sic un pote habere uno solo tempore presente ad omne modo de verbo. ln contrario preterito et futuro admitte plure gradus. Sed isto gradus non existe in omne lingua et etiam quando existe non es uso in casus equale. Italiano dice: « Non fare questo » et francico dice: *Ne fais pas ça*. Primo adopta infinito et secundo adopta indicativo presente. Italiano dice: *Non riceverei che persone che conoscessi bene* et francico dice: *je ne recevrais que des gens que je connaîlrais bien*. Primo ute subjunctivo et secundo ute conditionale. Italiano dice: *Credo che intendiate* et francico dice: *je crois que vous entendez*. Primo ute subjunctivo et secundo ute indicativo presente. Nos poteré multiplicare ad infinito isto exemplos extendendo illos ad omne alia lingua, sed id suffice ad monstrare que non es juxto judicare Interlingua comparando illa ad regulas grammaticale de una natione, nam omne natione habendo regulas grammaticale differente, non pote existere una grammatica conforme ad usus de omne populos, et nos debe solo simplificare ad maximo grammatica pro tollere ab illa omne difficultate, reducendo illa ad un minimo acceptabile ad omne.
+
+### PRETERITO.
 
 Preterito (quod es simultaneo ad un tempore precedente) et futuro (quod es simultaneo ad un tempore posteriore) es idem forma de presente translato in un periodo differente; illos habe in sua essentia charactere commune de simultaneitate; solo differentia es que simultaneitate in presente habe relatione ad acto de parola, epocha primitiva, sine indicatione de relatione cum alia epocha, dum simultaneitate in preterito et futuro coincide cum un' epocha anteriore aut posteriore ad acto de parola. Ad exemplo, in periodo futuro (I): *Quando voi verrele io leggerò* (F.) *quand vous viendrez, je librai*), ista formula responde ad ista: quando vostra actione de venire es (esserà) facto, me pote (poterà) dicere: *me lege*.
 
@@ -159,13 +163,9 @@ Discurso narra res futuro et res preterito, sed in fundo illo es semper ad prese
 
 Tempore presente pote ergo sufficere, secundo opinione de multos interlinguistas, ad exprimere qualecumque tempore simplice, ut es demonstrato ab sequente tabula comparativa.
 
-### ITALIANO.
+- ITALIANO: Io leggo — io leggeva — io lessi — io leggerò — leggi! — che io legga — che io leggessi — io leggerei (se tu scrivessi).
 
-Io leggo — io leggeva — io lessi — io leggerò — leggi! — che io legga — che io leggessi — io leggerei (se tu scrivessi).
-
-### INTERLINGUA.
-
-Me lege, me es legente — me jam lege — me jam jam lege, me lege heri, etc. — me post lege, me vole lege, me vade lege, me lege cras, etc. — lege! — que me lege — que me jam lege — me lege (si te scribe).
+- INTERLINGUA: Me lege, me es legente — me jam lege — me jam jam lege, me lege heri, etc. — me post lege, me vole lege, me vade lege, me lege cras, etc. — lege! — que me lege — que me jam lege — me lege (si te scribe).
 
 In lingua sinense tempores es formato in tale modo. Exemplo:
 
@@ -176,6 +176,8 @@ In lingua sinense tempores es formato in tale modo. Exemplo:
 Ista simplificatione in conjugatione duce ad grammatica nulla aut quasi, et habe suo sectatores. Sed majoritate de interlinguistas prefer adaptare aliquo suffixo pro indicare tempores de verbo, que es veromodo necessario.
 
 Modos et tempores non necessario, que es jam suppresso in linguas nationale aut uso in modo differente in differente linguas, pote essere suppresso.
+
+### CONJUNCTIVO.
 
 Ergo Interlingua supprime modo conjunctivo et substitue indicativo ad conjunctivo, nam tempores de conjunctivo non es alio quam tempores fictitio, tempores artificiale. Nec lingua angla nec lingua russa habe forma speciale pro conjunctivo. Anglo dic pro modo indicativo: *I love* (me ama) et pro modo conjunctivo: *though I love* (quanquam me ama), *if I love* (si me ama, in casu que me ama), *that I may love* (que me ama). Lingua russa, forma conjunctivo per voce *que* ante indicativo. Francico ute in modo indicativo omne verbo de propositione subordinata, exprimente, indipendenti ab id que precede, un facto positivo aut presentato ut certo; solum illo adopta conjunctivo si facto es dubioso, enunciato sine affirmatione, non presentato ut certo; dum italiano ute conjunctivo in ambo casus. Deutsch, etiam, ute indicativo in multo casus in que italiano ute conjunctivo. F. et A. ute imperfecto in loco de conjunctivo in formas sicut: *si me polerè*, dum I. ute conjunctivo: I. dic *se potesse* (si poterè) et F. dic *si pouvait* (si poteba).
 
@@ -195,10 +197,98 @@ Factos non affirmato.
 - Me crede, me es convicto que te es auctore de illo facto. Uno habe dicto ad me que te es auctore de isto facto.
 - In quantum me sci, illo non es, non debe essere auctore de...
 
+### FUTURO.
+
 Etiam un suffixo pro tempore futuro es toto superfluo.
 
 Lingua angla, que es (inter modernas) lingua plus philosophica de Europa, specialmodo in conjugatione de verbo, non habe un suffixo speciale pro tempore futuro. Isto tempore es formato per auxiliarios *shall* (debere) et *will* (volere).
 
 Futuro simplice es formato in deutsch cum presente (indicativo aut conjunctivo) de *werden* + indefinito de verbo ad conjugare. Ex.: I. *io loderò* = D. *ich werde loben*.
 
--- SEQUENTE: PAGINA XVIII --
+ln russo, futuro simplice es obtento cum futuro de verbo essere + infinito indeterminato (verbo russo habe 2 infinitos) de verbo ad conjugare, aut cum presente de infinito determinato, et, in isto casus, actione es determinata ab prefixos que modifica verbo et es, ergo, bene precisata et circonscripta.
+
+ln lingua romana (de Romania) futuro es formato cum auxiliario *volere*. Exemplo:
+
+- *A tacea* = *tacere*
+- *Voi tacere* (litteralmodo: vole tacere) = tacerà.
+
+In lingua dano-norvegiana futuro es formato cum auxiliarios *at ville* et *at skulle*. Primo, *at ville*, indica una voluntate, un desiderio de illo que loque, dum *al skulle* implica un débito, aut indica que una re evenirà per lege de natura, per habitudine, non quia depende ab voluntate de subjecto. Exemplos:
+
+- Ieg *vil* have Penge = me haberà (vole habere, quia me obligarà ad dare) pecunia.
+- Ieg *skal* have Penge = me haberà (debe habere, quia esserà data) pecunia.
+
+In lingua nederlandscha futuro es formato cum auxiliario *zullen*. In lingua svenska futuro es formato cum verbo *skola* (debère) aut alio auxiliario.
+
+Si futuro es proximo, substitutione de illo cum tempore presente eveni etiam in omne alia principale lingua de Europa. Exemplo: (I.) domani *vado* a caccia — *sta* per uscire di prigione — *è* in procinto di intraprendere un gran viaggio — domani *è* festa — *andate* al teatro stasera? — *pranzate* in città? F. nous *allons* voir — nous *allons* commencer.
+
+D. morgen *gehe* ich auf die Jagd — kommt bald aus dem Gefangnis.
+
+Idem in H. et P.
+
+Quando un verbo in futuro es precesso ab conjunctione *si* aut ab vocabulos que indica tempore, sicut fi per vocabulos *quando, dum, cito post quam,* etc. isto futuro pote semper es verso cum presente de indicativo. Ex. *si me vide illo, me da vestra litera*. Nulla errata interpretatione es possibile circa futuro de ista actione, quamquam indicata per tempore presente. Anglo verterè: *If I see him*, etc., et etiam Italo pote dicere: *Quando lo vedo gli do la vostra lettera*.
+
+Omne alia forma de futuro, in italiano, hispano et portugueso resulta semper ex infinito de verbo conjugando + voce de verbo auxiliario, *conjuncto in un solo vocabulo*, cum aliqua alteratione in ulla personas. Sic ad ex:
+
+- in I. avrai = av(e)r + (h)ai
+- in I. avrò = av(e) + (h)o
+- in H. amarè = amar + (h)e
+- in H. amaras = amar + (h)as etc.
+
+Interlingua adopta forma analytica et fac futuro per auxiliarios *essere, habere, fiere, vàdere, debère*, que es systemate magis facile et expressivo quam systemate desinentiale, et obtine futuro per infinito + auxiliario *habere* in modo ut supra, adjungendo ad themate de verbo suffixo *-rà*, id es
+
+- me amarà = amar + (h)a(be)
+- me legerà = leger + (h)a(be)
+
+Ambo systemates es internationale; extra ista duo formas uno pote habere solum solutiones artificiale, conventionale.
+
+### CONDITIONALE.
+
+Etiam tempore conditionale pote essere obtento per duo formas.
+
+In A. conditionale es formato per tempore preterito de auxiliarios *shall* aut *will* + infinito de verbo conjugando (ex. *I should write* a letter to my friend [*scriverei* una lettera al mio amico] = me *debeba scribere* una littera ad meo amico = me *deberè seribere*, etc.).
+
+In D. conditionale es formato per imperfecto de subjunctivo de *werden* + indefinito de verbo conjugando.
+
+In R. conditionale non existe, sicut non existe subjunctivo: illos es substituto per preterito de indicativo cum sua 2 formas et 2 significatus [Verbo russo habe solum un preterito, un presente et un futuro, sed quia pote formare ex 2 differente infinitos, reali illo habe 2 specie de preterito, 2 de futuro et uno presente. Desinentias do 2 preteritos es identica, et de 2 futuros, uno habe forma et desinentia de presente, alio es obtento per futuro de verbo *essere* et infinito de verbo conjugando, et sic uno habe una sola forma pro preterito et una pro presente (cum significatu de futuro pro verbos perfecto) sine vera et propria forma pro futuro.]. ln lingua dano-norvegiana; conditionale es formato per preterito de verbos auxiliarios *vilde* et *skulde*.
+
+ln lingua svenska es formato per infinito presente de verbo et imperfecto indicativo de auxiliario *skola*.
+
+In lingua nederlanska, conditionale es formato per infinito de verbo + auxiliario *zullen*.
+
+Etiam in I. conditionale es formato per infinito de verbo conjugando + auxiliario, sed conjuncto in un solo vocabulo, sicut nos habe jam viso pro futuro.
+
+- avrei = av(e)r + (av)ei
+- avesti = av(e)r + (av)esti
+- avrebbe = av(e)r + ebbe
+
+In francico, hispano et portugueso es sicut in italiano.
+
+Sicut pro futuro Intorlingua admitte sive forma analytica (imperfecto de auxiliario + infinito de verbo conjugando, ex: *me debeba scribere* — I. *io scriverei* — A. *I should write* — F. *j'écrirais*, etc.); sive forma desinentiale per suffxo *-rè* adjuncto ad themate de verbo conjugando (ex: *me scriberè* =  *me debeba scribere* etc. sicut es in exemplo supra).
+
+In propositione subordinata exprimente conditione, es melio utere semper indicativo, nam usu de conditionale es vero pleonasmo. Ex. *si non plue me vade ad theatro*. Sensu de ista propositione es perfectomodo equale expresso cum indicativo, ut in nostro exemplo, quam si expresso per conditionale: *si non pluerè me vaderè ad theatro*. Prima forma es meliore nam illa elimina un suffixo inutile.
+
+### IMPERATIVO.
+
+Modo imperativo es obtento sine suffxo speciale. Pro forma negativa es multo commodo usu de infinitivo in sensu imperativo: *Non desperare!* Usu de infinitivo in isto casus vige in plure linguas.
+
+In alio casus Interlingua ute presente indicativo pro imperativo: absentia de subjecto distingue forma imperativa. Ex. *scribe* — *excusa*.
+
+Forma imperativa pote saepe essere indicata et per puncto exclamativo: *labora!*
+
+In alio casus imperativo (un imperativo attenuato) pote essere formato per antepositione*de* aut *que*.
+
+Un suffixo speciale pro imperativo es, ergo, toto superfluo.
+
+### INFINITIVO.
+
+Infinitivo es formato, in Interlingua, per adjunctione de suffixo *-re* ad themate de verbo.
+
+Es opinione generale de interlinguistas que, si infinitivo debe essere indicato per suffixo, isto suffixo es latino *-re*, vivente integro aut reducto ad *-r* in linguas neo latina. Exemplo:
+
+- I.: amare, vedere, sentire, lodare.
+- F.: aimer, finir, rendre, recevoir.
+- H.: hablar, temer, subir, querer.
+- P.: ser, estar, ter, haver.
+- Romano (forma longa) : dare, avere, fire, cantare
+
+Themate de verbo plus *-re* es equale in generale ad infinitivo latino; exceptiones es in numero ultra minimo et pote essere neglecto.
