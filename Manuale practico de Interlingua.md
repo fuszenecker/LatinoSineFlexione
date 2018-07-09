@@ -447,6 +447,16 @@ Exemplo: ex adjectivo *solo* es facto adverbio *solum* aut *solomodo*, ex *veloc
 
 ## NUMERATIONE
 
-Numeros cardinale es sicut in latino, 1 *uno*, 2 *duo*, 3 *tres*, 4 *quattuor*, 5 *quinque*, 6 *sex*, 7 *septem*, 8 *octo*, 9 *novem*, 10 *decem*, 20 *viginti*, 30 *triginta* 
+Numeros cardinale es sicut in latino, 1 *uno*, 2 *duo*, 3 *tres*, 4 *quattuor*, 5 *quinque*, 6 *sex*, 7 *septem*, 8 *octo*, 9 *novem*, 10 *decem*, 20 *viginti*, 30 *triginta*, 40 *quadraginta*, 50 *quinquaginta*, 60 *sexaginta*, 70 *septuaginta*, 80 *octoginta*, 90 *nonaginta*, 100 *centum*, 1000 *mille*, 1.000.000 *millione* (millione es uso in latino posteriore).
 
--- PAGINE XXXI VENI HIC --
+Nos forma ceteros numeros per juxtapositione de numeros precedente: 11 *decem-uno*, 12 *decem-duo*, 13 *decem-tres*, 18 *decem-octo*, 19 *decem-novem*, 21 *viginti-uno*, 22 *viginti-duo*, 101 *centum (et) uno*, 102 *centum (et) duo*, 200 *duo cento*, 300 *tres cento* etc.
+
+Numeros ordinale latino et internationale: 1° *primo*, 2° *secundo*, 3° *tertio*, 4° *quarto*, 5° *quinto*, 6° *sexto*, 7° *septimo*, 8° *octavo*, 9° *nono*, 10° *decimo*, 20° *vigesimo*, 30° *trigesimo*, 40° *quadragesimo*, 50° *quinquagesimo*, 60° *sexagesimo*, 70° *septuagesimo*, 80° *octogesimo*, 90° *nonagesimo*, 100° *centesimo*, 1000° *millesimo*, 1.000.000° *millionesimo*.
+
+Ceteros numeros es formato per juxtapositione de numeros precedente: 45° *quadragesimo quinto*, 58° *quinquagesimo octavo* etc. Sed lice dicere *quadraginta quinto*, ''quinquaginta octavo* etc. utendo, pro simplificare, numeros cardinale in loco de numeros ordinale, excepto pro ultimo vocabulo: 345° *tres cento quadraginta quinto*, in loco de *tertio centesimo quinto*.
+
+Numeros multiplicativo es formato per circonlocutione: *uno vice* (L. *semel*), *duo vice* (L. *bis*), *tres vice*, etc.
+
+Isto systemate de numeratione habe utilitate de essere quasi tam simplice quam alios proposito, sed formato solum per vocabulos latino.
+
+-- PAGINA XXXII VENI HIC --
