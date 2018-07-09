@@ -46,6 +46,10 @@ REVISTA UNIVERSALE, 1913
         - [TEMPORES ANTERIORE](#tempores-anteriore)
         - [PASSIVO](#passivo)
     - [GENERE ET NUMERO](#genere-et-numero)
+    - [COMPARATIONE](#comparatione)
+    - [PRONOMINES](#pronomines)
+    - [DE ADVERBIO](#de-adverbio)
+    - [NUMERATIONE](#numeratione)
 
 <!-- /TOC -->
 
@@ -373,7 +377,7 @@ Ex.: es + ente = essente; dic + ba = diceba; fi + re = fiere; fer + ndo = ferend
 
 ## GENERE ET NUMERO
 
-Questione de « genere» es multum complexa. Genere grammaticale es differente de una lingua ad alia et es derivato solum ex usu; nulla regula internationale existe. Creare un genere grammaticale es creare una difficultate per omne populo; adoptare genere latino es adjungere una difficultate enorme pro illos que non sci latino aut habe oblito generes latino, nam distinctione inter 3 generes grammaticale latino es saepe difficile etiam pro illos que olim habe cognito latino. Genere grammaticale es, ceterum, non solum artificiale sed etiam toto superfluo, nam non es necessario tribuere un sexu ad vocabulos.
+Questione de « genere » es multum complexa. Genere grammaticale es differente de una lingua ad alia et es derivato solum ex usu; nulla regula internationale existe. Creare un genere grammaticale es creare una difficultate per omne populo; adoptare genere latino es adjungere una difficultate enorme pro illos que non sci latino aut habe oblito generes latino, nam distinctione inter 3 generes grammaticale latino es saepe difficile etiam pro illos que olim habe cognito latino. Genere grammaticale es, ceterum, non solum artificiale sed etiam toto superfluo, nam non es necessario tribuere un sexu ad vocabulos.
 
 Pro istos argumentos, pro desiderio de obtinere maxima simplicitate pro omnes, multos interlinguistas non fac distinctione de genere in substantivo et hoc duce ad invariabilitate de adjectivo (ut in anglo) et de pronomines.
 
@@ -392,4 +396,57 @@ Regula supradicta multum simplice servi ad non latinistas. Latinistas pote sempe
 
 Plurale es facto per adjunctione de suffixo *-s* ad forma non mutata de singulare.
 
--- N° XXVIII ES PAGINA SEQUENTE --
+*-S* es signo characteristico de plurale in indo-europeo primitivo et in sanscrito. Greco et latino habe isto signo in omne declinatione. 
+
+*-S* es signo de plurale in anglo, in franco, hispano et portugueso, id es in 4 super 7 principale linguas de Europa, et ista 4 linguas es locuta in 28 aut 29 nationes, que forma un totale de 350 millione de homines. 
+
+Signo de plurale *pote* essere omisso quando ambiguitate non pote nascere. Ex.: in propositiones, *duo oculo*, *tres die*, etc. plurale es jarn implicito in numero, et repetitione es superflua. Illa pote essere facta aut non, secundum gustu de scriptore. Ipsa repetitione es inutile — sed licita — quando plurale es jam indicato in substantivo; ex.: *divite familias*, *isto agros*, etc. 
+
+Aliquo interlinguista, sectatore de una majore puritate latina, forma plurale mutando finale *-a* ad *-ae*, *-o* ad *-i*, adjungendo *-s* solum ad finales *-e* et *-u*. ln isto modo forma plurale in Interlingua corresponde ad forma latina, excepto pro pauco vocabulos neutro, sed quasi totalitate de interlinguistas prefer plurale semper equale in *-s*.
+
+## COMPARATIONE
+
+Comparatione es facta in primo gradu per: *tam... quam* (*illo es tam habile quam te)*; insecundo gradu per: *magis... quam* (*illo es magis habile quam te*) aut: *plus... quam*, *minus... quam*; in tertio gradu (superlativo) per: *maxin de...*, *minim de...*
+
+Adjectivos sequente pote formare comparativo et superlativo in isto modo:
+
+- bono — meliore — optimo
+- malo — pejore — pessimo
+- (magno — majore — maximo *[addito ad lectore secundum Interlingua de Gode]*)
+- parvo — minore — minimo.
+
+## PRONOMINES
+
+- Pronomines personales: *me, te, nos, vos*. Isto pronomines es latino et habe completa internationalitate.
+- Pronomines demonstrativo:
+
+  - *isto, illo, ipso*. (Isto pronomines es latino [ablativo] et habe internationalitate F. H. T. P.; non existe alia forma cum internationalitate majore);
+  - *que* [thema de accusativo latino *quem*] (*que* es indo-europeo, nam existe in greco, germanico, slavo et vive in linguas neo-latina F. *qui, que*, I, *chi che*, P. *que, quem*).
+  - id, idem.
+
+- Pronomines relativo aut conjunctivo: *qui* (= homo *que*); *quod* (= re *que*).
+- Pronomines possessivo: *meo*, *tuo*, *suo*, *nostro*, *vestro*.
+- Pronomine reflexivo: *se*.
+- Pronomines indefinito: *un*, *uno*. (*Uno* es vocabulo latino [numero], sed non es latino suo usu ut pronomine indefinito [A. *one*... tells, F. *on*... dit, D. *man*... sagt, I. *si*... dice], tamen usu in isto sensu es satis claro et internationale), *ullo*, *omne* (aut *omni*), *aliquo*, *nullo*, *nemo*.
+
+In materia de pronomines Interlingua habe selecto nunc uno nunc alio casu latino, secundum gradu de internationalitate et de majore intelligibilitate ad illos que non sci latino.
+
+## DE ADVERBIO
+
+Academia pro Interlingua non habe usque hodie discusso questione de adverbio, sed, acceptata base latina pro Interlingua, questione es reducta ad obtinere in modo plus simplice et cum regula semper equale, una forma plus latina quam possibile.
+
+Suffixo *-mente*, que es vocabulo latino non es commendando, nam si nos decompone adverbio formato cum isto suffixo, nos obtine saepe una absurditate. Suffixo *-mente* habe significatu de: *cum mente...*: *cordialmente* = *cum mente cordiale*, *habilmente* = *cum mente habile* etc.; sed quando nos dice: *machina curre velocemente*, nos non intende que machina curre *con mente veloce*, sed *in modo veloce*.
+
+Suffixo *-modo* non produce tale nonsensu et illo es adaptabile in omne casu, sed forma sic obtenta es rarum simile ad forma latina.
+
+Nos habe adoptato regula sequente:
+
+« Ex adjectivo nasce adverbio per mutatione de finale *-o* ad *-um* et de finale *-e* ad *-i*, aut per adjunctione de suffixo *-modo* ad forma non mutata de adjectivo. »
+
+Exemplo: ex adjectivo *solo* es facto adverbio *solum* aut *solomodo*, ex *veloce* es facto *veloci* aut *velocemodo* (= *in modo veloce*).
+
+## NUMERATIONE
+
+Numeros cardinale es sicut in latino, 1 *uno*, 2 *duo*, 3 *tres*, 4 *quattuor*, 5 *quinque*, 6 *sex*, 7 *septem*, 8 *octo*, 9 *novem*, 10 *decem*, 20 *viginti*, 30 *triginta* 
+
+-- PAGINE XXXI VENI HIC --
