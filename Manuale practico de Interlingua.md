@@ -50,6 +50,11 @@ REVISTA UNIVERSALE, 1913
     - [PRONOMINES](#pronomines)
     - [DE ADVERBIO](#de-adverbio)
     - [NUMERATIONE](#numeratione)
+    - [PRONUNTIATIONE](#pronuntiatione)
+    - [ACCENTU TONICO](#accentu-tonico)
+    - [SYNTAXE](#syntaxe)
+- [SPECIMEN DE VERSIONE](#specimen-de-versione)
+    - [PROGRESSU](#progressu)
 
 <!-- /TOC -->
 
@@ -459,4 +464,93 @@ Numeros multiplicativo es formato per circonlocutione: *uno vice* (L. *semel*), 
 
 Isto systemate de numeratione habe utilitate de essere quasi tam simplice quam alios proposito, sed formato solum per vocabulos latino.
 
--- PAGINA XXXII VENI HIC --
+## PRONUNTIATIONE
+
+In questione de pronuntiatione opinione de interlinguistas es diversa. Academia pro Interlingua, in 1910, habe adoptato pronuntiatione antiqua, que es contra pronuntiatione internationale moderna de vocabulos derivato ex latino et de lingua latina ipsa. Nullo populo moderno pronuntia vocabulos de sua propria lingua derivatos ex latino, secundum regulas de pronuntiatione latina antiqua et una lingua internationale non pote ire contra internalionalitate sic generale.
+
+Nos crede que pronuntiatione non debe constituere difficultate et que una parva latitudine es optanda. Pronuntiatione antiqua pote respondere ad rationes historica, sed illa es negatione de principio de internationalitate et redde irrecognoscibile vocabulos ad ipso aures de populos neo-latino. Curia Romana que ute et hodie currentemodo latino pro suo actos, non ute pronuntiatione classica sed moderna; in Francia latino es pronuntiato etiam in modo moderno et existe ibi una currente que pete adoptione de pronuntiatione italiana moderna de latino. Ante plure annos Curia Romana precaba Episcopos non italiano de introducere in Seminarios pronuntiatione italiana de latino.
+
+Comitatu linguistico de *Unione pro Interlingua* habe adoptata una via media, admittendo una latitudine acta ad conciliare varia differentias de pronuntiatione, pro reddere ista plus facile ad omne populo.
+
+- **a, e, i, o, u** habe sono sicut in italiano et germano;
+- **y** = *u* franco, *ü* germano. Illos, que judica isto sono difficile pote pronuntiare *i*;
+- **c** ante *e, i, y, æ, œ* = *c* in italiano civile = *tch* in anglo *match*, sed lice pronuntiare ut in germano (*ts*) aut *ss*;
+- **c** ante *a, o, u* = *k*;
+- **g** ante *e, i, y, æ, œ* sona sicut *g* in italiano *giro* et in anglo *gentlemen*, ut *dj* in francico *adjutant*;
+- **g** ante *a, o, u* sona sicut in vocabulo *gala*;
+- **h indica aspiratione, ut in D. A. sed lice supprimere aspiratione;
+- **æ, œ** es pronuntiato ut *e* in italiano *celere*;
+- **j** sona ut in italiano et in germano (= *i* consonante);
+- **s** sona ut in italiano *salute*, in anglo et francico *salutation*. ln quasi omne lingua de Europa *s* inter duo vocales habe sono dulce ut in italiano *rosa*, in anglo et franco *rose*. Es una irregularitate non necessaria, sed pro sua quasi completa internationalitate, suo usu non impedi intelligentia;
+- **v** sona sicut *v* in anglo, franco, italo, *w* in germano;
+- **gn** pote essere pronuntiato sive in modo litterale (id es cum sono separato *g* + *n*) sive ut in italiano *ogni*;
+- **sc** ante *e, i, y, æ, œ* =	A. *sh*, F. *ch*, D. *sch*;
+- **ti** ante vocale sona ut *zi* in italiano quando es precesso ab *s*, *t*, *x* et in pauco alia exceptiones (ut *tiara* etc.);  
+- **ch** sona sicut *k*;
+- **th** = *th* de vocabulo A. *thank*, simplificabile in sono = *t*;
+- **ph** = *ph* in vocabulo A. *clapham* (id es clap-ham), simplificabile in sono = *f*;
+- **qu**, que es semper secuto ab vocale, sona ut in I. *qui*, in F. *qu' oui*.
+
+## ACCENTU TONICO
+
+Accentu tonico non es indicato in scriptura, sed es indicato in omne Vocabulario latino, in *Vocabulario Internationale* de Basso, 2ᵃ editione, et in *Vocabulario Deutsch-Interlingua* de Pinth.
+
+Aliquo interlinguista es fautore de una pronuntiatione uniforme, sed in primo loco uniformitate de pronuntiatione, ultra ad reddere illa monotona et cacophonica, duce ad monstruositate, ut ocùlo, tabùla, angèlo, angùlo etc. que haberé pronuntiatione nec latina, nec internationale, et in secundo loco nos non pote adoptare latino ut lingua Internationale et deformare sua pronuntiatione in modo ad reddere illo irrecognoscibile ad aure ipso de latinistas.
+
+Fautores de Interlingua adopta in generale accentu latino. Pauca practica et comparatione cum pronuntiatione in propria lingua de singula varietate de vocabulos disce pronuntiatione de Interlingua. Illa, ceterum, es indicata in omne vocabulario latino.
+
+Accentu latino habe regulas sequente:
+
+- Omne vocabulo que habe duo solo vocales, habe accentu super prima vocale (*rósa*, *pátre*).
+- Nullo vocabulo, de 2 aut plus syllabas, habe accentu super ultima syllaba nec ante antepenultima.
+- Omne vocabulo cum tres aut plus vocale, habe accento super penultima si ista es longa et super antepenultima, si penultima es breve. Vocabulario latino indica vocale longa per signo ¯ et breve per signo ˘.
+- Si penultima syllaba termina per consonante, accento es super ista. Ex.: *adjúnc-to*, *agén-te*, *consonán-te*, *accidén-te*, *gemén-do*.
+
+Plure alio fautores de lingua internationale propone accentu super penultima vocale (Esperanto etc.), cum varia exceptiones (Ido).  
+
+## SYNTAXE
+
+Syntaxe in Interlingua es reducta ad ista regula unica: adoptare ordine plus claro (que es, in generale: subjecto, verbo, complemento directo aut objecto) et evitare inversiones. Quando es necesse ponere complemento directo (objecto) in initio de propositione, ordine meliore es sequente: complemento, subjecto, verbo. Ex.: *Quale amico vos habe viso?*
+
+Syntaxe de omne lingua neo-latina aut germanica pote essere secuta, observando principios sequente:
+
+- sequere ordine plus logico (subjecto logico es illo ab que abi cogitatione). Es ergo naturale ponere pro primo subjecto logico, et post ordi nare cogitationes generalmodo in ordine ipso in que illas presenta se ad spiritu; - evitare idiotismos et expressiones metaphorica que non es universali intelligibile;
+- supprimere omne vocabulo et particula que non es necessario ad intelligentia.
+
+# SPECIMEN DE VERSIONE
+
+Isto textu, publicato ab un diurnale belga, evolve argumentos de tota modernitate. Tamen illo es verso cum facilitate in Interlingua clara et elegante et formata cum solo vocabulos latino, excepto pauco vocabulos moderno que habe plena internationalitate sub forma de lingua originale.
+
+## PROGRESSU
+
+Ecce me cum septuaginta anno.
+
+ln meo primo annos, me habe cognito homines, que habeba, in illo tempore, etate que me habe hodie.
+
+Quando illos loqueba de suo progenitores, illos diceba: "Oh! si nostro patres reveni in terra, quale esserè sua stupefactione ante ista ferrovias cum rapida locomotivas, ante isto aerostatos ubi homines audace aude scandere celo: ante ista naves sino velo nec remo, que solo igne move!"
+
+Post epocha in que illos haberè sic locuto, alio homines viveba, ad suo vice, suo 70 annos; ad suo vice illos dic: "Ah! si nostro patres reveni in terra, quale esserè stupore de illos ante aeroplano, dirigibile et nave submarino!"
+
+Illos que teneba harpichordo et piano-forte ut mirabilia insuperabile, quid diceré ad auditione de phonographo que scribe voce de illos et conserva antiquo canticos, que esserà forsan possibile reproducere dum plure seculos?
+
+Crederé illos ad realitate de telephono?
+
+Et telegraphia sine filo, que super oceanos uni instantaneo vetere Europa ad juvene America?
+
+Et cinematographo cum photographia in colores?
+
+Pelliculas (films) projectante supra linteo, gratia ad electricitate aut ad luce oxhydrico, vita de infinitesimos, et que permitte studio de infusorios, inter alios de isto flagellato ad longa cauda que es trypanosoma ad quale es attributo (hodie) morbo de somno!
+
+Non es absoluti mirabile que, gratia ad arte de fabricantes de objectivos, es constructo lentes – ad exemplo, objectivos apochromatico cum immersione ad monobromuro de naphtalina – que permitte de amplificare un objecto plus de 3000 vice dimensione lineare, quod, in superficie, da una amplificatione proportionale ad 3000²?
+
+Gratia ad hoc homine retrocede, in modo constante, limites de sua penetratione in magno secreto de vita.
+
+Post habere instructo, cinematographo recrea homine moderno; illo evolve sub suo oculos nunc scenas jucundo de carnevale de Nicea, nunc virtute de *jockeys* ad cursas de Epsom, ubi natatione vigoroso de *outtriggers* subtile ed de *clippers* ad arboratura leve, aut etiam vicissitudines de *polo*, de *foot-ball*, de *cricket*, de *tennis* inter magno championes mundiale; nunc etiam reproduce scenas prehenso apud Indianos de *Far-West*, aut excercitios militare de Nipponia, impressionante positiones in batteria de artilleria equitante, de que leve cannones ad jactu rapido, vome grandine de *shrapnels*; post explica terras quiescente ubi frondes luxuriante tege elegante villas, ubi accessu es facilitato per tramways electrico.
+
+Es cum utilizatione de quantitate de productos naturale incognito ad antiquos, que scientia fac simile progressus; in particulare *caoutchouc* et guttapercha es jam et es et hodie indispensabile; post terras raro, ut osmio, de que sales metallico habe permisso de fabricare reticulas *Auer*, gratia ad que, potestate illuminante de gas attinge intensitate que pote superare illa de electricitate.
+
+Istos productos diverso et pretioso es distributo super tota superficie de nostro globo.
+
+Pro invenire et utilizare illos, esseba necesse que homine perveni ad percurrere omne parallelos de suo dominio terrestre, pro prehendere de illo, de plus in plus, possessione in modo completo.
+
+Jam, ab plus alto antiquitate illo incipeba ad explorare isto dominio, sed nos pote dicere que solum in isto ultimos seculos illo circumnaviga sphera terrestre; hiberna in regiones polare, boreale et australe; scande summitates plus elevato, ut illo de *Gaurisankar*, alto quasi 9 kilometros; explora abyssos de Pacifico; excava crusta terrestre pro ire ad attingere, in visceras de nostro rotundo globo, carbone fossile et petroleo, tacto in fine quasi toto quod es accessibile usque ad corde de omne continente.
