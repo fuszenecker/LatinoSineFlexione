@@ -551,3 +551,6 @@ Istos productos diverso et pretioso es distributo super tota superficie de nostr
 Pro invenire et utilizare illos, esseba necesse que homine perveni ad percurrere omne parallelos de suo dominio terrestre, pro prehendere de illo, de plus in plus, possessione in modo completo.
 
 Jam, ab plus alto antiquitate illo incipeba ad explorare isto dominio, sed nos pote dicere que solum in isto ultimos seculos illo circumnaviga sphera terrestre; hiberna in regiones polare, boreale et australe; scande summitates plus elevato, ut illo de *Gaurisankar*, alto quasi 9 kilometros; explora abyssos de Pacifico; excava crusta terrestre pro ire ad attingere, in visceras de nostro rotundo globo, carbone fossile et petroleo, tacto in fine quasi toto quod es accessibile usque ad corde de omne continente.
+
+----
+[Editione electronic](https://github.com/fuszenecker/LatinoSineFlexione/blob/master/Manuale%20practico%20de%20Interlingua.md)
