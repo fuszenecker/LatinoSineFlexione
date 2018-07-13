@@ -181,7 +181,7 @@ In Interlingua, ergo, *persona et numero de verbo es indicato per subjecto, sine
 
 Existe tres varietates de tempores verbale: presente, preterito et futuro, id es: quod es simultaneo ad momento in que nos loque, anteriore ad isto momento, posteriore ad ipso. Ista 3 varietates generale de tempore subdivide se in plure ramos secundo differente punctos de visu accessorio que pote essere combinato cum ideas generale et fundamentale de ista 3 varietates primitiva. Sed uno solo es tempore absoluto, id es tempore presente, tempore simultaneo ad nostra parola; alios duo es tempore relativo, relativo id es ad rapporto de comparatione cum tempore presente (Et in realitate verbo non esserè que expressione de una facultate, sine deliminatione de tempore nec de spatio; illos que grammaticas denomina tempores de verbo non es que momentos de tempo, precisato ab adverbios et locutiones adverbiale, expresso aut subaudito, et non ab verbo ipso que, sicut tempore, non habe limites. Quando nos dice *lunedie me vade ad Roma*, futuro es in *lunedie* et non in *vade*, et quando nos dice: *me loque italiano*, me non intende que me loque italiano in isto momento, sed que me sci loquere, habe locuto et loquerà italiano).
 
-Idea de presente non es susceptibile nec de magis nec de minus, sic un pote habere uno solo tempore presente ad omne modo de verbo. ln contrario preterito et futuro admitte plure gradus. Sed isto gradus non existe in omne lingua et etiam quando existe non es uso in casus equale. Italiano dice: *« Non fare questo »* et francico dice: *Ne fais pas ça*. Primo adopta infinito et secundo adopta indicativo presente. Italiano dice: *Non riceverei che persone che conoscessi bene* et francico dice: *je ne recevrais que des gens que je connaîlrais bien*. Primo ute subjunctivo et secundo ute conditionale. Italiano dice: *Credo che intendiate* et francico dice: *je crois que vous entendez*. Primo ute subjunctivo et secundo ute indicativo presente. Nos poterè multiplicare ad infinito isto exemplos extendendo illos ad omne alia lingua, sed id suffice ad monstrare que non es juxto judicare Interlingua comparando illa ad regulas grammaticale de una natione, nam omne natione habendo regulas grammaticale differente, non pote existere una grammatica conforme ad usus de omne populos, et nos debe solo simplificare ad maximo grammatica pro tollere ab illa omne difficultate, reducendo illa ad un minimo acceptabile ad omne.
+Idea de presente non es susceptibile nec de magis nec de minus, sic un pote habere uno solo tempore presente ad omne modo de verbo. In contrario preterito et futuro admitte plure gradus. Sed isto gradus non existe in omne lingua et etiam quando existe non es uso in casus equale. Italiano dice: *« Non fare questo »* et francico dice: *Ne fais pas ça*. Primo adopta infinito et secundo adopta indicativo presente. Italiano dice: *Non riceverei che persone che conoscessi bene* et francico dice: *je ne recevrais que des gens que je connaîlrais bien*. Primo ute subjunctivo et secundo ute conditionale. Italiano dice: *Credo che intendiate* et francico dice: *je crois que vous entendez*. Primo ute subjunctivo et secundo ute indicativo presente. Nos poterè multiplicare ad infinito isto exemplos extendendo illos ad omne alia lingua, sed id suffice ad monstrare que non es juxto judicare Interlingua comparando illa ad regulas grammaticale de una natione, nam omne natione habendo regulas grammaticale differente, non pote existere una grammatica conforme ad usus de omne populos, et nos debe solo simplificare ad maximo grammatica pro tollere ab illa omne difficultate, reducendo illa ad un minimo acceptabile ad omne.
 
 Preterito (quod es simultaneo ad un tempore precedente) et futuro (quod es simultaneo ad un tempore posteriore) es idem forma de presente translato in un periodo differente; illos habe in sua essentia charactere commune de simultaneitate; solo differentia es que simultaneitate in presente habe relatione ad acto de parola, epocha primitiva, sine indicatione de relatione cum alia epocha, dum simultaneitate in preterito et futuro coincide cum un' epocha anteriore aut posteriore ad acto de parola. Ad exemplo, in periodo futuro (I): *Quando voi verrele io leggerò* (F.) *quand vous viendrez, je librai*), ista formula responde ad ista: *quando vostra actione de venire es (esserà) facto, me pote (poterà) dicere: me lege*.
 
@@ -243,7 +243,7 @@ Futuro simplice es formato in deutsch cum presente (indicativo aut conjunctivo) 
 
 In russo, futuro simplice es obtento cum futuro de verbo *essere* + infinito indeterminato (verbo russo habe 2 infinitos) de verbo ad conjugare, aut cum presente de infinito determinato, et, in isto casus, actione es determinata ab prefixos que modifica verbo et es, ergo, bene precisata et circonscripta.
 
-ln lingua romana (de Romania) futuro es formato cum auxiliario *volere*. Exemplo:
+In lingua romana (de Romania) futuro es formato cum auxiliario *volere*. Exemplo:
 
 - *A tacea* = *tacere*
 - *Voi tacere* (litteralmodo: vole tacere) = tacerà.
@@ -331,13 +331,13 @@ Themate de verbo plus *-re* es equale in generale ad infinitivo latino; exceptio
 
 ### PRESENTE
 
-Indicativo presente es formato per solo themate de verbo sine suffixo. Exemplo: *Ama, lege, time, audi*.  
+Indicativo presente es formato per solo themate de verbo sine suffixo. Exemplo: *ama*, *lege*, *time*, *audi*.  
 
 ### PRETERITO
 
 Preterito es formato aut in modo analitico per auxiliario *habere* + participio passivo (ex. *me habe facto*) aut per adjunctione de suffIxo *-ba* ad thema (ex. *me legeba*). Per suffixo *-ba* nos habe tempore imperfecto (passato indefinito) [Aliquo interlinguista sectatore de una majore puritate latina, in verbos que habe thema terminante in *-a* prefer preterito facto non per suffixo *-ba*, sed per suffixo *-vi*.].
 
-Pro indicare actione que perdura lice utero auxiliario essere, in differente formas de sua conjugatione, cum participio presente de omne verbo. Ex. *me es scribente* (A. *I am writing*), *me esseba scribente* (A. *I was writing*). Jam in latino nos inveni exemplos de usu analogo; ex: *erat cernens magnalia Dei — sum dicens*.
+Pro indicare actione que perdura lice utero auxiliario *essere*, in differente formas de sua conjugatione, cum participio presente de omne verbo. Ex. *me es scribente* (A. *I am writing*), *me esseba scribente* (A. *I was writing*). Jam in latino nos inveni exemplos de usu analogo; ex: *erat cernens magnalia Dei — sum dicens*.
 
 ### PARTICIPO PRESENTE
 
@@ -347,22 +347,22 @@ Ambo modo es internationale.
 
 *Que* es thema de accusativo latino *quem* (nom. masc. *qui* et *quis*, fem. *quae*, neutro *quod* et *quid*, ablativo *quo*). Vive in linguas neolatina: F. *qui, que.* — H. *que, quien.* — I. *chi, che.* — P. *que, quem.* — Romano *ce.* Latino *que* existe etiam in greco, germanico, slavo; ergo habe plena internationalitate.
 
-*-ente*, quale suffixo de participio presente (cum forma *-nte* post themas in *a* et *e* et forma *-ente* post themas in *-i* aut consonante), existe in vocabulos commune ad linguas A, D, F, H, I, P, R. Ex.: *adjalanle, agente, assistente, coefficiente, concurrente, continente, correspondente, dissidente, emigrante, exponente, patiente, presidente, prefeudente, reagente, recipiente, regente, secante, studente, tangente, trascendente, transparente, variane*, etc.
+*-ente*, quale suffixo de participio presente (cum forma *-nte* post themas in *a* et *e* et forma *-ente* post themas in *-i* aut consonante), existe in vocabulos commune ad linguas A, D, F, H, I, P, R. Ex.: *adjalanle*, *agente*, *assistente*, *coefficiente*, *concurrente*, *continente*, *correspondente*, *dissidente*, *emigrante*, *exponente*, *patiente*, *presidente*, *prefeudente*, *reagente*, *recipiente*, *regente*, *secante*, *studente*, *tangente*, *trascendente*, *transparente*, *variane*, etc.
 
 Participio presente pote, in loco de suffixo, essere expresso per uso de pronomine *que*.
 
-- pretendente = que pretende
-- correspondente = que corresponde, etc.
+- *pretendente* = *que pretende*
+- *correspondente* = *que corresponde*, etc.
 
 ### PARTICIPIO PASSIVO
 
-Pro participio pass. existe suffixo *-to*, que es latino et internationale, nam nos inveni illo in vocabulos que habe plena internationalitate. Isto suffixo es de usu commune in F. H. I. P., Romano; vive in greco internationale (anecdoto, antidoto, etc.), et in vocabulos commune ad A. D. F. H. I. P. R. Reducto ad *-t* es uso, etiam, in alia linguas.  
+Pro participio pass. existe suffixo *-to*, que es latino et internationale, nam nos inveni illo in vocabulos que habe plena internationalitate. Isto suffixo es de usu commune in F. H. I. P., Romano; vive in greco internationale (*anecdoto*, *antidoto*, etc.), et in vocabulos commune ad A. D. F. H. I. P. R. Reducto ad *-t* es uso, etiam, in alia linguas.  
 
-In Interlingua participio passivo es formato per additione de suffixo *-to* ad themate, sed si forma sic obtenta differ ab participio passivo latino, lice adoptare participio latino, nam illo es quasi semper internationale. Ex: *lecto, uso, scripto*. Linguas hispana et portuguesa habe etiam 2 formas de participio pass.: forma regulare (*corregido, contraido, erigido, dirigido*), et forma irregulare, equale ad forma latina: *correcto, contracto, erecto, electo, directo*. Participio es indicato in *Vocabulario internalionale* de Basso et in omne vocabulario latino.
+In Interlingua participio passivo es formato per additione de suffixo *-to* ad themate, sed si forma sic obtenta differ ab participio passivo latino, lice adoptare participio latino, nam illo es quasi semper internationale. Ex: *lecto*, *uso*, *scripto*. Linguas hispana et portuguesa habe etiam 2 formas de participio pass.: forma regulare (*corregido*, *contraido*, *erigido*, *dirigido*), et forma irregulare, equale ad forma latina: *correcto*, *contracto*, *erecto*, *electo*, *directo*. Participio es indicato in *Vocabulario internalionale* de Basso et in omne vocabulario latino.
 
 ### GERUNDIO
 
-Gerundio es formato per additione de suffixo *-ndo* ad themate (*-endo* post *-i*). Ex.: *amando, timendo, audiendo*. Isto suffixo es latino et vive in vocabulos commune ad A. D. F. H. I. P. R. et alias lingua de Europa.
+Gerundio es formato per additione de suffixo *-ndo* ad themate (*-endo* post *-i*). Ex.: *amando*, *timendo*, *audiendo*. Isto suffixo es latino et vive in vocabulos commune ad A. D. F. H. I. P. R. et alias lingua de Europa.
 
 ### TEMPORES ANTERIORE
 
@@ -372,9 +372,9 @@ Tempores anteriore es formato per auxiliare *habere* (in diversa formas de sua c
 
 Conjugatione passiva es facta per tempores correspondente de auxiliario *essere* cum participio pass. de verbo principale. Ex.: *me es amato*, etc.
 
-Ad thema de verbos *dic, duc, fac, fer, fi, es* lice adjungere desinentia *e* pro facilitare sua conjugatione: *es* fi tunc *esse*.
+Ad thema de verbos *dic*, *duc*, *fac*, *fer*, *fi*, *es* lice adjungere desinentia *e* pro facilitare sua conjugatione: *es* fi tunc *esse*.
 
-Ex.: es + ente = essente; dic + ba = diceba; fi + re = fiere; fer + ndo = ferendo, sed fer + re = ferre.
+Ex.: *es* + *ente* = *essente*; *dic* + *ba* = *diceba*; *fi* + *re* = *fiere*; *fer* + *ndo* = *ferendo*, sed *fer* + *re* = *ferre*.
 
 ## GENERE ET NUMERO
 
@@ -388,42 +388,42 @@ In modo speciale latinistas es offenso in suo sentimento linguistico audiendo is
 
 Pro evitare ista dissonantia sine introductione regulas difficile, D.° Pinth, interlinguista emerito, habe proposito regula que nos et alios interlinguistas habe adoptato.
 
-- Substantivo que indica ente de sexu femineo es feminino; omne alio es masculino [Ergo matre, filia, sorore etc. es feminino.].
+- Substantivo que indica ente de sexu femineo es feminino; omne alio es masculino [Ergo *matre*, *filia*, *sorore* etc. es feminino.].
 - Finale *o* de adjectivo, participio, pronomine es mutato ad *a* si illa es conjuncto cum substantivo, que indica ente de sexu feminino, aut substantivo que habe un de finales: *-a*, *-i*, *-ione*, *-tate*, *-tute*, *-tudine* et non exprime ente mascula.
 
 In latino omne substantivo cum finale *-a*, excepto circa 7 de usu ultra raro, es feminino; etiam illos cum finale *-ie*, excepto *meridie*, es feminino. Circa 960 substantivos cum finale *-ione* es, in latino, de genere feminino; solum circa 15, de usu multo raro (excepto *septentrione* et *papilione*), es masculino. Omnes cum finale *-tate*, *-tude*, *-tudine* es feminino. In ista numeratione non es incluso substantivos que exprime ente masculo, (sicut *poeta*, *geometra* etc.).
 
-Regula supradicta multum simplice servi ad non latinistas. Latinistas pote semper reddere feminino adjectivo secundum regula de grammatica latina que, sicut nos habe viso, concorda — excepto casus ultra raro — cum regula hic supra. 
+Regula supradicta multum simplice servi ad non latinistas. Latinistas pote semper reddere feminino adjectivo secundum regula de grammatica latina que, sicut nos habe viso, concorda — excepto casus ultra raro — cum regula hic supra.
 
 Plurale es facto per adjunctione de suffixo *-s* ad forma non mutata de singulare.
 
-*-S* es signo characteristico de plurale in indo-europeo primitivo et in sanscrito. Greco et latino habe isto signo in omne declinatione. 
+*-S* es signo characteristico de plurale in indo-europeo primitivo et in sanscrito. Greco et latino habe isto signo in omne declinatione.
 
-*-S* es signo de plurale in anglo, in franco, hispano et portugueso, id es in 4 super 7 principale linguas de Europa, et ista 4 linguas es locuta in 28 aut 29 nationes, que forma un totale de 350 millione de homines. 
+*-S* es signo de plurale in anglo, in franco, hispano et portugueso, id es in 4 super 7 principale linguas de Europa, et ista 4 linguas es locuta in 28 aut 29 nationes, que forma un totale de 350 millione de homines.
 
 Signo de plurale *pote* essere omisso quando ambiguitate non pote nascere. Ex.: in propositiones, *duo oculo*, *tres die*, etc. plurale es jarn implicito in numero, et repetitione es superflua. Illa pote essere facta aut non, secundum gustu de scriptore. Ipsa repetitione es inutile — sed licita — quando plurale es jam indicato in substantivo; ex.: *divite familias*, *isto agros*, etc. 
 
-Aliquo interlinguista, sectatore de una majore puritate latina, forma plurale mutando finale *-a* ad *-ae*, *-o* ad *-i*, adjungendo *-s* solum ad finales *-e* et *-u*. ln isto modo forma plurale in Interlingua corresponde ad forma latina, excepto pro pauco vocabulos neutro, sed quasi totalitate de interlinguistas prefer plurale semper equale in *-s*.
+Aliquo interlinguista, sectatore de una majore puritate latina, forma plurale mutando finale *-a* ad *-ae*, *-o* ad *-i*, adjungendo *-s* solum ad finales *-e* et *-u*. In isto modo forma plurale in Interlingua corresponde ad forma latina, excepto pro pauco vocabulos neutro, sed quasi totalitate de interlinguistas prefer plurale semper equale in *-s*.
 
 ## COMPARATIONE
 
-Comparatione es facta in primo gradu per: *tam... quam* (*illo es tam habile quam te)*; insecundo gradu per: *magis... quam* (*illo es magis habile quam te*) aut: *plus... quam*, *minus... quam*; in tertio gradu (superlativo) per: *maxin de...*, *minim de...*
+Comparatione es facta in primo gradu per: *tam... quam* (*illo es tam habile quam te*); in secundo gradu per: *magis... quam* (*illo es magis habile quam te*) aut: *plus... quam*, *minus... quam*; in tertio gradu (superlativo) per: *maxin de...*, *minim de...*
 
 Adjectivos sequente pote formare comparativo et superlativo in isto modo:
 
-- bono — meliore — optimo
-- malo — pejore — pessimo
-- (magno — majore — maximo *[addito ad lectore secundum Interlingua de Gode]*)
-- parvo — minore — minimo.
+- *bono* — *meliore* — *optimo*
+- *malo* — *pejore* — *pessimo*
+- *magno* — *majore* — *maximo*
+- *parvo* — *minore* — *minimo*
 
 ## PRONOMINES
 
-- Pronomines personales: *me, te, nos, vos*. Isto pronomines es latino et habe completa internationalitate.
+- Pronomines personales: *me*, *te*, *nos*, *vos*. Isto pronomines es latino et habe completa internationalitate.
 - Pronomines demonstrativo:
 
-  - *isto, illo, ipso*. (Isto pronomines es latino [ablativo] et habe internationalitate F. H. T. P.; non existe alia forma cum internationalitate majore);
+  - *isto*, *illo*, *ipso*. (Isto pronomines es latino [ablativo] et habe internationalitate F. H. T. P.; non existe alia forma cum internationalitate majore);
   - *que* [thema de accusativo latino *quem*] (*que* es indo-europeo, nam existe in greco, germanico, slavo et vive in linguas neo-latina F. *qui, que*, I, *chi che*, P. *que, quem*).
-  - id, idem.
+  - *id*, *idem*.
 
 - Pronomines relativo aut conjunctivo: *qui* (= homo *que*); *quod* (= re *que*).
 - Pronomines possessivo: *meo*, *tuo*, *suo*, *nostro*, *vestro*.
@@ -434,7 +434,7 @@ In materia de pronomines Interlingua habe selecto nunc uno nunc alio casu latino
 
 ## DE ADVERBIO
 
-Academia pro Interlingua non habe usque hodie discusso questione de adverbio, sed, acceptata base latina pro Interlingua, questione es reducta ad obtinere in modo plus simplice et cum regula semper equale, una forma plus latina quam possibile.
+*Academia pro Interlingua* non habe usque hodie discusso questione de adverbio, sed, acceptata base latina pro Interlingua, questione es reducta ad obtinere in modo plus simplice et cum regula semper equale, una forma plus latina quam possibile.
 
 Suffixo *-mente*, que es vocabulo latino non es commendando, nam si nos decompone adverbio formato cum isto suffixo, nos obtine saepe una absurditate. Suffixo *-mente* habe significatu de: *cum mente...*: *cordialmente* = *cum mente cordiale*, *habilmente* = *cum mente habile* etc.; sed quando nos dice: *machina curre velocemente*, nos non intende que machina curre *con mente veloce*, sed *in modo veloce*.
 
@@ -448,21 +448,21 @@ Exemplo: ex adjectivo *solo* es facto adverbio *solum* aut *solomodo*, ex *veloc
 
 ## NUMERATIONE
 
-Numeros cardinale es sicut in latino, 1 *uno*, 2 *duo*, 3 *tres*, 4 *quattuor*, 5 *quinque*, 6 *sex*, 7 *septem*, 8 *octo*, 9 *novem*, 10 *decem*, 20 *viginti*, 30 *triginta*, 40 *quadraginta*, 50 *quinquaginta*, 60 *sexaginta*, 70 *septuaginta*, 80 *octoginta*, 90 *nonaginta*, 100 *centum*, 1000 *mille*, 1.000.000 *millione* (millione es uso in latino posteriore).
+**Numeros cardinale** es sicut in latino, 1 *uno*, 2 *duo*, 3 *tres*, 4 *quattuor*, 5 *quinque*, 6 *sex*, 7 *septem*, 8 *octo*, 9 *novem*, 10 *decem*, 20 *viginti*, 30 *triginta*, 40 *quadraginta*, 50 *quinquaginta*, 60 *sexaginta*, 70 *septuaginta*, 80 *octoginta*, 90 *nonaginta*, 100 *centum*, 1000 *mille*, 1.000.000 *millione* (*millione* es uso in latino posteriore).
 
 Nos forma ceteros numeros per juxtapositione de numeros precedente: 11 *decem-uno*, 12 *decem-duo*, 13 *decem-tres*, 18 *decem-octo*, 19 *decem-novem*, 21 *viginti-uno*, 22 *viginti-duo*, 101 *centum (et) uno*, 102 *centum (et) duo*, 200 *duo cento*, 300 *tres cento* etc.
 
-Numeros ordinale latino et internationale: 1° *primo*, 2° *secundo*, 3° *tertio*, 4° *quarto*, 5° *quinto*, 6° *sexto*, 7° *septimo*, 8° *octavo*, 9° *nono*, 10° *decimo*, 20° *vigesimo*, 30° *trigesimo*, 40° *quadragesimo*, 50° *quinquagesimo*, 60° *sexagesimo*, 70° *septuagesimo*, 80° *octogesimo*, 90° *nonagesimo*, 100° *centesimo*, 1000° *millesimo*, 1.000.000° *millionesimo*.
+**Numeros ordinale** latino et internationale: 1° *primo*, 2° *secundo*, 3° *tertio*, 4° *quarto*, 5° *quinto*, 6° *sexto*, 7° *septimo*, 8° *octavo*, 9° *nono*, 10° *decimo*, 20° *vigesimo*, 30° *trigesimo*, 40° *quadragesimo*, 50° *quinquagesimo*, 60° *sexagesimo*, 70° *septuagesimo*, 80° *octogesimo*, 90° *nonagesimo*, 100° *centesimo*, 1000° *millesimo*, 1.000.000° *millionesimo*.
 
-Ceteros numeros es formato per juxtapositione de numeros precedente: 45° *quadragesimo quinto*, 58° *quinquagesimo octavo* etc. Sed lice dicere *quadraginta quinto*, ''quinquaginta octavo* etc. utendo, pro simplificare, numeros cardinale in loco de numeros ordinale, excepto pro ultimo vocabulo: 345° *tres cento quadraginta quinto*, in loco de *tertio centesimo quinto*.
+Ceteros numeros es formato per juxtapositione de numeros precedente: 45° *quadragesimo quinto*, 58° *quinquagesimo octavo* etc. Sed lice dicere *quadraginta quinto*, *quinquaginta octavo* etc. utendo, pro simplificare, numeros cardinale in loco de numeros ordinale, excepto pro ultimo vocabulo: 345° *tres cento quadraginta quinto*, in loco de *tertio centesimo quinto*.
 
-Numeros multiplicativo es formato per circonlocutione: *uno vice* (L. *semel*), *duo vice* (L. *bis*), *tres vice*, etc.
+**Numeros multiplicativo** es formato per circonlocutione: *uno vice* (L. *semel*), *duo vice* (L. *bis*), *tres vice*, etc.
 
 Isto systemate de numeratione habe utilitate de essere quasi tam simplice quam alios proposito, sed formato solum per vocabulos latino.
 
 ## PRONUNTIATIONE
 
-In questione de pronuntiatione opinione de interlinguistas es diversa. Academia pro Interlingua, in 1910, habe adoptato pronuntiatione antiqua, que es contra pronuntiatione internationale moderna de vocabulos derivato ex latino et de lingua latina ipsa. Nullo populo moderno pronuntia vocabulos de sua propria lingua derivatos ex latino, secundum regulas de pronuntiatione latina antiqua et una lingua internationale non pote ire contra internalionalitate sic generale.
+In questione de pronuntiatione opinione de interlinguistas es diversa. *Academia pro Interlingua*, in 1910, habe adoptato **pronuntiatione antiqua**, que es contra pronuntiatione internationale moderna de vocabulos derivato ex latino et de lingua latina ipsa. Nullo populo moderno pronuntia vocabulos de sua propria lingua derivatos ex latino, secundum regulas de pronuntiatione latina antiqua et una lingua internationale non pote ire contra internalionalitate sic generale.
 
 Nos crede que pronuntiatione non debe constituere difficultate et que una parva latitudine es optanda. Pronuntiatione antiqua pote respondere ad rationes historica, sed illa es negatione de principio de internationalitate et redde irrecognoscibile vocabulos ad ipso aures de populos neo-latino. Curia Romana que ute et hodie currentemodo latino pro suo actos, non ute pronuntiatione classica sed moderna; in Francia latino es pronuntiato etiam in modo moderno et existe ibi una currente que pete adoptione de pronuntiatione italiana moderna de latino. Ante plure annos Curia Romana precaba Episcopos non italiano de introducere in Seminarios pronuntiatione italiana de latino.
 
@@ -470,17 +470,17 @@ Comitatu linguistico de *Unione pro Interlingua* habe adoptata una via media, ad
 
 - **a, e, i, o, u** habe sono sicut in italiano et germano;
 - **y** = *u* franco, *ü* germano. Illos, que judica isto sono difficile pote pronuntiare *i*;
-- **c** ante *e, i, y, æ, œ* = *c* in italiano civile = *tch* in anglo *match*, sed lice pronuntiare ut in germano (*ts*) aut *ss*;
-- **c** ante *a, o, u* = *k*;
-- **g** ante *e, i, y, æ, œ* sona sicut *g* in italiano *giro* et in anglo *gentlemen*, ut *dj* in francico *adjutant*;
-- **g** ante *a, o, u* sona sicut in vocabulo *gala*;
-- **h indica aspiratione, ut in D. A. sed lice supprimere aspiratione;
+- **c** ante *e*, *i*, *y*, *æ*, *œ* = *c* in italiano civile = *tch* in anglo *match*, sed lice pronuntiare ut in germano (*ts*) aut *ss*;
+- **c** ante *a*, *o*, *u* = *k*;
+- **g** ante *e*, *i*, *y*, *æ*, *œ* sona sicut *g* in italiano *giro* et in anglo *gentlemen*, ut *dj* in francico *adjutant*;
+- **g** ante *a*, *o*, *u* sona sicut in vocabulo *gala*;
+- **h** indica aspiratione, ut in D. A. sed lice supprimere aspiratione;
 - **æ, œ** es pronuntiato ut *e* in italiano *celere*;
 - **j** sona ut in italiano et in germano (= *i* consonante);
-- **s** sona ut in italiano *salute*, in anglo et francico *salutation*. ln quasi omne lingua de Europa *s* inter duo vocales habe sono dulce ut in italiano *rosa*, in anglo et franco *rose*. Es una irregularitate non necessaria, sed pro sua quasi completa internationalitate, suo usu non impedi intelligentia;
+- **s** sona ut in italiano *salute*, in anglo et francico *salutation*. In quasi omne lingua de Europa *s* inter duo vocales habe sono dulce ut in italiano *rosa*, in anglo et franco *rose*. Es una irregularitate non necessaria, sed pro sua quasi completa internationalitate, suo usu non impedi intelligentia;
 - **v** sona sicut *v* in anglo, franco, italo, *w* in germano;
 - **gn** pote essere pronuntiato sive in modo litterale (id es cum sono separato *g* + *n*) sive ut in italiano *ogni*;
-- **sc** ante *e, i, y, æ, œ* =	A. *sh*, F. *ch*, D. *sch*;
+- **sc** ante *e*, *i*, *y*, *æ*, *œ* = A. *sh*, F. *ch*, D. *sch*;
 - **ti** ante vocale sona ut *zi* in italiano quando es precesso ab *s*, *t*, *x* et in pauco alia exceptiones (ut *tiara* etc.);  
 - **ch** sona sicut *k*;
 - **th** = *th* de vocabulo A. *thank*, simplificabile in sono = *t*;
@@ -491,7 +491,7 @@ Comitatu linguistico de *Unione pro Interlingua* habe adoptata una via media, ad
 
 Accentu tonico non es indicato in scriptura, sed es indicato in omne Vocabulario latino, in *Vocabulario Internationale* de Basso, 2ᵃ editione, et in *Vocabulario Deutsch-Interlingua* de Pinth.
 
-Aliquo interlinguista es fautore de una pronuntiatione uniforme, sed in primo loco uniformitate de pronuntiatione, ultra ad reddere illa monotona et cacophonica, duce ad monstruositate, ut ocùlo, tabùla, angèlo, angùlo etc. que haberé pronuntiatione nec latina, nec internationale, et in secundo loco nos non pote adoptare latino ut lingua Internationale et deformare sua pronuntiatione in modo ad reddere illo irrecognoscibile ad aure ipso de latinistas.
+Aliquo interlinguista es fautore de una pronuntiatione uniforme, sed in primo loco uniformitate de pronuntiatione, ultra ad reddere illa monotona et cacophonica, duce ad monstruositate, ut *ocùlo*, *tabùla*, *angèlo*, *angùlo* etc. que haberé pronuntiatione nec latina, nec internationale, et in secundo loco nos non pote adoptare latino ut lingua Internationale et deformare sua pronuntiatione in modo ad reddere illo irrecognoscibile ad aure ipso de latinistas.
 
 Fautores de Interlingua adopta in generale accentu latino. Pauca practica et comparatione cum pronuntiatione in propria lingua de singula varietate de vocabulos disce pronuntiatione de Interlingua. Illa, ceterum, es indicata in omne vocabulario latino.
 
@@ -502,7 +502,7 @@ Accentu latino habe regulas sequente:
 - Omne vocabulo cum tres aut plus vocale, habe accento super penultima si ista es longa et super antepenultima, si penultima es breve. Vocabulario latino indica vocale longa per signo ¯ et breve per signo ˘.
 - Si penultima syllaba termina per consonante, accento es super ista. Ex.: *adjúnc-to*, *agén-te*, *consonán-te*, *accidén-te*, *gemén-do*.
 
-Plure alio fautores de lingua internationale propone accentu super penultima vocale (Esperanto etc.), cum varia exceptiones (Ido).  
+Plure alio fautores de lingua internationale propone accentu super penultima vocale (Esperanto etc.), cum varia exceptiones (Ido).
 
 ## SYNTAXE
 
@@ -510,7 +510,8 @@ Syntaxe in Interlingua es reducta ad ista regula unica: adoptare ordine plus cla
 
 Syntaxe de omne lingua neo-latina aut germanica pote essere secuta, observando principios sequente:
 
-- sequere ordine plus logico (subjecto logico es illo ab que abi cogitatione). Es ergo naturale ponere pro primo subjecto logico, et post ordi nare cogitationes generalmodo in ordine ipso in que illas presenta se ad spiritu; - evitare idiotismos et expressiones metaphorica que non es universali intelligibile;
+- sequere ordine plus logico (subjecto logico es illo ab que abi cogitatione). Es ergo naturale ponere pro primo subjecto logico, et post ordi nare cogitationes generalmodo in ordine ipso in que illas presenta se ad spiritu;
+- evitare idiotismos et expressiones metaphorica que non es universali intelligibile;
 - supprimere omne vocabulo et particula que non es necessario ad intelligentia.
 
 # SPECIMEN DE VERSIONE
@@ -521,11 +522,11 @@ Isto textu, publicato ab un diurnale belga, evolve argumentos de tota modernitat
 
 Ecce me cum septuaginta anno.
 
-ln meo primo annos, me habe cognito homines, que habeba, in illo tempore, etate que me habe hodie.
+In meo primo annos, me habe cognito homines, que habeba, in illo tempore, etate que me habe hodie.
 
-Quando illos loqueba de suo progenitores, illos diceba: "Oh! si nostro patres reveni in terra, quale esserè sua stupefactione ante ista ferrovias cum rapida locomotivas, ante isto aerostatos ubi homines audace aude scandere celo: ante ista naves sino velo nec remo, que solo igne move!"
+Quando illos loqueba de suo progenitores, illos diceba: *"Oh! si nostro patres reveni in terra, quale esserè sua stupefactione ante ista ferrovias cum rapida locomotivas, ante isto aerostatos ubi homines audace aude scandere celo: ante ista naves sino velo nec remo, que solo igne move!"*
 
-Post epocha in que illos haberè sic locuto, alio homines viveba, ad suo vice, suo 70 annos; ad suo vice illos dic: "Ah! si nostro patres reveni in terra, quale esserè stupore de illos ante aeroplano, dirigibile et nave submarino!"
+Post epocha in que illos haberè sic locuto, alio homines viveba, ad suo vice, suo 70 annos; ad suo vice illos dic: *"Ah! si nostro patres reveni in terra, quale esserè stupore de illos ante aeroplano, dirigibile et nave submarino!"*
 
 Illos que teneba harpichordo et piano-forte ut mirabilia insuperabile, quid diceré ad auditione de phonographo que scribe voce de illos et conserva antiquo canticos, que esserà forsan possibile reproducere dum plure seculos?
 
@@ -541,7 +542,7 @@ Non es absoluti mirabile que, gratia ad arte de fabricantes de objectivos, es co
 
 Gratia ad hoc homine retrocede, in modo constante, limites de sua penetratione in magno secreto de vita.
 
-Post habere instructo, cinematographo recrea homine moderno; illo evolve sub suo oculos nunc scenas jucundo de carnevale de Nicea, nunc virtute de *jockeys* ad cursas de Epsom, ubi natatione vigoroso de *outtriggers* subtile ed de *clippers* ad arboratura leve, aut etiam vicissitudines de *polo*, de *foot-ball*, de *cricket*, de *tennis* inter magno championes mundiale; nunc etiam reproduce scenas prehenso apud Indianos de *Far-West*, aut excercitios militare de Nipponia, impressionante positiones in batteria de artilleria equitante, de que leve cannones ad jactu rapido, vome grandine de *shrapnels*; post explica terras quiescente ubi frondes luxuriante tege elegante villas, ubi accessu es facilitato per tramways electrico.
+Post habere instructo, cinematographo recrea homine moderno; illo evolve sub suo oculos nunc scenas jucundo de carnevale de Nicea, nunc virtute de *jockeys* ad cursas de Epsom, ubi natatione vigoroso de *outtriggers* subtile ed de *clippers* ad arboratura leve, aut etiam vicissitudines de *polo*, de *foot-ball*, de *cricket*, de *tennis* inter magno championes mundiale; nunc etiam reproduce scenas prehenso apud Indianos de *Far-West*, aut excercitios militare de Nipponia, impressionante positiones in batteria de artilleria equitante, de que leve cannones ad jactu rapido, vome grandine de *shrapnels*; post explica terras quiescente ubi frondes luxuriante tege elegante villas, ubi accessu es facilitato per *tramways* electrico.
 
 Es cum utilizatione de quantitate de productos naturale incognito ad antiquos, que scientia fac simile progressus; in particulare *caoutchouc* et guttapercha es jam et es et hodie indispensabile; post terras raro, ut osmio, de que sales metallico habe permisso de fabricare reticulas *Auer*, gratia ad que, potestate illuminante de gas attinge intensitate que pote superare illa de electricitate.
 
