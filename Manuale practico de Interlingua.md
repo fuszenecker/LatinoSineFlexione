@@ -524,9 +524,9 @@ Ecce me cum septuaginta anno.
 
 In meo primo annos, me habe cognito homines, que habeba, in illo tempore, etate que me habe hodie.
 
-Quando illos loqueba de suo progenitores, illos diceba: *"Oh! si nostro patres reveni in terra, quale esserè sua stupefactione ante ista ferrovias cum rapida locomotivas, ante isto aerostatos ubi homines audace aude scandere celo: ante ista naves sino velo nec remo, que solo igne move!"*
+Quando illos loqueba de suo progenitores, illos diceba: *« Oh! si nostro patres reveni in terra, quale esserè sua stupefactione ante ista ferrovias cum rapida locomotivas, ante isto aerostatos ubi homines audace aude scandere celo: ante ista naves sino velo nec remo, que solo igne move! »*
 
-Post epocha in que illos haberè sic locuto, alio homines viveba, ad suo vice, suo 70 annos; ad suo vice illos dic: *"Ah! si nostro patres reveni in terra, quale esserè stupore de illos ante aeroplano, dirigibile et nave submarino!"*
+Post epocha in que illos haberè sic locuto, alio homines viveba, ad suo vice, suo 70 annos; ad suo vice illos dic: *« Ah! si nostro patres reveni in terra, quale esserè stupore de illos ante aeroplano, dirigibile et nave submarino! »*
 
 Illos que teneba harpichordo et piano-forte ut mirabilia insuperabile, quid diceré ad auditione de phonographo que scribe voce de illos et conserva antiquo canticos, que esserà forsan possibile reproducere dum plure seculos?
 
