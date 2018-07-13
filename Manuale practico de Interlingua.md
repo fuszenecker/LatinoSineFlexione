@@ -246,7 +246,7 @@ In russo, futuro simplice es obtento cum futuro de verbo *essere* + infinito ind
 In lingua romana (de Romania) futuro es formato cum auxiliario *volere*. Exemplo:
 
 - *A tacea* = *tacere*
-- *Voi tacere* (litteralmodo: vole tacere) = tacerà.
+- *Voi tacere* (litteralmodo: *vole tacere*) = *tacerà*.
 
 In lingua dano-norvegiana futuro es formato cum auxiliarios *at ville* et *at skulle*. Primo, *at ville*, indica una voluntate, un desiderio de illo que loque, dum *al skulle* implica un débito, aut indica que una re evenirà per lege de natura, per habitudine, non quia depende ab voluntate de subjecto. Exemplos:
 
@@ -265,15 +265,15 @@ Quando un verbo in futuro es precesso ab conjunctione *si* aut ab vocabulos que 
 
 Omne alia forma de futuro, in italiano, hispano et portugueso resulta semper ex infinito de verbo conjugando + voce de verbo auxiliario, *conjuncto in un solo vocabulo*, cum aliqua alteratione in ulla personas. Sic ad ex.:
 
-- in I. avrai = av(e)r + (h)ai
-- in I. avrò = av(e)r + (h)o
-- in H. amarè = amar + (h)e
-- in H. amaras = amar + (h)as etc.
+- in I. *avrai* = *av(e)r* + *(h)ai*
+- in I. *avrò* = *av(e)r* + *(h)o*
+- in H. *amarè* = *amar* + *(h)e*
+- in H. *amaras* = *amar* + *(h)as* etc.
 
 Interlingua adopta forma analytica et fac futuro per auxiliarios *essere, habere, fiere, vàdere, debère*, que es systemate magis facile et expressivo quam systemate desinentiale, et obtine futuro per infinito + auxiliario *habere* in modo ut supra, adjungendo ad themate de verbo suffixo *-rà*, id es
 
-- me amarà = amar + (h)a(be)
-- me legerà = leger + (h)a(be)
+- *me amarà* = *amar* + *(h)a(be)*
+- *me legerà* = *leger* + *(h)a(be)*
 
 Ambo systemates es internationale; extra ista duo formas uno pote habere solum solutiones artificiale, conventionale.
 
@@ -293,9 +293,9 @@ In lingua nederlanska, conditionale es formato per infinito de verbo + auxiliari
 
 Etiam in I. conditionale es formato per infinito de verbo conjugando + auxiliario, sed conjuncto in un solo vocabulo, sicut nos habe jam viso pro futuro.
 
-- avrei = av(e)r + (av)ei
-- avesti = av(e)r + (av)esti
-- avrebbe = av(e)r + ebbe
+- *avrei* = *av(e)r* + *(av)ei*
+- *avesti* = *av(e)r* + *(av)esti*
+- *avrebbe* = *av(e)r* + *ebbe*
 
 In francico, hispano et portugueso es sicut in italiano.
 
