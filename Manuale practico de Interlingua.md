@@ -248,7 +248,7 @@ In lingua romana (de Romania) futuro es formato cum auxiliario *volere*. Exemplo
 - *A tacea* = *tacere*
 - *Voi tacere* (litteralmodo: *vole tacere*) = *tacerà*.
 
-In lingua dano-norvegiana futuro es formato cum auxiliarios *at ville* et *at skulle*. Primo, *at ville*, indica una voluntate, un desiderio de illo que loque, dum *al skulle* implica un débito, aut indica que una re evenirà per lege de natura, per habitudine, non quia depende ab voluntate de subjecto. Exemplos:
+In lingua dano-norvegiana futuro es formato cum auxiliarios *at ville* et *at skulle*. Primo, *at ville*, indica una voluntate, un desiderio de illo que loque, dum *al skulle* implica un dèbito, aut indica que una re evenirà per lege de natura, per habitudine, non quia depende ab voluntate de subjecto. Exemplos:
 
 - Ieg *vil* have Penge = me haberà (vole habere, quia me obligarà ad dare) pecunia.
 - Ieg *skal* have Penge = me haberà (debe habere, quia esserà data) pecunia.
@@ -491,16 +491,16 @@ Comitatu linguistico de *Unione pro Interlingua* habe adoptata una via media, ad
 
 Accentu tonico non es indicato in scriptura, sed es indicato in omne Vocabulario latino, in *Vocabulario Internationale* de Basso, 2ᵃ editione, et in *Vocabulario Deutsch-Interlingua* de Pinth.
 
-Aliquo interlinguista es fautore de una pronuntiatione uniforme, sed in primo loco uniformitate de pronuntiatione, ultra ad reddere illa monotona et cacophonica, duce ad monstruositate, ut *ocùlo*, *tabùla*, *angèlo*, *angùlo* etc. que haberé pronuntiatione nec latina, nec internationale, et in secundo loco nos non pote adoptare latino ut lingua Internationale et deformare sua pronuntiatione in modo ad reddere illo irrecognoscibile ad aure ipso de latinistas.
+Aliquo interlinguista es fautore de una pronuntiatione uniforme, sed in primo loco uniformitate de pronuntiatione, ultra ad reddere illa monotona et cacophonica, duce ad monstruositate, ut *ocùlo*, *tabùla*, *angèlo*, *angùlo* etc. que haberè pronuntiatione nec latina, nec internationale, et in secundo loco nos non pote adoptare latino ut lingua Internationale et deformare sua pronuntiatione in modo ad reddere illo irrecognoscibile ad aure ipso de latinistas.
 
 Fautores de Interlingua adopta in generale accentu latino. Pauca practica et comparatione cum pronuntiatione in propria lingua de singula varietate de vocabulos disce pronuntiatione de Interlingua. Illa, ceterum, es indicata in omne vocabulario latino.
 
 Accentu latino habe regulas sequente:
 
-- Omne vocabulo que habe duo solo vocales, habe accentu super prima vocale (*rósa*, *pátre*).
+- Omne vocabulo que habe duo solo vocales, habe accentu super prima vocale (*rósa*, *pàtre*).
 - Nullo vocabulo, de 2 aut plus syllabas, habe accentu super ultima syllaba nec ante antepenultima.
 - Omne vocabulo cum tres aut plus vocale, habe accento super penultima si ista es longa et super antepenultima, si penultima es breve. Vocabulario latino indica vocale longa per signo ¯ et breve per signo ˘.
-- Si penultima syllaba termina per consonante, accento es super ista. Ex.: *adjúnc-to*, *agén-te*, *consonán-te*, *accidén-te*, *gemén-do*.
+- Si penultima syllaba termina per consonante, accento es super ista. Ex.: *adjúnc-to*, *agèn-te*, *consonàn-te*, *accidèn-te*, *gemèn-do*.
 
 Plure alio fautores de lingua internationale propone accentu super penultima vocale (Esperanto etc.), cum varia exceptiones (Ido).
 
@@ -528,9 +528,9 @@ Quando illos loqueba de suo progenitores, illos diceba: *« Oh! si nostro patres
 
 Post epocha in que illos haberè sic locuto, alio homines viveba, ad suo vice, suo 70 annos; ad suo vice illos dic: *« Ah! si nostro patres reveni in terra, quale esserè stupore de illos ante aeroplano, dirigibile et nave submarino! »*
 
-Illos que teneba harpichordo et piano-forte ut mirabilia insuperabile, quid diceré ad auditione de phonographo que scribe voce de illos et conserva antiquo canticos, que esserà forsan possibile reproducere dum plure seculos?
+Illos que teneba harpichordo et piano-forte ut mirabilia insuperabile, quid dicerè ad auditione de phonographo que scribe voce de illos et conserva antiquo canticos, que esserà forsan possibile reproducere dum plure seculos?
 
-Crederé illos ad realitate de telephono?
+Crederè illos ad realitate de telephono?
 
 Et telegraphia sine filo, que super oceanos uni instantaneo vetere Europa ad juvene America?
 
