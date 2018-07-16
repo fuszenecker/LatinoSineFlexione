@@ -104,7 +104,7 @@ Nominativo, si non habe suffixo, es alia forma de thema, que pote essere utile: 
 
 Vocabulario latino cita **adjectivo** sub forma de nominativo masculino, feminino et neutro.
 
-Ex.: —  
+Ex.: —
 
 | Adjectivo        | Thema |
 |------------------|-------|
@@ -125,7 +125,7 @@ Pro vocabulos que habe forma internationale de nominativo latino (*album*, *cact
 
 ### (4)
 
-Si vocabulario latino da solum una forma de vocabulo, ista es thema invariabile. Ex.: *ab*, *ad*, *ante*, *circa*, *contra*, *cum*, *de*, *ex*, *in*, *jam*, *non*, *per*, *pro*, *quando*, *satis*, *semper*, *si*, *sine*, *sub*, *supra* etc.  
+Si vocabulario latino da solum una forma de vocabulo, ista es thema invariabile. Ex.: *ab*, *ad*, *ante*, *circa*, *contra*, *cum*, *de*, *ex*, *in*, *jam*, *non*, *per*, *pro*, *quando*, *satis*, *semper*, *si*, *sine*, *sub*, *supra* etc.
 
 ### (5)
 
@@ -285,7 +285,7 @@ In A. conditionale es formato per tempore preterito de auxiliarios *shall* aut *
 
 In D. conditionale es formato per imperfecto de subjunctivo de *werden* + indefinito de verbo conjugando.
 
-In R. conditionale non existe, sicut non existe subjunctivo: illos es substituto per preterito de indicativo cum sua 2 formas et 2 significatus [Verbo russo habe solum un preterito, un presente et un futuro, sed quia pote formare ex 2 differente infinitos, reali illo habe 2 specie de preterito, 2 de futuro et uno presente. Desinentias de 2 preteritos es identica, et de 2 futuros, uno habe forma et desinentia de presente, alio es obtento per futuro de verbo *essere* et infinito de verbo conjugando, et sic uno habe una sola forma pro preterito et una pro presente (cum significatu de futuro pro verbos perfecto) sine vera et propria forma pro futuro.]. 
+In R. conditionale non existe, sicut non existe subjunctivo: illos es substituto per preterito de indicativo cum sua 2 formas et 2 significatus [Verbo russo habe solum un preterito, un presente et un futuro, sed quia pote formare ex 2 differente infinitos, reali illo habe 2 specie de preterito, 2 de futuro et uno presente. Desinentias de 2 preteritos es identica, et de 2 futuros, uno habe forma et desinentia de presente, alio es obtento per futuro de verbo *essere* et infinito de verbo conjugando, et sic uno habe una sola forma pro preterito et una pro presente (cum significatu de futuro pro verbos perfecto) sine vera et propria forma pro futuro.].
 
 In lingua dano-norvegiana; conditionale es formato per preterito de verbos auxiliarios *vilde* et *skulde*. In lingua svenska es formato per infinito presente de verbo et imperfecto indicativo de auxiliario *skola*.
 
@@ -299,7 +299,7 @@ Etiam in I. conditionale es formato per infinito de verbo conjugando + auxiliari
 
 In francico, hispano et portugueso es sicut in italiano.
 
-Sicut pro futuro Interlingua admitte sive forma analytica (imperfecto de auxiliario + infinito de verbo conjugando, ex: *me debeba scribere* — I. *io scriverei* — A. *I should write* — F. *j'écrirais*, etc.); sive forma desinentiale per suffxo *-rè* adjuncto ad themate de verbo conjugando (ex: *me scriberè* =  *me debeba scribere* etc. sicut es in exemplo supra).
+Sicut pro futuro Interlingua admitte sive forma analytica (imperfecto de auxiliario + infinito de verbo conjugando, ex: *me debeba scribere* — I. *io scriverei* — A. *I should write* — F. *j'écrirais*, etc.); sive forma desinentiale per suffxo *-rè* adjuncto ad themate de verbo conjugando (ex: *me scriberè* = *me debeba scribere* etc. sicut es in exemplo supra).
 
 In propositione subordinata exprimente conditione, es melio utere semper indicativo, nam usu de conditionale es vero pleonasmo. Ex. *si non plue me vade ad theatro*. Sensu de ista propositione es perfectomodo equale expresso cum indicativo, ut in nostro exemplo, quam si expresso per conditionale: *si non pluerè me vaderè ad theatro*. Prima forma es meliore nam illa elimina un suffixo inutile.
 
@@ -331,7 +331,7 @@ Themate de verbo plus *-re* es equale in generale ad infinitivo latino; exceptio
 
 ### PRESENTE
 
-Indicativo presente es formato per solo themate de verbo sine suffixo. Exemplo: *ama*, *lege*, *time*, *audi*.  
+Indicativo presente es formato per solo themate de verbo sine suffixo. Exemplo: *ama*, *lege*, *time*, *audi*.
 
 ### PRETERITO
 
@@ -356,7 +356,7 @@ Participio presente pote, in loco de suffixo, essere expresso per uso de pronomi
 
 ### PARTICIPIO PASSIVO
 
-Pro participio pass. existe suffixo *-to*, que es latino et internationale, nam nos inveni illo in vocabulos que habe plena internationalitate. Isto suffixo es de usu commune in F. H. I. P., Romano; vive in greco internationale (*anecdoto*, *antidoto*, etc.), et in vocabulos commune ad A. D. F. H. I. P. R. Reducto ad *-t* es uso, etiam, in alia linguas.  
+Pro participio pass. existe suffixo *-to*, que es latino et internationale, nam nos inveni illo in vocabulos que habe plena internationalitate. Isto suffixo es de usu commune in F. H. I. P., Romano; vive in greco internationale (*anecdoto*, *antidoto*, etc.), et in vocabulos commune ad A. D. F. H. I. P. R. Reducto ad *-t* es uso, etiam, in alia linguas.
 
 In Interlingua participio passivo es formato per additione de suffixo *-to* ad themate, sed si forma sic obtenta differ ab participio passivo latino, lice adoptare participio latino, nam illo es quasi semper internationale. Ex: *lecto*, *uso*, *scripto*. Linguas hispana et portuguesa habe etiam 2 formas de participio pass.: forma regulare (*corregido*, *contraido*, *erigido*, *dirigido*), et forma irregulare, equale ad forma latina: *correcto*, *contracto*, *erecto*, *electo*, *directo*. Participio es indicato in *Vocabulario internalionale* de Basso et in omne vocabulario latino.
 
@@ -401,7 +401,7 @@ Plurale es facto per adjunctione de suffixo *-s* ad forma non mutata de singular
 
 *-S* es signo de plurale in anglo, in franco, hispano et portugueso, id es in 4 super 7 principale linguas de Europa, et ista 4 linguas es locuta in 28 aut 29 nationes, que forma un totale de 350 millione de homines.
 
-Signo de plurale *pote* essere omisso quando ambiguitate non pote nascere. Ex.: in propositiones, *duo oculo*, *tres die*, etc. plurale es jarn implicito in numero, et repetitione es superflua. Illa pote essere facta aut non, secundum gustu de scriptore. Ipsa repetitione es inutile — sed licita — quando plurale es jam indicato in substantivo; ex.: *divite familias*, *isto agros*, etc. 
+Signo de plurale *pote* essere omisso quando ambiguitate non pote nascere. Ex.: in propositiones, *duo oculo*, *tres die*, etc. plurale es jarn implicito in numero, et repetitione es superflua. Illa pote essere facta aut non, secundum gustu de scriptore. Ipsa repetitione es inutile — sed licita — quando plurale es jam indicato in substantivo; ex.: *divite familias*, *isto agros*, etc.
 
 Aliquo interlinguista, sectatore de una majore puritate latina, forma plurale mutando finale *-a* ad *-ae*, *-o* ad *-i*, adjungendo *-s* solum ad finales *-e* et *-u*. In isto modo forma plurale in Interlingua corresponde ad forma latina, excepto pro pauco vocabulos neutro, sed quasi totalitate de interlinguistas prefer plurale semper equale in *-s*.
 
@@ -481,7 +481,7 @@ Comitatu linguistico de *Unione pro Interlingua* habe adoptata una via media, ad
 - **v** sona sicut *v* in anglo, franco, italo, *w* in germano;
 - **gn** pote essere pronuntiato sive in modo litterale (id es cum sono separato *g* + *n*) sive ut in italiano *ogni*;
 - **sc** ante *e*, *i*, *y*, *æ*, *œ* = A. *sh*, F. *ch*, D. *sch*;
-- **ti** ante vocale sona ut *zi* in italiano quando es precesso ab *s*, *t*, *x* et in pauco alia exceptiones (ut *tiara* etc.);  
+- **ti** ante vocale sona ut *zi* in italiano quando es precesso ab *s*, *t*, *x* et in pauco alia exceptiones (ut *tiara* etc.);
 - **ch** sona sicut *k*;
 - **th** = *th* de vocabulo A. *thank*, simplificabile in sono = *t*;
 - **ph** = *ph* in vocabulo A. *clapham* (id es clap-ham), simplificabile in sono = *f*;
