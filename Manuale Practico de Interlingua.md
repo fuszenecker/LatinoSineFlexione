@@ -422,7 +422,7 @@ Adjectivos sequente pote formare comparativo et superlativo in isto modo:
 - Pronomines demonstrativo:
 
   - *isto*, *illo*, *ipso*. (Isto pronomines es latino [ablativo] et habe internationalitate F. H. T. P.; non existe alia forma cum internationalitate majore);
-  - *que* [thema de accusativo latino *quem*] (*que* es indo-europeo, nam existe in greco, germanico, slavo et vive in linguas neo-latina F. *qui, que*, I, *chi che*, P. *que, quem*).
+  - *que* [thema de accusativo latino *quem*] (*que* es indo-europeo, nam existe in greco, germanico, slavo et vive in linguas neo-latina F. *qui, que*, I, *chi che*, P. *que, quem*);
   - *id*, *idem*.
 
 - Pronomines relativo aut conjunctivo: *qui* (= homo *que*); *quod* (= re *que*).
