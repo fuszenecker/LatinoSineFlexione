@@ -1,6 +1,7 @@
 # SUFFIXOS IN LATINO SINE FLEXIONE
 
 ... que resulta ex decompositione de vocabulos internationale. Nos semper indica si penultimo vocale es longo aut breve.
+
 **-a**,
 *in vocabulario ad usu de schola* -o, indica verbo. ⊃ approba, confirma, conserva, examina, illustra.
 
@@ -182,6 +183,7 @@ patria, provincia, furia, gratia, vindemia.
 **-ĭno** -inus ⊃ domino, termino, -tino.
 
 **-īno** -inus ⊃ cisalpino, divino, molino, peregrino, marino, vicino, adulterino, feminino.
+
 **-ĭo** -ium ⊃ collegio, commercio, concilio, genio, imperio, principio, studio;
 *gaud*io = to
 *gaude;* habe
@@ -355,6 +357,7 @@ generalitate, neutralitate, universitate.
 **-tĭno** -tinus ⊃ crastino, pristino.
 
 **-tīno** -tinus ⊃ vespertino.
+
 **-tiōne** -tio ⊃ actione, administra—, ambi—, amputa—, appella—, approba—, composi—, condi—, confirma—,
 conscrip—, constitu—, construc—, consulta—, declara—, deduc—, defini—, delega—, dic—, evolu—, expedi—, execu—, forma—,
 func—, illustra—, indica—, induc—. Omni voce præcedente es L. classico et A. D. F. H. I. P. R.
@@ -406,4 +409,4 @@ salvo, arvo, alvo.
 **-ūra** -ura ⊃ figura, mensura, procedura, -tura.
 
 **-us** (nom. ; abl. -ore, -ere) ⊃ (ven)us(to), (ang)us(to).
-**
+
