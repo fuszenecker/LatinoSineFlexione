@@ -21,12 +21,12 @@ PER GIUSEPPE PEANO, VENTIMIGLIA, REVISTA UNIVERSALE, 1913
     - [INDICE](#indice)
     - [BASE DE INTERLINGUA](#base-de-interlingua)
     - [DE THEMA](#de-thema)
-        - [Nomen substantivo](#nomen-substantivo)
-        - [Nominativo, si non habe suffixo](#nominativo-si-non-habe-suffixo)
-        - [Adjectivo](#adjectivo)
-        - [Vocabulario latino cum una forma de vocabulo](#vocabulario-latino-cum-una-forma-de-vocabulo)
-        - [Pronomen](#pronomen)
-        - [Verbo](#verbo)
+        - [NOMEN SUBSTANTIVO](#nomen-substantivo)
+        - [NOMINATIVO SI NON HABE SUFFIXO](#nominativo-si-non-habe-suffixo)
+        - [ADJECTIVO](#adjectivo)
+        - [VOCABULARIO LATINO CUM UNA FORMA DE VOCABULO](#vocabulario-latino-cum-una-forma-de-vocabulo)
+        - [PRONOMEN](#pronomen)
+        - [VERBO](#verbo)
     - [DE ARTICULO](#de-articulo)
     - [DE VERBO](#de-verbo)
         - [CONJUNCTIVO](#conjunctivo)
@@ -86,7 +86,7 @@ Vocabulario de Basso es etiam de ultra magna utilitate pro vocabulos moderno que
 
 Pro illos que adopta Vocabulario latino ad usu de schola, nos reproduce, ex grammatica de latino, regulas pro trahe thema ex vocabulario et viceversa:
 
-### Nomen substantivo
+### NOMEN SUBSTANTIVO
 
 Vocabulario latino cita **nomen substantivo** sub forma de nominativo, secuto ab genitivo. Thema de nomen es ablativo, ablativo es obtento substituendo, ad finale de genitivo, finale infra indicata.
 
@@ -96,11 +96,11 @@ Vocabulario latino cita **nomen substantivo** sub forma de nominativo, secuto ab
 
 Interlingua adopta ista regula, sed substitue desinentia *e* ad desinentia de ablativo *i*, que es in generale mortuo in linguas moderna (ex: *animale*, in loco de *animali*). Aliquo interlinguista conserva tamen desinentia *i* in plure vocabulos in que ista desinentia es et hodie internationale (ex. *omni*, *oasi* etc.).
 
-### Nominativo, si non habe suffixo
+### NOMINATIVO SI NON HABE SUFFIXO
 
 Nominativo, si non habe suffixo, es alia forma de thema, que pote essere utile: *nomen* (abl. *nomine*), *homo* (abl. *homine*), *sol* (abl. *sole*), *jus* (abl. *jure*), *vir* (abl. *viro*), *rete* (abl. *reti*).
 
-### Adjectivo
+### ADJECTIVO
 
 Vocabulario latino cita **adjectivo** sub forma de nominativo masculino, feminino et neutro.
 
@@ -123,15 +123,15 @@ Aliquo interlinguista habeba proposito adoptione de nominativo, sed in generale,
 
 Pro vocabulos que habe forma internationale de nominativo latino (*album*, *cactus*; *humus*, *maximum*, *medium*, *minimum*, *virus* etc.) etiam Interlingua pote utere illos sub ista forma, et Vocabulario Internationale de Basso registra ambo formas.
 
-### Vocabulario latino cum una forma de vocabulo
+### VOCABULARIO LATINO CUM UNA FORMA DE VOCABULO
 
 Si vocabulario latino da solum una forma de vocabulo, ista es thema invariabile. Ex.: *ab*, *ad*, *ante*, *circa*, *contra*, *cum*, *de*, *ex*, *in*, *jam*, *non*, *per*, *pro*, *quando*, *satis*, *semper*, *si*, *sine*, *sub*, *supra* etc.
 
-### Pronomen
+### PRONOMEN
 
 **Pronomen** es citato sub forma de ablativo aut nominativo. Vide capitulo [Pronomines](#pronomines).
 
-### Verbo
+### VERBO
 
 Pro **verbo** thema es imperativo, id es imperativo suppresso suffixo *-re*.
 
