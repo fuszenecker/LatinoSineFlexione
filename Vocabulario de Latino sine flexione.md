@@ -1,6 +1,6 @@
 # Vocabulario commune ad latino-italiano-français-English-deutsch pro usu de interlinguistas
 
-Per prof. Ugo Basso, 1913
+**Per prof. Ugo Basso, Ventimiglia, « Revista Universale », 1913.**
 
 ## A
 
