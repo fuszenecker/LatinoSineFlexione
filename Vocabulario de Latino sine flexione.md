@@ -1,4 +1,4 @@
-# VOCABULARIO DE LATINO SINE FLEXIONE, 1915
+# Vocabulario commune ad latino-italiano-français-English-deutsch pro usu de interlinguistas, 1915
 
 ## A
 
