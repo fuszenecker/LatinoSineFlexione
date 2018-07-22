@@ -415,6 +415,7 @@ Adjectivos sequente pote formare comparativo et superlativo in isto modo:
 - *malo* — *pejore* — *pessimo*
 - *magno* — *majore* — *maximo*
 - *parvo* — *minore* — *minimo*
+- *multo* — *plus*, pl. m. *plure*, pl. f. *plura* — *plūrimo*
 
 ## PRONOMINES
 
