@@ -9704,7 +9704,7 @@ L. fere = quasi.
 
 **flige** -o = afflige.
 
-**flo** ( *thema de* flore) = da flore, floresce. ⊂ E. bhlo ⊃ A. blow, bloo *m*, D. blühen, Blu *me*.
+**flo** (*thema de* flore) = da flore, floresce. ⊂ E. bhlo ⊃ A. blow, bloo *m*, D. blühen, Blu *me*.
 
 **flocco** 100 | fiocco | flocon | flock | Flocke.
 
@@ -11348,7 +11348,7 @@ G. hypno húpnos = || somno. ⊃
 
 **i** (eo is ivi itum ire) | *andare*, i *re* gi *re*, i *va* i *to* | *aller*, i *rais* i *ras* i *ra* i *rai* | *to go* | *gehen* | H. i *r*, i *ba* i *do* | P. i *r*, i *a* i *do*. = vade, ambula, grade, cede, veni, curre, fuge, sali, scande. ⊃ *ad*i *tu*, *amb*i, *circu*i *tu*, *com*i *te*, *ex*i, *in*i *tiale*, *intro*i *tu*, *per*i, *praeter*i, *red*i, *sed*i *tione*, *sub*i *to*, *trans*i, i *tinere*. ⊂ E. i ⊃ G. i, eími, i *on*, *pro*œ *mio*; R. i *tï*, S. i; ? A. go, D. gehen (ex præfixo ge- et thema i).
 
-i-, *thema de *eo, id, isto, idem, ibi, ita.
+i-, *thema de* eo, id, isto, idem, ibi, ita.
 
 **iaspide** -pis -pĭd- | diaspro | jaspe | jasper | Jaspis. ⊂ G. íaspis.
 
@@ -14992,7 +14992,7 @@ G. men m**ē**n = || mense, m**ē**nē = luna. ⊃ menisco, néomenia.
 
 **—itate** -itas | -ità | -ité | -ity | -ität. = paupertate, indigentia.
 
-**MENE** ( *thema de* L. memini) | *ram*men *tare*, *ricordare* | *souvenir*, *ra*men *tevoir* | mean | meine. = memora, recorda. ⊃ mente, commenta, mone. ⊂ E. mene ⊃ A. mean, D. meina, G. mne(monica), (a)mne(sia), ma(thema), R. mni(tï), S. man(je).
+**MENE** (*thema de* L. memini) | *ram*men *tare*, *ricordare* | *souvenir*, *ra*men *tevoir* | mean | meine. = memora, recorda. ⊃ mente, commenta, mone. ⊂ E. mene ⊃ A. mean, D. meina, G. mne(monica), (a)mne(sia), ma(thema), R. mni(tï), S. man(je).
 
 **meninge** | -inge | méninge | -inges | -inx. = membrana circa cerebro. ⊂ G. m**ē**ninx.
 
@@ -19020,7 +19020,7 @@ L. postquam = post quam.
 
 **potassio** N | -io | -ium | -ium | -ium. = kalio, corpore simplice quem Davy in 1807 trahe ex potassa.
 
-**POTE** ( *thema de* potente) possum | potere, H. P. poder | pouvoir | *to be able*, *can*, *may* | *können*. ⊃ potestate, possibile. ⊂
+**POTE** (*thema de* potente) possum | potere, H. P. poder | pouvoir | *to be able*, *can*, *may* | *können*. ⊃ potestate, possibile. ⊂
 
 **—** -is = que pote, potente, possibile. || G. despota [domino], pósis [sponso]; S. pati [domino]. ⊂ E. poti.
 
@@ -19032,7 +19032,7 @@ L. postquam = post quam.
 
 **———itate** | -zialità | -ité | -ity | -ität.
 
-**potes** ( *thema de* possum potes potest) = pote. ⊂ pot(e) es.
+**potes** (*thema de* possum potes potest) = pote. ⊂ pot(e) es.
 
 **—tate** -tas | -tà, potere | pouvoir | power | -tät. = facultate, possibilitate, vi, potentia, valore, efficacia, importantia, auctoritate, dominio.
 
@@ -20400,65 +20400,9 @@ L. quatenus = usque ad.
 
 **QUATUOR** -uor | quattro, H. cuatro, P. quatro | quatre | four | vier. ⊃ quadra, quarto. ⊂ E. ⊃ A. four, D. vier, G. tetra, R. c’etyre, S. c’atvar.
 
-**QUE** ( *thema de* quem qui quod quam) | che, chi, H. P. que | que, qui | *that*, who, which, what | wer, was. ⊃ quale, quanto, quando, quoto, quare, ubi, unde, utro. ⊂ E. ⊃ A. who, what, D. wer, was, G. po-, R. ko, c’to, S. ka. <br />In præsente vocabulario, *que* indica « participio præsente », et satisfac conditione:
+**QUE** (*thema de* quem qui quod quam) | che, chi, H. P. que | que, qui | *that*, who, which, what | wer, was. ⊃ quale, quanto, quando, quoto, quare, ubi, unde, utro. ⊂ E. ⊃ A. who, what, D. wer, was, G. po-, R. ko, c’to, S. ka. In præsente vocabulario, *que* indica « participio præsente », et satisfac conditione: **que** + **es** = 0, id es « que es » destrue se; stude**nte** = **que** stude; stude = **es** stude**nte**; noc**ivo** = **que** noce; act**ivo** = **que** age; tim**ido** = **que** time; audi**tore** = **que** audi.
 
-**que** +
-
-**es** = 0, id es « que es » destrue se; stude
-
-**nte** =
-
-**que** stude; stude =
-
-**es** stude
-
-**nte**; noc
-
-**ivo** =
-
-**que** noce; act
-
-**ivo** =
-
-**que** age; tim
-
-**ido** =
-
-**que** time; audi
-
-**tore** =
-
-**que** audi.
-
-**QUEM,** *accusativo de* que. | H. quien, P. quem. <br />In præsente vocabulario,
-
-**quem** indica « participio passivo »; ama
-
-**to** =
-
-**quem** ama; doc
-
-**to** =
-
-**quem** doce; ac
-
-**to** =
-
-**quem** age; posi
-
-**to** =
-
-**quem** pone; clau
-
-**so** =
-
-**quem** claude; mi
-
-**sso** =
-
-**quem** mitte; lato =
-
-**quem** fer.
+**QUEM,** *accusativo de* que. | H. quien, P. quem. In præsente vocabulario, **quem** indica « participio passivo »; ama**to** = **quem** ama; doc**to** = **quem** doce; ac**to** = **quem** age; posi**to** = **quem** pone; clau**so** = **quem** claude; mi**sso** = **quem** mitte; lato = **quem** fer.
 
 **quercu** -us | quercia | *chêne* | *oak* | *Eiche*. = Bot. « quercus robur ».
 
@@ -20550,7 +20494,7 @@ L. quum = quando. = || D. wenn.
 
 ## R
 
-**ra** ( *thema de* reor, ratus) = ratiocina, calcula. ⊃ ratione, rata. ⊂ E. ⊃ G. arithmo = numero, D. Rede = oratione.
+**ra** (*thema de* reor, ratus) = ratiocina, calcula. ⊃ ratione, rata. ⊂ E. ⊃ G. arithmo = numero, D. Rede = oratione.
 
 **rabe** -io | arrabiarsi | rager | rage | *rasen*. ⊃ A. rave = delira.
 
@@ -21838,11 +21782,7 @@ rude -o = rugi.
 
 **—ale** -alis | -ale | -al | -al | -al.
 
-**rurso,** *thema de*
-
-**rursum,** *et*
-
-**rursus,** *adverbio* = de novo, iterum. ⊂ re- verso.
+**rurso,** *thema de* **rursum,** *et* **rursus,** *adverbio* = de novo, iterum. ⊂ re- verso.
 
 **rus,** *thema – nominativo*, = rure.
 
@@ -24774,9 +24714,7 @@ G. thyra thúra = porta, janua, valva. = || L. fores. ⊃
 
 **—are** | titolare | -aire | -ar | -ar.
 
-**to,** *thema de* L. (is)to, t(ale), t(anto), to(t), t(am), t(unc); I (ques)to, H. (es)to, P. (is)to, F. (ce)t. ⊂ E. to ⊃ G. tó [pronomine in Homero, articulo in græco classico], A. the, D. der, das, R. to [pronomine], S. ta. In præsente vocabulario,
-
-**to** indica « statu », et satisfac conditione: **habe** + **to** = 0; **to** +
+**to,** *thema de* L. (is)to, t(ale), t(anto), to(t), t(am), t(unc); I (ques)to, H. (es)to, P. (is)to, F. (ce)t. ⊂ E. to ⊃ G. tó [pronomine in Homero, articulo in græco classico], A. the, D. der, das, R. to [pronomine], S. ta. In præsente vocabulario, **to** indica « statu », et satisfac conditione: **habe** + **to** = 0; **to** +
 **habe** = 0. Exemplo: tim**ore** = **to** time; **habe** tim**ore** = time; ori**gine** = **to** ori; **habe** ori**gine** = ori; gaud**io** = **to** gaude; **habe** gaud**io** = gaude; opin**ione** = **to** opina, **habe** opin**ione** = opina; dista**ntia** = **to** dista, **habe** dista**ntia** = dista; aud**acia** = **to** aude, **habe** aud**acia** = aude; vict**oria** = **to** vince, **habe** vict**oria** = vince.
 
 **toga** -a | toga | toge | toga | Toga. = veste longo et amplo. ⊂ tege.
@@ -26505,7 +26443,7 @@ E.
 
 **——tione** -tio | -zione | -tion | -tion | -tion.
 
-**VOL** ( *thema de* L. volo, *inf.* velle) | volere | vouloir | to will | wollen. ⊃ volitione, volitivo, voluntate, voluptate, velleitate, benevolo, malevolo. ⊂ E. ⊃ A. D.; R. volja = voluntate.
+**VOL** (*thema de* L. volo, *inf.* velle) | volere | vouloir | to will | wollen. ⊃ volitione, volitivo, voluntate, voluptate, velleitate, benevolo, malevolo. ⊂ E. ⊃ A. D.; R. volja = voluntate.
 
 **VOLA** -o | volare, H. volar, P. voar | voler (dans l’air) | *to fly* | *fliegen*. ⊃ F. voler = fura.
 
