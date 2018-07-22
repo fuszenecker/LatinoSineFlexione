@@ -1,6 +1,4 @@
-# Vocabulario commune ad latino-italiano-français-English-deutsch pro usu de interlinguistas
-
-**Per prof. Ugo Basso, Ventimiglia, « Revista Universale », 1913.**
+# VOCABULARIO DE LATINO SINE FLEXIONE, 1915
 
 ## A
 
@@ -340,7 +338,9 @@ acĕre acus = palea.
 
 **achate** ā -es 100 | agata | agate | agate | Achat. ⊂ G. achátēs.
 
-**achromatico** -ĭcus | acromatico | achromatique | achromatic | achromatisch. = (lente) que non produc colores. ⊂ G. achr**ō**matos ⊂ a- [sine] chromat(e) [colore] -o.
+**achromatico** -ĭcus | acromatico | achromatique | achromatic | achromatisch. = (lente) que non produc colores. ⊂ G. achr
+
+**ō**matos ⊂ a- [sine] chromat(e) [colore] -o.
 
 **aciario** M | acciaio | acier | *steel* (acier *age*) | *Stahl* (Acierr *ie*). ⊂ aci(e) -ario = ferro de acie, chalybe.
 
@@ -816,7 +816,9 @@ G. ætia, aitía = causa. ⊃ ætiologia.
 
 **ætiologia** | etiologia | étiologie | ætiology | -gie. = studio de causas. ⊂ G. -ía. ⊂ æti(a) [causa] -o- log(o) -ia.
 
-**ævo** -um | I. H. P. evo. = longo periodo de tempore. ⊃ ætate, æterno. ⊂ E. ⊃ G. ai**ō**n = vita; A. ev *er* = semper; D. ew *ig* = æterno.
+**ævo** -um | I. H. P. evo. = longo periodo de tempore. ⊃ ætate, æterno. ⊂ E. ⊃ G. ai
+
+**ō**n = vita; A. ev *er* = semper; D. ew *ig* = æterno.
 
 **affabile** -bĭlis | -bile | -ble | -ble | -bel. = civile, accessibile, dulce, benigno, condescendente. ⊂ ad fa -bile.
 
@@ -946,7 +948,9 @@ agresso 600 = quem aggrede.
 
 G. agogo, agōgós = que duc. ⊃ pædagogo, demagogo.
 
-**agone** 100 | -one | -on | -on. = lucta. ⊃ agonia, antagonista. ⊂ G. ag**ō**n ⊂ age.
+**agone** 100 | -one | -on | -on. = lucta. ⊃ agonia, antagonista. ⊂ G. ag
+
+**ō**n ⊂ age.
 
 agonĭa -a = victima de festo de Jano.
 
@@ -996,7 +1000,7 @@ H.
 
 **ALBO** -us | *bianco*, albo | *blanc* | *white* | *weiss* | H. albo | P. alvo. = candido. ⊃ albumine, albificatione.
 
-**album** (*nominativo de* albo) | album, albo | album | album | Album. = catalogo, registro.
+**album** ( *nominativo de* albo) | album, albo | album | album | Album. = catalogo, registro.
 
 **albumina** N | -mina | -mine | -min | -min. = substantia de albumine.
 
@@ -1122,7 +1126,9 @@ alluvie -es =
 
 **aloe** 100 | aloe | aloés | aloes | Aloe. ⊂ G. alóē.
 
-**alopecia** 100 | -ia | -ie | -ia | -ie. = calvities. ⊂ G. alōpecia ⊂ al**ō**pēx = vulpe, que perde pelo.
+**alopecia** 100 | -ia | -ie | -ia | -ie. = calvities. ⊂ G. alōpecia ⊂ al
+
+**ō**pēx = vulpe, que perde pelo.
 
 **alphabetico** | alfabetico | -étique | -tic | -tisch. ⊂ alphabet(o) -ico.
 
@@ -1204,7 +1210,9 @@ alluvie -es =
 
 **—orio** -us | -orio | | -ory | -orisch.
 
-**amazone** -ăzon | -zzone | -zone | -zon | -zone. ⊂ G. amaz**ō**n ⊂ a- [sine] mazo [mamma] -ne.
+**amazone** -ăzon | -zzone | -zone | -zon | -zone. ⊂ G. amaz
+
+**ō**n ⊂ a- [sine] mazo [mamma] -ne.
 
 amb- = am.
 
@@ -1412,7 +1420,9 @@ G. anemo, ánemos = vento. ⊃ anemometro, anemone, anemoscopio. ⊂ ane -mo.
 
 **anemometro** ĕ | -metro | anémomètre | -meter | -meter. = quod mete vento. ⊂ anemo metro.
 
-**anemone** ō 100 | -one | anémone | -mone | -mone. = Bot. « anemone memorosa », flore de vento. ⊂ G. anem**ō**nē.
+**anemone** ō 100 | -one | anémone | -mone | -mone. = Bot. « anemone memorosa », flore de vento. ⊂ G. anem
+
+**ō**nē.
 
 **anemoscopio** | -opio | anémoscope | -ope | -skop. = indicatore de vento. ⊂ anemo scop(o) -io.
 
@@ -1536,19 +1546,27 @@ annŭlo-us, V. anulo.
 
 **anodo** = polo electrico positivo. ⊂ an(a) (h)odo.
 
-**anodyno** ŭ 100 | anodino | anodin | -yne | -ynum. = (medicina) que tolle dolore. ⊂ G. an**ō**dunon. ⊂ an- [sine] odýn(ē) [dolore] -o.
+**anodyno** ŭ 100 | anodino | anodin | -yne | -ynum. = (medicina) que tolle dolore. ⊂ G. an
+
+**ō**dunon. ⊂ an- [sine] odýn(ē) [dolore] -o.
 
 **anomalia** 200 | -alia | -alie | -aly | -alie. ⊂ G. anōmalia ⊂ anomal(o) -ia.
 
-**anomalo** 500 | -alo | -al | -alous | -al. = contra regula. ⊂ G. an**ō**malos ⊂ an- homalo.
+**anomalo** 500 | -alo | -al | -alous | -al. = contra regula. ⊂ G. an
 
-**anonymo** ŭ | -imo | -me | -mous | -m. ⊂ G. an**ō**numos ⊂ an- [sine] onom(a) [nomen] -o.
+**ō**malos ⊂ an- homalo.
 
-**ansa** -a | ansa, *manico* (*di vaso*) | anse | *handle*, (ansated) | *Henkel*.
+**anonymo** ŭ | -imo | -me | -mous | -m. ⊂ G. an
+
+**ō**numos ⊂ an- [sine] onom(a) [nomen] -o.
+
+**ansa** -a | ansa, *manico* ( *di vaso*) | anse | *handle*, (ansated) | *Henkel*.
 
 **ansere** -sĕr | *oca*, anserello | *oie*, (ansères, anserine) | goose, gander, anser | Gans | H. ansar. = Zool. « anser cinereus ». ⊂ E. ghans ⊃ G. ch**ē**n, A. goose, D. Gans, R. gusï.
 
-**antagonismo** | -smo | -sme | -sm | -smus. ⊂ G. antag**ō**nisma ⊂ ant(i) agon(e) -ismo.
+**antagonismo** | -smo | -sme | -sm | -smus. ⊂ G. antag
+
+**ō**nisma ⊂ ant(i) agon(e) -ismo.
 
 **antagonista** 400 | -ista | -iste | -ist | -ist. ⊂ G. antagōnist**ē**s ⊂ ant(i) agon(e) -ista.
 
@@ -1894,7 +1912,7 @@ G. aræo araiós = raro, anti denso. ⊃ aræometro.
 
 **—ario** | -ario | -aire | -ary | -är. ⊂ arbitr(o) -ario.
 
-**arbitrio** -ĭum | -trio | (*libre*) arbitre | (*free*) *will* | -trium. ⊂ arbitr(o) -io. = voluntate.
+**arbitrio** -ĭum | -trio | ( *libre*) arbitre | ( *free*) *will* | -trium. ⊂ arbitr(o) -io. = voluntate.
 
 **arbitro** -ĭter | -tro | -tre | -ter | -ter.
 
@@ -2918,7 +2936,9 @@ G. bu, boûs = || bove. ⊃ bucolico, bulimia, butyro.
 
 **bubone** bubo | *gufo* | *hibou* | *owl* | *Uhu*. = Zool. « strix bubo ».
 
-**bubonio** (L. medico) | bubbone | -bon | -bo | -bonen. = tumore. ⊂ G. bub**ō**n -ônos.
+**bubonio** (L. medico) | bubbone | -bon | -bo | -bonen. = tumore. ⊂ G. bub
+
+**ō**n -ônos.
 
 **bucca** -a = cavitate de ore. ⊃ I. bocca, F. bouche = ore.
 
@@ -3232,7 +3252,9 @@ cane -eo = es cano.
 
 **cano** -us | canuto | chenu | *grey* | *grau*. = quasi albo (capillos aut pilos). ⊃ canitie.
 
-**canone** ŏ 100 | -one | -on | -on | -on. = regula. ⊃ canonico. ⊂ G. can**ō**n -ónos. ⊂ canna = regula ex ligno.
+**canone** ŏ 100 | -one | -on | -on | -on. = regula. ⊃ canonico. ⊂ G. can
+
+**ō**n -ónos. ⊂ canna = regula ex ligno.
 
 **—ico** -ĭcus | -ico | -ique, chanoine | -ic | -isch, -ical, -icus. = regulare; dignitario clericale. ⊂ G. -icós. ⊂ canon(e) -ĭco.
 
@@ -3256,7 +3278,9 @@ cane -eo = es cano.
 
 **—itate** -tas | -ità | -ité | -ity | -ität.
 
-**CAPE** -io = prehende; contine. ⊃ capto, captioso, captura, captivo, captiva, capta, capace, capulo, capsa; accipe, accepto, anticipa, concipe, concepto, decipe, deceptione, excipe, excepto, incipe, incepto, percipe, perceptione, præcepto, recipe, receptione, suscipe, susceptibile, occupa, recupa, participe. ⊃ I. capire, H. P. caber, D. capieren. = contine, cape cum mente, intellige. ⊂ E. ⊃ G. c**ō**pē = manubrio, capulo; D. Haft = captura; A. haft = manubrio.
+**CAPE** -io = prehende; contine. ⊃ capto, captioso, captura, captivo, captiva, capta, capace, capulo, capsa; accipe, accepto, anticipa, concipe, concepto, decipe, deceptione, excipe, excepto, incipe, incepto, percipe, perceptione, præcepto, recipe, receptione, suscipe, susceptibile, occupa, recupa, participe. ⊃ I. capire, H. P. caber, D. capieren. = contine, cape cum mente, intellige. ⊂ E. ⊃ G. c
+
+**ō**pē = manubrio, capulo; D. Haft = captura; A. haft = manubrio.
 
 **capillo** -us | capello | cheveau | *hair* | *Haar*. = crine de capite.
 
@@ -3330,7 +3354,7 @@ capŭlo -us = feretro.
 
 **capulo** 700 | *cavo* | cable | cable | Kabel. = magno fune. ⊃ I. cappio = extremo de fune.
 
-**caput** (*nominativo*) = capite.
+**caput** ( *nominativo*) = capite.
 
 **carbone** carbo | -one | charbon | *coal* | *Kohle*. ⊃ carbonio.
 
@@ -3828,7 +3852,7 @@ G. chalco -ós = cupro. ⊃ chalco(graphia).
 
 **chamæmelo** 100 | camomilla | camomille | camomille | Kamille. = Bot. « matricaria chamomilla ». ⊂ G. chamaímēlon. = pomo ad terra.
 
-**chaos** (*nominativo* L.) | caos | chaos | chaos | Chaos. ⊂ G. cháos.
+**chaos** ( *nominativo* L.) | caos | chaos | chaos | Chaos. ⊂ G. cháos.
 
 **chaotico** -ĭcus | caotico | chaotique | -tic | -tisch. ⊂ chao(s) -tico.
 
@@ -3892,7 +3916,9 @@ G. chir, cheír. = manu.
 
 **—ina** | colerina | -érine | -erine | -rine. = cholera minore.
 
-G. chora, ch**ō**ra = loco, terra, solo, campo. ⊃ chorographia, anachoreta.
+G. chora, ch
+
+**ō**ra = loco, terra, solo, campo. ⊃ chorographia, anachoreta.
 
 **chorale** | corale | -al | -al | -al | -al. = de choro.
 
@@ -3928,7 +3954,11 @@ G. chris chríō = unge. ⊃ -ma, -to.
 
 **Christo** 100 | Cristo | Christ | Christ | Christus. ⊂ G. Christós. ⊂ chris = uncto, consecrato, Messia.
 
-G. chroma(te), chr**ō**ma = colore; semitono musicale. ⊃ chromatico, achromatico, chromotypia. ⊂ chr**ō**s [pelle].
+G. chroma(te), chr
+
+**ō**ma = colore; semitono musicale. ⊃ chromatico, achromatico, chromotypia. ⊂ chr
+
+**ō**s [pelle].
 
 chroma(te) 100 =
 
@@ -3972,7 +4002,9 @@ G. chryso -ós = auro. ⊃ chrysallide, chrysanthemo, chrysolitho.
 
 **cibo** -us | cibo. = alimento. ⊃ ciba.
 
-**ciborio** -um | -rio | -oire | -rium | -rium. = poculo, calice. ⊂ G. cib**ō**rion.
+**ciborio** -um | -rio | -oire | -rium | -rium. = poculo, calice. ⊂ G. cib
+
+**ō**rion.
 
 **cicada** ā -a | cicala | cigale | cicada, cicala | cicade. = Zool. « cicada orni ». ⊃ H. cigarra = cicada; H. cigarro | sigaro | cigare | cigar | Cigarre.
 
@@ -3986,7 +4018,9 @@ G. chryso -ós = auro. ⊃ chrysallide, chrysanthemo, chrysolitho.
 
 cichorēo -um =
 
-**cichorio** 100 | cicoria | chicoirée | succory, chicory | Cichorie. = Bot. « cichorium intybus ». ⊂ G. -**ō**rion.
+**cichorio** 100 | cicoria | chicoirée | succory, chicory | Cichorie. = Bot. « cichorium intybus ». ⊂ G. -
+
+**ō**rion.
 
 **ciconia** -ĭa | cigogna | cigogne | *stork* | *Storch*. = Zool. « ciconia alba ».
 
@@ -4296,7 +4330,9 @@ coccyge 100 = cuculo. ⊂ G. cóccyx. &gt;
 
 **cocto** -us | cotto | cuit | cooked | gekocht. = quem coque.
 
-**codeina** | -eina | -éine | -eine | -ein. ⊂ G. c**ō**dē = papavere.
+**codeina** | -eina | -éine | -eine | -ein. ⊂ G. c
+
+**ō**dē = papavere.
 
 **codice** ĭ -ex | -ce | code | code, codex | Codex.
 
@@ -4448,7 +4484,9 @@ collabe -or = labe. ⊃ collapso.
 
 **—tione** -tio | -zione | -tion | -tion | -tion.
 
-**collodio** | -dio | -dion | -dion | -dium. = solutione in ethere de cotone fulminante. ⊂ G. coll**ō**des [glutinante] ⊂ colla.
+**collodio** | -dio | -dion | -dion | -dium. = solutione in ethere de cotone fulminante. ⊂ G. coll
+
+**ō**des [glutinante] ⊂ colla.
 
 colloque -ŏquor = loque cum, fac colloquio.
 
@@ -4458,7 +4496,9 @@ colloque -ŏquor = loque cum, fac colloquio.
 
 **colo** -um = colatorio.
 
-**colon** 100 (*nom.*, *thema* colo) | colon | côlon | colon | Kolon. ⊂ G. c**ō**lon. = intestino cæco et recto; membro; membro de propositione; signo : (duo puncto) que divide membro.
+**colon** 100 ( *nom.*, *thema* colo) | colon | côlon | colon | Kolon. ⊂ G. c
+
+**ō**lon. = intestino cæco et recto; membro; membro de propositione; signo : (duo puncto) que divide membro.
 
 **colonia** -a | -nia | -nie | -ny | -nie, Köln. ⊂ colon(o) -ia.
 
@@ -4476,7 +4516,9 @@ colloque -ŏquor = loque cum, fac colloquio.
 
 **—tione** | -zione | -tion | -tion | -tion.
 
-**colore** -or | -ore | couleur | -or | *Farbe*, Colorit. ⊂ cel(a) -ore; parte superficiale de corpore. = G. chrôma ⊂ chr**ō**s [pelle].
+**colore** -or | -ore | couleur | -or | *Farbe*, Colorit. ⊂ cel(a) -ore; parte superficiale de corpore. = G. chrôma ⊂ chr
+
+**ō**s [pelle].
 
 **colossale** | -ale | -al | -al | -al. = de colosso.
 
@@ -4622,7 +4664,9 @@ commissione | -ssione | -ssion | -ssion | -ssion. = mandato, jusso, cura, procur
 
 **—tore** | -tore | -teur | -tor | -tor.
 
-G. como, cômos = festo de pago, orgia. ⊃ comico, comœdia. ⊂ c**ō**mē = pago.
+G. como, cômos = festo de pago, orgia. ⊃ comico, comœdia. ⊂ c
+
+**ō**mē = pago.
 
 **comœdia** -a | commedia | comédie | comedy | -die. ⊂ G. cōmōdía ⊂ cōm(o) ōde.
 
@@ -5600,7 +5644,9 @@ coram -am = in præsentia, ante, præ.
 
 **—ario** | -ario | -aire | -ary | -arium. = appendice (de theorema).
 
-**corona** -a | corona | couronne | crown | Krone. ⊂ G. cor**ō**nē.
+**corona** -a | corona | couronne | crown | Krone. ⊂ G. cor
+
+**ō**nē.
 
 **—** -o | coronare | couronner | to crown | krönen. = da corona.
 
@@ -5706,7 +5752,9 @@ corpus = corpore.
 
 **—ale** | -ale | -al | -al | -al.
 
-**cotyledone** ŏ | cotiledone | -édon | -edon | -edon. = lobo carnoso que involve semine. ⊂ G. -d**ō**n -dónos. ⊂ cotúlē [cavitate].
+**cotyledone** ŏ | cotiledone | -édon | -edon | -edon. = lobo carnoso que involve semine. ⊂ G. -d
+
+**ō**n -dónos. ⊂ cotúlē [cavitate].
 
 **COXA** 100 | coscia | cuisse | *thigh* | *Hüfte*. ⊂ E. ⊃ A. hock = calcaneo.
 
@@ -5774,7 +5822,9 @@ G. crato, crátos = vi, potestate, imperio. ⊃ aristocratia, democratia, autocr
 
 **—ato** | -ato | crénelé | -ate.
 
-**creosoto** | -soto | créosote | -sote | -sot. = liquido antiseptico ex pice, que conserva carne ab putrefactione. ⊂ G. cré(as) [carne] -o- so [s**ō**zō = salva, conserva] -to.
+**creosoto** | -soto | créosote | -sote | -sot. = liquido antiseptico ex pice, que conserva carne ab putrefactione. ⊂ G. cré(as) [carne] -o- so [s
+
+**ō**zō = salva, conserva] -to.
 
 **crepa** -o | -are | crever | *to crack* | -ieren. ⊃ crepita, decrepito, discrepa.
 
@@ -6074,7 +6124,9 @@ L. cur = quare.
 
 **—ope** -es | ciclope | -ope | -ops | -op. ⊂ G. cúclōps. = gigantes cum uno solo oculo [op] circulare [cyclo].
 
-**——ico** -ĭcus | ciclopico | -pique | -pic | -pisch. = (constructione) de gigante. ⊂ G. -**ō**picós.
+**——ico** -ĭcus | ciclopico | -pique | -pic | -pisch. = (constructione) de gigante. ⊂ G. -
+
+**ō**picós.
 
 **cycno** -us | cigno | cygne | *swan* | *Schwan*. = Zool. « cycnus olor ». ⊂ G. cúcnos.
 
@@ -6142,7 +6194,7 @@ G. dama, damázō =|| doma. ⊃ adamante.
 
 **—ifero** -ĕrus | -fero | -fer | -fer | -fer.
 
-**data** (*nom. plur. de* dato) | data | date | data | data. = die (de littera).
+**data** ( *nom. plur. de* dato) | data | date | data | data. = die (de littera).
 
 **dativo** 100 | -ivo | -if | -ive | -ivus. = casu grammaticale que « da ».
 
@@ -6372,7 +6424,7 @@ deci- = diviso per decem. ⊃ decimetro, decigramma.
 
 —— N | -ente | | -ent | -ent. = ad que defice, que non habe, que care, defectivo.
 
-**deficit** (*persona 3 de verbo* defice) | -cit | -cit | -cit | -cit. = quod defice.
+**deficit** ( *persona 3 de verbo* defice) | -cit | -cit | -cit | -cit. = quod defice.
 
 **defini** -io | -ire | définir | -e | -ieren. = pone fines, determina.
 
@@ -6974,7 +7026,11 @@ diabete 100 = siphone.
 
 **diachylo** -ūlon | -ilon | -ylon | -ylum | -ylon. = cataclasma, ex oxydo de plumbo. ⊂ G. diáchulon ⊂ dia [cum] chylo [succo].
 
-**diacodio** 100 | -odio | -ode | -odium | -odium. ⊂ G. diac**ō**dion ⊂ dia [ex] c**ō**dē [papavere].
+**diacodio** 100 | -odio | -ode | -odium | -odium. ⊂ G. diac
+
+**ō**dion ⊂ dia [ex] c
+
+**ō**dē [papavere].
 
 **diacono** ŏ 300 | diacono | diacre | deacon | Diakon. ⊂ G. diáconos . = servo, ministro de ecclesia.
 
@@ -6996,7 +7052,9 @@ diabete 100 = siphone.
 
 **—a** | -care | -quer | -cate | -cieren.
 
-**diagonale** 100 | -ale | -ale, -al | -al | -al. ⊂ G. diag**ō**nios ⊂ dia gonía.
+**diagonale** 100 | -ale | -ale, -al | -al | -al. ⊂ G. diag
+
+**ō**nios ⊂ dia gonía.
 
 **diagramma**(te) 100 | -amma | -amme | -am | -amm. = descriptione, figura. ⊂ G. diágramma dia gramma.
 
@@ -7018,7 +7076,9 @@ diabete 100 = siphone.
 
 **—ale** | -ale | -étral | -al | -al.
 
-**diapason** ā 100 | -on | -on | -on | -on. = octava musicale. ⊂ G diá pas**ō**n = ex omni (nota musicale).
+**diapason** ā 100 | -on | -on | -on | -on. = octava musicale. ⊂ G diá pas
+
+**ō**n = ex omni (nota musicale).
 
 **—** N | diapason | diapason. = instrumento musicale que fac 870 vibratione per secunda.
 
@@ -7666,7 +7726,9 @@ G. doc docéō = cense, existima. ⊃ doxa, orthodoxo, dogma.
 
 **documento** -um | -mento | -ment | -ment | -ment. ⊂ doc(e) -u- -mento.
 
-**dodecaedro** ĕ | -aedro | dodécaèdre | -ahedron | -aëder. = polyedro cum 12 facio. ⊂ G. dōdecáedron. ⊂ d**ō**deca [decem et duo] hédra [basi].
+**dodecaedro** ĕ | -aedro | dodécaèdre | -ahedron | -aëder. = polyedro cum 12 facio. ⊂ G. dōdecáedron. ⊂ d
+
+**ō**deca [decem et duo] hédra [basi].
 
 **dogmate -ma** | -ma | -me | -ma | -ma. = decreto, edicto. ⊂ G. dógma ⊂ doc -ma.
 
@@ -7944,7 +8006,9 @@ eccum (Plauto) = ecce. ⊃ I. ecco, quà, qui, questo, quello, quindi.
 
 G. ech, hec, sch, échō = tene, habe, custodi. ⊃ (ep)och(a), (eun)ucho, sche(ma), (cac)hexia, isch(uria).
 
-**echo** -o | eco | écho | echo | Echo. = reflexione de sono. ⊂ G. ēch**ō**.
+**echo** -o | eco | écho | echo | Echo. = reflexione de sono. ⊂ G. ēch
+
+**ō**.
 
 **eclectico** -ĭcus | eclettico | éclectique | -ic | -isch, -iker. = (philosopho) que elige ex (omni systema). ⊂ G. -icós. ⊂ ec leg(e) -tico.
 
@@ -8032,7 +8096,9 @@ G. ech, hec, sch, échō = tene, habe, custodi. ⊃ (ep)och(a), (eun)ucho, sche(
 
 **EGE** -eo | *aver bisogno* | *manquer de* | *want* | *bedürfen*, *darben*. = (ind)ige, es indigente, non habe, care, anti abunda.
 
-**ego** (nominativo) ego | io | je | I | ich | H. yo | P. eu. = me. ⊃ egoismo. ⊂ E. ⊃ A. I, D. ich, G. eg**ō**, R. ja, S. aham.
+**ego** (nominativo) ego | io | je | I | ich | H. yo | P. eu. = me. ⊃ egoismo. ⊂ E. ⊃ A. I, D. ich, G. eg
+
+**ō**, R. ja, S. aham.
 
 **egoismo** | -ismo | -ïsme | -ism | -ism.
 
@@ -8342,7 +8408,9 @@ entomo éntomon = insecto. ⊂ en [in] tomo [secto].
 
 eo eo = ad ipso loco.
 
-G. ēō ē**ō**s, éōs = || aurora.
+G. ēō ē
+
+**ō**s, éōs = || aurora.
 
 **eocæno** | eoceno | éocène | eocene | Eocän. = initio [aurora] de periodo tertiario [recente] de terra; apparitione de simias; diffusione de saurios. ⊂ ēō [aurora] cæno [recente].
 
@@ -8394,7 +8462,9 @@ G. epi epí = supra.
 
 **epiphania** -īa 600 | -fania | é—nie | -ny | -nie. ⊂ G. -áneia. = apparitione (de Christo ad Magos). ⊂ epi phan -ia.
 
-**epiphonema**(te) 100 | epifonema | -ème | -ema | -em. = exclamatione. ⊂ G. -**ō**nēma. ⊂ epi phone -ma.
+**epiphonema**(te) 100 | epifonema | -ème | -ema | -em. = exclamatione. ⊂ G. -
+
+**ō**nēma. ⊂ epi phone -ma.
 
 **episcopo** -ŏpus = inspectore. ⊂ G. epíscopos ⊂ epi scop [spece] -o.
 
@@ -8486,7 +8556,7 @@ erga -a = ad, in facie, verso, contra.
 
 **—ante** -ans | -ante | -ant | -ant | -ant.
 
-**—ata** (*nom. plur. de* errato) | -ata | -ata | -ata | -ata. = (tabula de) errores.
+**—ata** ( *nom. plur. de* errato) | -ata | -ata | -ata | -ata. = (tabula de) errores.
 
 **—tico** -ĭcus | -tico | -tique | -tic | -tisch. (massa) que erra.
 
@@ -8528,7 +8598,7 @@ erga -a = ad, in facie, verso, contra.
 
 **esoterico** -ĭcus | -ico | ésotérique | -ric | -isch. = privato, interiore, secreto, (philosophia) pro solo adeptos, anti exoterico. ⊂ G. esōtericós ⊂ e(i)s [in] -o- -ter(o) -ico.
 
-**esse** (*infinitivo de* es) | essere | être. = to es.
+**esse** ( *infinitivo de* es) | essere | être. = to es.
 
 **—ntia** 100 | -nza | -nce | -nce | -nz. = parte constituente, profumo.
 
@@ -8590,9 +8660,13 @@ G. eudia eudía = aere sereno. ⊂ eu [bono] dio [Jove, cælo].
 
 **—ico** -ĭcus | eufonico | -ique | -ic | -isch.
 
-**Europa** -a | -pa | -pe | -pe | -pa. ⊂ G. Eur**ō**pē ⊂ Semitico ereb = ponente.
+**Europa** -a | -pa | -pe | -pe | -pa. ⊂ G. Eur
 
-**Europæo** ō 100 | -eo | -éen | -ean | -æer, -æisch. ⊂ G. eur**ō**paios. = de Europa.
+**ō**pē ⊂ Semitico ereb = ponente.
+
+**Europæo** ō 100 | -eo | -éen | -ean | -æer, -æisch. ⊂ G. eur
+
+**ō**paios. = de Europa.
 
 G. eury eurús = lato. ⊃ (an)eury(sma).
 
@@ -9254,7 +9328,7 @@ exulta, v. exsula.
 
 **——iale** N | fattoriale | -rielle | -rial | -rielle. = producto de numeros consecutivo (Algebra).
 
-**factotum** | -tum | -tum | -tum | -tum. = (qui) fac totum (*accus. de* toto).
+**factotum** | -tum | -tum | -tum | -tum. = (qui) fac totum ( *accus. de* toto).
 
 **factura** 100 | fattura | -ture | -ture | -tur. = ton fac. ⊃ manufactura.
 
@@ -9518,7 +9592,7 @@ L. fere = quasi.
 
 **FI** fio | *diventare* | *devenir* | *to become*, *to be done* | *werden*. = es futuro, veni ad es, incipe ad es, se fac, es facto, eveni. ⊃ fiat, futuro. ⊂ E. bhu ⊃ G. phy, A. be, D. bin, R. bytï, S. bhu.
 
-**fiat** (*conjunctivo de* fi) | fia, *che sia* | fiat, *que soit* | fiat, *let it be done* | Fiat, *es werde*. = ut fi.
+**fiat** ( *conjunctivo de* fi) | fia, *che sia* | fiat, *que soit* | fiat, *let it be done* | Fiat, *es werde*. = ut fi.
 
 **fibra** -a | -bra | -bre | -bre | -ber.
 
@@ -9672,7 +9746,7 @@ L. fere = quasi.
 
 **—** = inflamma.
 
-**flammifero** -fer -fĕr- | fiammifero | *allumette* | *match* (*to obtain fire*) | *Streichholz*. = que fer flamma.
+**flammifero** -fer -fĕr- | fiammifero | *allumette* | *match* ( *to obtain fire*) | *Streichholz*. = que fer flamma.
 
 **flatu** -us | fiato | *souffle*, *haleine* (flatu *osité*) | -us, *breath* | -us. ⊂ fla -tu.
 
@@ -9704,7 +9778,7 @@ L. fere = quasi.
 
 **flige** -o = afflige.
 
-**flo** (*thema de* flore) = da flore, floresce. ⊂ E. bhlo ⊃ A. blow, bloo *m*, D. blühen, Blu *me*.
+**flo** ( *thema de* flore) = da flore, floresce. ⊂ E. bhlo ⊃ A. blow, bloo *m*, D. blühen, Blu *me*.
 
 **flocco** 100 | fiocco | flocon | flock | Flocke.
 
@@ -10166,7 +10240,9 @@ fricto 100 = fricato.
 
 **—are** | -are | -aire | -ar.
 
-**fur** (*nom.; abl.* fure) | *ladro* | *voleur* | *thief* | *Dieb* | G. ph**ō**r. = latrone. ⊃ fura, furtivo, furto, furunculo.
+**fur** ( *nom.; abl.* fure) | *ladro* | *voleur* | *thief* | *Dieb* | G. ph
+
+**ō**r. = latrone. ⊃ fura, furtivo, furto, furunculo.
 
 **fura** -or = fac furto, es fur.
 
@@ -10180,7 +10256,7 @@ fure fur, V. fur.
 
 **fure** -o = es in furia, habe furore, es furibundo. || L. ferve.
 
-**furfure** -fur -fŭr- | *crusca* | *son* (*de farine*) | *bran* | Kleie.
+**furfure** -fur -fŭr- | *crusca* | *son* ( *de farine*) | *bran* | Kleie.
 
 **—** 100 | forfora | -res | *scurf*, -r | -ration.
 
@@ -10528,7 +10604,9 @@ gentīle -is = de idem gente.
 
 **—atore** | -tore | -teur | glosser | -tor.
 
-G. glotta, gl**ō**tta = lingua (organo, sermone). ⊃ glottologia, glossa, polyglotta.
+G. glotta, gl
+
+**ō**tta = lingua (organo, sermone). ⊃ glottologia, glossa, polyglotta.
 
 **glottide** ĭ N | -tide | -te | -tis | -tis. = orificio de pharynge. ⊂ G. glōttís ⊂ glotta.
 
@@ -10560,9 +10638,13 @@ G. glyph glúphō = incava, sculpe. ⊃ anaglypho, glyptica. || L. glube.
 
 E.
 
-**gno** = no(sce), (co)gno(sce). ⊃ no(to), no(men), (i)gno(ra); G. gign**ō**scō, gno(mone), gno(si), (physio)gno(mia), (pro)gno(stico); A. know, D. kennen, R. znatï, S. g’na.
+**gno** = no(sce), (co)gno(sce). ⊃ no(to), no(men), (i)gno(ra); G. gign
 
-**gnomone** ŏ 100 | -mone | -mon | -mon | -mon. ⊂ G. gn**ō**mōn ⊂ gno. = acu de horologio solare.
+**ō**scō, gno(mone), gno(si), (physio)gno(mia), (pro)gno(stico); A. know, D. kennen, R. znatï, S. g’na.
+
+**gnomone** ŏ 100 | -mone | -mon | -mon | -mon. ⊂ G. gn
+
+**ō**mōn ⊂ gno. = acu de horologio solare.
 
 **—ica** ĭ 100 | -ica | -ique | -ics | -ik. ⊂ G. gnōmonic**ē**.
 
@@ -10912,7 +10994,9 @@ G. helio h**ē**lios = sol. ⊃ (ap)helio, (peri)helio, heliaco.
 
 **heliotropio** 100 | eliotropio | hé—pe | -pe | -pium. = planta que verte flores ad sol. Uno specie es « heliotropium peruvianum ». ⊂ G. hēliotrópion ⊂ helio trop [verte] -io.
 
-**helota** -a, hilota | ilota | ilote | helot | Heloten. = servo de Spartanos. ⊂ G. heil**ō**tēs, habitante de Helo.
+**helota** -a, hilota | ilota | ilote | helot | Heloten. = servo de Spartanos. ⊂ G. heil
+
+**ō**tēs, habitante de Helo.
 
 **Helvetia** -ĭa | Svizzera | Suisse | Helvetia | Schweiz.
 
@@ -11032,9 +11116,11 @@ G. hexi héxis = statu, constitutione, habitu. ⊃ cachexia. ⊂ ech.
 
 **hic** hic | qui, ci | ici | *here* | *hier* | H. P. aquí = in ce loco; eccum hic ⊃ I. quì, H. P. aquí; ecce hic ⊃ I. ci, F. ici.
 
-hic (*nom.*), hic hæc hoc = ce, isto, hoc.
+hic ( *nom.*), hic hæc hoc = ce, isto, hoc.
 
-**hieme** hiems | inverno | hiver | *winter* | *Winter* | H. invierno | P. inverno. ⊃ hiemale, hiberno. ⊂ E. ghim ⊃ G. cheim**ō**n, R. zima, S. hima; Himalaja = monte de hieme.
+**hieme** hiems | inverno | hiver | *winter* | *Winter* | H. invierno | P. inverno. ⊃ hiemale, hiberno. ⊂ E. ghim ⊃ G. cheim
+
+**ō**n, R. zima, S. hima; Himalaja = monte de hieme.
 
 **hiemale** -is | iemale | hiémal | hyemal | -al. = de hieme, hibernale.
 
@@ -11128,7 +11214,9 @@ G. homœo hómoios = simile. ⊂ homo.
 
 **homologo** -ŏgus | omologo | -ogue | -ogous | -og. ⊂ G. homólogos. = correspondente, concordante.
 
-**homonymo** -ŭmus 100 | omonimo | -yme | -ymous | -ym. = cum idem nomen. ⊂ G. hom**ō**numos. ⊂ homo onoma.
+**homonymo** -ŭmus 100 | omonimo | -yme | -ymous | -ym. = cum idem nomen. ⊂ G. hom
+
+**ō**numos. ⊂ homo onoma.
 
 **—ia** -ĭa 100 | omonimia | -mie | -my | -mie. ⊂ G. homōnymía.
 
@@ -11148,7 +11236,9 @@ G. homœo hómoios = simile. ⊂ homo.
 
 **—ifico** -ĭcus | onorifico | -fique | -fic.
 
-**HORA** -a | ora | heure | hour, *o’clock* | Uhr, *Stunde* | H. P. hora. ⊃ horario, horologio, horoscopo. ⊂ G. h**ō**ra = 1/24 de die, in Aristotele; tempore.
+**HORA** -a | ora | heure | hour, *o’clock* | Uhr, *Stunde* | H. P. hora. ⊃ horario, horologio, horoscopo. ⊂ G. h
+
+**ō**ra = 1/24 de die, in Aristotele; tempore.
 
 G. horae -áō = vide. ⊃ panorama. || L. vere [honora], D. warten.
 
@@ -11268,7 +11358,7 @@ L. Huc = ad ce loco.
 
 **—graphico** -ĭcus | i—fico | -phique | -phic | -phisch.
 
-**—meli** 100 (*nomin.*) | i—ele | -el | -wel | -el. = liquore ex aqua et melle. ⊂ G. hydrómeli.
+**—meli** 100 ( *nomin.*) | i—ele | -el | -wel | -el. = liquore ex aqua et melle. ⊂ G. hydrómeli.
 
 **—metria** | i—etria | -étrie | -etry | -etrie.
 
@@ -11348,7 +11438,7 @@ G. hypno húpnos = || somno. ⊃
 
 **i** (eo is ivi itum ire) | *andare*, i *re* gi *re*, i *va* i *to* | *aller*, i *rais* i *ras* i *ra* i *rai* | *to go* | *gehen* | H. i *r*, i *ba* i *do* | P. i *r*, i *a* i *do*. = vade, ambula, grade, cede, veni, curre, fuge, sali, scande. ⊃ *ad*i *tu*, *amb*i, *circu*i *tu*, *com*i *te*, *ex*i, *in*i *tiale*, *intro*i *tu*, *per*i, *praeter*i, *red*i, *sed*i *tione*, *sub*i *to*, *trans*i, i *tinere*. ⊂ E. i ⊃ G. i, eími, i *on*, *pro*œ *mio*; R. i *tï*, S. i; ? A. go, D. gehen (ex præfixo ge- et thema i).
 
-i-, *thema de* eo, id, isto, idem, ibi, ita.
+i-, *thema de *eo, id, isto, idem, ibi, ita.
 
 **iaspide** -pis -pĭd- | diaspro | jaspe | jasper | Jaspis. ⊂ G. íaspis.
 
@@ -11366,7 +11456,9 @@ G. ichthy ichthús = pisce.
 
 **ichthyologia** | ittiologia | -gie | -gy | -gie. = discursu super pisces.
 
-**icone** icŏn | -one | -one | -on | -on. = effigie, imagine. ⊂ G. eic**ō**n.
+**icone** icŏn | -one | -one | -on | -on. = effigie, imagine. ⊂ G. eic
+
+**ō**n.
 
 **—oclasta** | -asta | -aste | -ast | -ast. = qui destrue imagines. ⊂ G. eiconoclástēs. ⊂ icon(e) -o- claz [cláō = frange] -ta.
 
@@ -11376,7 +11468,7 @@ G. ichthy ichthús = pisce.
 
 **—** | *battuta* | -us | -us | -us. = pede musicale.
 
-**id** (*nominativo neutro de* is ea id) | *ciò* | *cela*, *ce* | it, *that* | es. = ce re. ⊂ E. id ⊃ A. it, D. es.
+**id** ( *nominativo neutro de* is ea id) | *ciò* | *cela*, *ce* | it, *that* | es. = ce re. ⊂ E. id ⊃ A. it, D. es.
 
 L. idcirco = ergo.
 
@@ -11390,7 +11482,7 @@ L. idcirco = ergo.
 
 **—itate** | -ità | idéalité | -ity | -ität.
 
-**idem** idem (*nominativo masculino et neutro*, *ablativo* eodem) | idem, *stesso*, *medesimo* | idem, *même* | idem, *same* | idem, *derselbe*. = identico.
+**idem** idem ( *nominativo masculino et neutro*, *ablativo* eodem) | idem, *stesso*, *medesimo* | idem, *même* | idem, *same* | idem, *derselbe*. = identico.
 
 **identico** -ĭcus N | -ico | -ique | -ic | -isch. = idem.
 
@@ -11418,7 +11510,9 @@ G. idio ídios = proprio, particulare. ⊃ idioma, idiota, idiosyncrasia.
 
 **idiosyncrasia** | idiosincrasia | -sie | -sy | -sie. = temperamento proprio. ⊃ G. -ía. ⊂ idio syn crasi -a.
 
-**idiota** -a | -iota | -iot | -iot | -iot. = homo privato, simplice; ignorante. ⊂ G. idi**ō**tēs ⊂ idio.
+**idiota** -a | -iota | -iot | -iot | -iot. = homo privato, simplice; ignorante. ⊂ G. idi
+
+**ō**tēs ⊂ idio.
 
 **—ia** -īa | -zia, -taggine | -tie | -cy | -tie. = to es idiota. ⊂ G. idiōteía.
 
@@ -11464,7 +11558,7 @@ L. igitur = ergo.
 
 **ignoto** -us | ignoto. = ne noto, incognito
 
-**ille** (*nominativo*), v. illo
+**ille** ( *nominativo*), v. illo
 
 **illegale** | -ale | illégal | -al | -al. = ne legale, contra lege.
 
@@ -13228,9 +13322,13 @@ invito -ītus = ne volente.
 
 **—itate** | -ità | -érabilité | -ity | -ität.
 
-**io** io = oh!, ah!; exclamatione de gaudio. ⊂ G. i**ō**.
+**io** io = oh!, ah!; exclamatione de gaudio. ⊂ G. i
 
-**iodio** | iodio | iode | iodine | Iode. = corpore simplice cum symbolo « Io ». ⊂ G. i**ō**dēs = de colore viola. ⊂ iós [viola].
+**ō**.
+
+**iodio** | iodio | iode | iodine | Iode. = corpore simplice cum symbolo « Io ». ⊂ G. i
+
+**ō**dēs = de colore viola. ⊂ iós [viola].
 
 **ion** | ion | ion | ion | Ion. = elemento de electricitate (Faraday, nato in 1791, † in 1867). ⊂ G. íon (neutro nominativo) = que i. ⊂ i -ont.
 
@@ -13484,7 +13582,7 @@ janua -a = porta, fores.
 
 **juridico** ĭ 100 | giuridico | -ique | -ical | -isch. = relativo ad jure.
 
-**juris-** (*genitivo de* jure) = de jure.
+**juris-** ( *genitivo de* jure) = de jure.
 
 **—consulto** -us | giu—ulto | -ulte | -ult | -ultus. = qui consule de jure.
 
@@ -13604,7 +13702,7 @@ G. lab lambánō = cape, sume. = lemma, catalepsi, epilepsi, syllaba.
 
 **LÆTO** -us | lieto | *allègre* | *gay* | *lustig*. = gaudioso, bono, prospero, grato.
 
-**—itia** -a | letizia | liesse (*antiquo*) | Lætitia (*nomen proprio*) | Lætiz, Lætitia.
+**—itia** -a | letizia | liesse ( *antiquo*) | Lætitia ( *nomen proprio*) | Lætiz, Lætitia.
 
 **læva** -a (manu) = sinistra. || G. laiós, R. ljevyj.
 
@@ -13624,7 +13722,7 @@ G. lab lambánō = cape, sume. = lemma, catalepsi, epilepsi, syllaba.
 
 **lamento** -um | -ento | -entation | -ent | -entum.
 
-**lamina** -ĭna | -ina | lame | -ina, *plate* (*of metal*) | *Blatt*.
+**lamina** -ĭna | -ina | lame | -ina, *plate* ( *of metal*) | *Blatt*.
 
 **—** M | -are | -er | -ate | -ieren. = reduc in lamina.
 
@@ -13822,7 +13920,7 @@ E. legh ⊃ L. lecto [cubile], A. lie, D. liegen, R. lez’atï = jace; G. léch
 
 **—ario** -us | -ario | -naire | -ary | -är.
 
-**legis-** (*genitivo de* lēge) = de lēge.
+**legis-** ( *genitivo de* lēge) = de lēge.
 
 **—latione** | -zione | lé—tion | -tion | -tion. = ton fer lege.
 
@@ -14526,7 +14624,7 @@ G. macro -ós = longo, magno.
 
 **——** | maggiorità | -ité | -ity | -ennität. = ætate majore de 21 anno.
 
-majus (*neutro*) = majore.
+majus ( *neutro*) = majore.
 
 **majusculo** -ŭlus | maiuscolo | -scule | -scule | -skel. = pauco majore, littera capitale. ⊂ majus -culo.
 
@@ -14700,7 +14798,7 @@ marco 700 = martulo.
 
 **marga** 100 | marga, marna | marne | marl | Mergel. = terra cum argilla.
 
-mare (*nominativo*) = mari.
+mare ( *nominativo*) = mari.
 
 mare mas = mas.
 
@@ -14754,7 +14852,7 @@ mare mas = mas.
 
 **—ologio** | -irologio | -ge | -gy | -gium.
 
-**mas** (*nominativo*), *abl.* mare. = mas(culo), vir, anti femina. ⊃ mar(ito).
+**mas** ( *nominativo*), *abl.* mare. = mas(culo), vir, anti femina. ⊃ mar(ito).
 
 **masculo** -ŭlus | maschio | mâle | male | *männlich*. = mas.
 
@@ -14826,7 +14924,9 @@ G. mathema(te) máthēma = scientia, mathematica.
 
 **matutino** -us | mattutino, mattino | -inal, matin | -ine, -inal, *morning* | -ine, *morgens*. = de mane.
 
-**mausoleo** ē 200 | -eo | -ée | -eum | -eum. ⊂ G. maus**ō**leion, sepucro de Mausolo, rege de Caria.
+**mausoleo** ē 200 | -eo | -ée | -eum | -eum. ⊂ G. maus
+
+**ō**leion, sepucro de Mausolo, rege de Caria.
 
 **maxilla** -a | mascella | machoire | *jaw*, -illa | *Kinnbacke*, -illen.
 
@@ -14854,7 +14954,9 @@ G. mechane mēchan**ē** = ⊃ machina.
 
 **meconio** 100 | -io | méconium | -ium | -ium. = excremento de neonato. ⊂
 
-**—** 100 = succo de papavere. ⊂ G. mēch**ō**nion. ⊂ m**ē**chōn = papavere. || D. Mohn, R. mak’.
+**—** 100 = succo de papavere. ⊂ G. mēch
+
+**ō**nion. ⊂ m**ē**chōn = papavere. || D. Mohn, R. mak’.
 
 **MEDE** -eor | med *icare* | *curer*, *traiter*, *soigner*, *guérir*, médi *camenter* | *heal*, *cure*, med *icate* | *heilen*, med *icinieren*. = medica, repara, cura. ⊃ medico, medicina, remedio.
 
@@ -14962,7 +15064,7 @@ G. melo mélos = musica, harmonia, cadentia. ⊃ melopœia.
 
 **membro** -um | -bro | -bre | -ber | *Glied*. = parte de corpore. ⊃ membrana.
 
-**memento** (*imperativo latino de* mene) | -to | mé—to | -to | -to.
+**memento** ( *imperativo latino de* mene) | -to | mé—to | -to | -to.
 
 **memora** -ŏro | memorare | remémorer, *rappeler* | to remind, to memorize | -ieren. = es memore. ⊃ com—, re—.
 
@@ -14992,13 +15094,13 @@ G. men m**ē**n = || mense, m**ē**nē = luna. ⊃ menisco, néomenia.
 
 **—itate** -itas | -ità | -ité | -ity | -ität. = paupertate, indigentia.
 
-**MENE** (*thema de* L. memini) | *ram*men *tare*, *ricordare* | *souvenir*, *ra*men *tevoir* | mean | meine. = memora, recorda. ⊃ mente, commenta, mone. ⊂ E. mene ⊃ A. mean, D. meina, G. mne(monica), (a)mne(sia), ma(thema), R. mni(tï), S. man(je).
+**MENE** ( *thema de* L. memini) | *ram*men *tare*, *ricordare* | *souvenir*, *ra*men *tevoir* | mean | meine. = memora, recorda. ⊃ mente, commenta, mone. ⊂ E. mene ⊃ A. mean, D. meina, G. mne(monica), (a)mne(sia), ma(thema), R. mni(tï), S. man(je).
 
 **meninge** | -inge | méninge | -inges | -inx. = membrana circa cerebro. ⊂ G. m**ē**ninx.
 
 **menisco** | -co | ménisque | -cus | -cus. = in forma de luna. ⊂ G. mēnírcos ⊂ men [luna] -isco [parvo].
 
-**mensa** -a | mensa | mense, mess (*d’officiers*), *table* (*de repas*) | mensa, mess (*of officers*), *table* | *Tisch*. ⊃ commensale, mensula.
+**mensa** -a | mensa | mense, mess ( *d’officiers*), *table* ( *de repas*) | mensa, mess ( *of officers*), *table* | *Tisch*. ⊃ commensale, mensula.
 
 **MENSE** -is | mese | mois | month, (menses, menstrual) | Monat | H. mes | P. mez. = periodo de luna. ⊃ mensuale, menstruo, bimestre, trimestre, semestre. ⊂ E. mēn = luna ⊃ G. men, A. moon, D. Mond, R. mjesjats, S. māsa.
 
@@ -15074,7 +15176,7 @@ G. men m**ē**n = || mense, m**ē**nē = luna. ⊃ menisco, néomenia.
 
 **—iano** -us | -ano | mé—en | -an | -an.
 
-**meridionale** M | -ale | mé—al | -al | -al. ⊂ meridie + *suffixo de* (*septemtr*ion)ale. = australe.
+**meridionale** M | -ale | mé—al | -al | -al. ⊂ meridie + *suffixo de * ( *septemtr*ion)ale. = australe.
 
 **merita** ĭ 100 = mere.
 
@@ -15340,7 +15442,7 @@ G. mis miseín = ode.
 
 **misere** -ĕreor = habe misericordia, compate.
 
-**miserere** (*imperativo latino de* misere) | -ere | miséréré | -ere | -ere.
+**miserere** ( *imperativo latino de* misere) | -ere | miséréré | -ere | -ere.
 
 **misero** -sĕr | -ero | -éreux, -érable | -erable | -erabel. = miserabile, infelice, paupero. ⊃ miseria, misera; A. miser = avaro.
 
@@ -15566,7 +15668,9 @@ molĭtore 400 = molinario, que mole.
 
 **—mio** | -omio | -ôme | -ome | -om. = termino simplice in algebra. ⊂ mono (no)m(en) -io.
 
-**—polio** 200 | -olio | -ole | -oly | -ol. = to es solo venditore de uno merce. ⊂ G. monop**ō**lion ⊂ mono pōle [vende].
+**—polio** 200 | -olio | -ole | -oly | -ol. = to es solo venditore de uno merce. ⊂ G. monop
+
+**ō**lion ⊂ mono pōle [vende].
 
 **——iza** | -izzare | -iser | -ize | -isieren.
 
@@ -15640,7 +15744,7 @@ molĭtore 400 = molinario, que mole.
 
 more mos = mos, mores.
 
-**mores** (*nom. plurale de* mos) = consuetudine, morale, F. moeurs.
+**mores** ( *nom. plurale de* mos) = consuetudine, morale, F. moeurs.
 
 **moribundo** -us | -ondo | -ond | -und | -undus. = que more.
 
@@ -15676,7 +15780,7 @@ G. morphe morph**ē** = forma. ⊃ amorpho, anthropomorpho, metamorphosi, polymo
 
 **—uo** -us | morto | mort | *dead* | *toter*. = que e more.
 
-**mos** (*thema – nominativo*) = mores, moralitate.
+**mos** ( *thema – nominativo*) = mores, moralitate.
 
 **moto** -us = quem move.
 
@@ -16098,7 +16202,7 @@ E.
 
 **nemine** ĭ 100, *abl. de classico* nemo.
 
-**nemo** (*thema – nominativo*) | *niuno*, *nessuno* | *ne... personne* | *no body*, *no one* | *niemand*. = nullo homo. ⊂ ne homo.
+**nemo** ( *thema – nominativo*) | *niuno*, *nessuno* | *ne... personne* | *no body*, *no one* | *niemand*. = nullo homo. ⊂ ne homo.
 
 **neo-,** G. néos = || novo.
 
@@ -16332,9 +16436,11 @@ G. nosto nóstos = reditu. ⊃ -algia.
 
 **—tore** 200 | -tore | -teur | -tor | -tor.
 
-**novella** (*nominativo neutro de* novello) | novella | nouvelle | novel | Novelle. = re novo, novitate, nuntio, fama, fabula.
+**novella** ( *nominativo neutro de* novello) | novella | nouvelle | novel | Novelle. = re novo, novitate, nuntio, fama, fabula.
 
-**novello** -us | novello | nouveau | novel. = novo.
+**no** <span style="font-size:10pt">
+
+**vello** -us | novello | nouveau | novel. = novo.</span>
 
 **NOVEM** -em | nove | neuf | nine | neun. ⊃ novembre, novena, nono. ⊂ E. ⊃ A. D., G. ennéa, S. nava.
 
@@ -16656,7 +16762,9 @@ occide -cĭdo = cade. ⊂ ob cade. ⊃
 
 **—ico** -ĭcus | -ico | -ique | -ic | -isch.
 
-**ochra** 100 | ocra | ocre | ochre | Oker. = argilla colorante. ⊂ G.**ō**chra.
+**ochra** 100 | ocra | ocre | ochre | Oker. = argilla colorante. ⊂ G.
+
+**ō**chra.
 
 **octaedro** | ottaedro | octaèdre | octahedron | Oktaeder. = solido cum 8 facie. ⊂ G. octáedron ⊂ octo hedra.
 
@@ -16666,9 +16774,13 @@ occide -cĭdo = cade. ⊂ ob cade. ⊃
 
 **octavo** -us | ottavo | huitième, in-octavo | eighth, -ave, -avo | achte, -av. = numero octo.
 
-**OCTO** -o | otto, H. ocho, P. oito | huit | eight | acht. ⊃ octobre, octavo, octante, octuplo. ⊂ E. octo ⊃ A. eight, D. acht, G. oct**ō**, S. as’ta.
+**OCTO** -o | otto, H. ocho, P. oito | huit | eight | acht. ⊃ octobre, octavo, octante, octuplo. ⊂ E. octo ⊃ A. eight, D. acht, G. oct
 
-G. octo oct**ō** = || L. octo. ⊃ octaedro.
+**ō**, S. as’ta.
+
+G. octo oct
+
+**ō** = || L. octo. ⊃ octaedro.
 
 **octobre** -ber | ottobre | -obre | -ober | -ober. = mense numero 10, octavo in calendario de Romulo.
 
@@ -16814,7 +16926,9 @@ omĭne omen = augurio, auspicio. ⊃ abomina.
 
 **—voro** ŏ 100 | onnivoro | -re | -rous | -risch.
 
-**omoplata** 100 | -ata | -ate | -ate | -ate. = scapula. ⊂ G. ōmoplátē ⊂ omo [**ō**mos, humero] plata [plátē = lamina].
+**omoplata** 100 | -ata | -ate | -ate | -ate. = scapula. ⊂ G. ōmoplátē ⊂ omo [
+
+**ō**mos, humero] plata [plátē = lamina].
 
 **onera** -ĕro | -are | *charger* | -ate | -ieren. = da onere. ⊃ exonera.
 
@@ -16830,7 +16944,9 @@ G. onoma(te), ónōma = || nomine. ⊃ anonymo, homonymo, metonymia, pseudonymo,
 
 **onomatopœia** | -pea | -pee | -pœia | -pöie. = formatione de nomine ex voce naturale; p. ex. «cucu(lo), murmura». ⊂ G. -oiía. ⊂ onomat(e) -o pœ -ia.
 
-G. ont**ō**n = que es, exsistente, vero, reale. || L. ente.
+G. ont
+
+**ō**n = que es, exsistente, vero, reale. || L. ente.
 
 **ontologia** | -ia | -ie | -y | -ie. = scientia de entes, metaphysica. ⊂ ont -o- log(o) -ia.
 
@@ -17228,7 +17344,7 @@ G. pæd país = puero. ⊃ pæd(agogo), pæd(ia), (pro)pæd(eutica).
 
 G. pædia paideía = educatione de puero. ⊃ encyclopædia, orthopædia. ⊂ pæd -īa.
 
-**pæne** -e, et **pene** = quasi, vix.
+**pæne** -e, et <b style="font-size:10pt">pene** <span style="font-size:10pt"> = quasi, vix.</span>
 
 **—insula** -ŭla | penisola | péninsule | peninsula | -ula.
 
@@ -17368,7 +17484,9 @@ G. pan, panto: pás pán pantós = omni, toto. ⊃ panacea, pancreas, pandecta, 
 
 **pandemico** -ĭcus | -mico | -émique | -mic | -misch. = (morbo) universale. ⊂ pandemo [pándēmos = toto populo, publico, universale].
 
-**Pandora** -ōra | Pandora | Pandore | Pandora. ⊂ G. Pand**ō**ra = Dea que dona omni fructu.
+**Pandora** -ōra | Pandora | Pandore | Pandora. ⊂ G. Pand
+
+**ō**ra = Dea que dona omni fructu.
 
 **pane** -is | pane, H. pan, P. pam | pain | *bread* | *Brot*. ⊃ panario, panifica.
 
@@ -17682,7 +17800,9 @@ G. patho páthos = dolore, affectu, passione, morbo. ⊃ pathetico, apathia, sym
 
 **—iale** 600 | -iale | -ial | -ial | -ial.
 
-**patriota** | -ota | -ote | -ot | -ot. = amante de patria. ⊂ G. patri**ō**tēs = compatriota.
+**patriota** | -ota | -ote | -ot | -ot. = amante de patria. ⊂ G. patri
+
+**ō**tēs = compatriota.
 
 **—ico** -ĭcus | -ico | -ique | -ic | -isch.
 
@@ -18312,7 +18432,9 @@ G. phleg phlégō = arde. ⊃ phlegma, phlogistico.
 
 G. phobo phóbos = timore. ⊃ hydrophobia.
 
-**phoca** -a | foca | -que | -ca | -ca. = Zool. « phoca vitulina ». ⊂ G. ph**ō**cē.
+**phoca** -a | foca | -que | -ca | -ca. = Zool. « phoca vitulina ». ⊂ G. ph
+
+**ō**cē.
 
 **Phœbo** -us | Febo | Phébus | -us | -os. = deo Sol. ⊂ G. Phoîbos.
 
@@ -18332,7 +18454,9 @@ G. phone phōn**ē** = voce, sono. ⊃ antiphona, aphono, symphonia, euphonia, h
 
 G. phoro -ós = que fer. ⊂ pher. ⊃ semaphoro, rheophoro, amphora, diaphoresi, metaphora.
 
-G. phos ph**ō**s = luce. ⊂ pha.
+G. phos ph
+
+**ō**s = luce. ⊂ pha.
 
 phosphoro ŏ 100 = planeta Venere. ⊂ G. phōsphóros.
 
@@ -18392,7 +18516,9 @@ G. physi phúsis = natura. ⊂ phy.
 
 **physico** -ĭcus | fisico | -ique, -icien | -ical, -icist | -ikalisch, -iker. ⊂ G. -icós. ⊂ phys(i) -ico.
 
-**physiognomone** -mon | fisonomo | physionomiste, -gnomoniste | -gnomist | -gnom. ⊂ G. phusiogn**ō**mōn. = qui judica charactere ex lineamentos de vultu.
+**physiognomone** -mon | fisonomo | physionomiste, -gnomoniste | -gnomist | -gnom. ⊂ G. phusiogn
+
+**ō**mōn. = qui judica charactere ex lineamentos de vultu.
 
 **—ia** | fisiognomonia | -gnomonie | -gnomy | -gnomonie. ⊂ G. phusiognōmonía = scientia de physiognome.
 
@@ -18658,7 +18784,9 @@ G. pleo, pléon = plus. ⊂ ple.
 
 L. plerumque = plure vice.
 
-**plethora** | pletora | pléthore | -ra | -ra. = abundantia. ⊂ G. plēth**ō**rē ⊂ ple.
+**plethora** | pletora | pléthore | -ra | -ra. = abundantia. ⊂ G. plēth
+
+**ō**rē ⊂ ple.
 
 **—ico** -ĭcus | pletorico | pléthorique | -ric | -risch.
 
@@ -18734,7 +18862,9 @@ G. pneumon pneúmōn, pleúmōn. = || pulmone. ⊂ pneu.
 
 E.
 
-**po** = bibe. ⊃ L. pota, poculo, potione, G. p**ō**nō, pínō, (sym)po(sio), propina; R. pitï = bibe, S. pā.
+**po** = bibe. ⊃ L. pota, poculo, potione, G. p
+
+**ō**nō, pínō, (sym)po(sio), propina; R. pitï = bibe, S. pā.
 
 **poculo** -ŭlum = vase pro bibe. ⊂ po.
 
@@ -19006,7 +19136,7 @@ L. postquam = post quam.
 
 **—ato** -um | -ato | -at | -ate | -at.
 
-**postumo** -ŭmus | -tumo | -t(h)ume | -thumous | -thum, -tumus. = nato post morte de patre, facto post. ⊂ post -umo (*non* posthumo ⊂ post humo).
+**postumo** -ŭmus | -tumo | -t(h)ume | -thumous | -thum, -tumus. = nato post morte de patre, facto post. ⊂ post -umo ( *non* posthumo ⊂ post humo).
 
 **pota** -o = bibe. ⊃ potabile, potione. ⊂ po -ta.
 
@@ -19020,7 +19150,7 @@ L. postquam = post quam.
 
 **potassio** N | -io | -ium | -ium | -ium. = kalio, corpore simplice quem Davy in 1807 trahe ex potassa.
 
-**POTE** (*thema de* potente) possum | potere, H. P. poder | pouvoir | *to be able*, *can*, *may* | *können*. ⊃ potestate, possibile. ⊂
+**POTE** ( *thema de* potente) possum | potere, H. P. poder | pouvoir | *to be able*, *can*, *may* | *können*. ⊃ potestate, possibile. ⊂
 
 **—** -is = que pote, potente, possibile. || G. despota [domino], pósis [sponso]; S. pati [domino]. ⊂ E. poti.
 
@@ -19032,7 +19162,7 @@ L. postquam = post quam.
 
 **———itate** | -zialità | -ité | -ity | -ität.
 
-**potes** (*thema de* possum potes potest) = pote. ⊂ pot(e) es.
+**potes** ( *thema de* possum potes potest) = pote. ⊂ pot(e) es.
 
 **—tate** -tas | -tà, potere | pouvoir | power | -tät. = facultate, possibilitate, vi, potentia, valore, efficacia, importantia, auctoritate, dominio.
 
@@ -19824,7 +19954,9 @@ propulsa -o = pulsa longe.
 
 **propylæo** -um | propileo | -lée | -leum | -läen. = vestibulo, atrio ante porta. ⊂ G. propúlaion ⊂ pro [ante] pyle [porta].
 
-**prora** -a | prua, prora | proue | prow. = parte anteriore de nave. ⊂ G. pr**ō**ra.
+**prora** -a | prua, prora | proue | prow. = parte anteriore de nave. ⊂ G. pr
+
+**ō**ra.
 
 **proroga** -rŏgo | -rogare | -roger | -rogue | -rogieren. = differ, remitte ad post.
 
@@ -19912,7 +20044,9 @@ protĕnus -us = ante, ultra, sine mora.
 
 **—tione** 400 | -testa, -testo | -testation, -têt | -testation, -test | -testation, -test.
 
-**proto-,** G. pr**ō**tos. = primo. ⊃ protagonista. ⊂ pro -to.
+**proto-,** G. pr
+
+**ō**tos. = primo. ⊃ protagonista. ⊂ pro -to.
 
 **—collo** | -collo | -cole | -col | -coll. ⊂ G. prōtócollon. = primo folio unito cum colla ad volumine de papyro, et que contine attestatione de notario.
 
@@ -20012,7 +20146,9 @@ G. psalle psállō = sona lyra et canta. ⊂ psa. ⊃
 
 **—logo** ŏ | | | -loger | -log. = mentitore. ⊂ G. -lógos.
 
-**—nymo** | -nimo | -nyme | -nym | -nym. = falso nomine. ⊂ G. pseud**ō**numon ⊂ pseudo onom(a) -o.
+**—nymo** | -nimo | -nyme | -nym | -nym. = falso nomine. ⊂ G. pseud
+
+**ō**numon ⊂ pseudo onom(a) -o.
 
 **—propheta** 300 | -feta | | -phet | -phet. ⊂ G. -ph**ē**tēs
 
@@ -20108,7 +20244,9 @@ publica -ĭco = confisca, redde de usu publico.
 
 **pulice** pulex pulĭc- | pulce | puce | flea | Floh. = Zool. « pulex irritans ». ⊂ E. ⊃ A. D., R. blocha.
 
-**pullo** -us = juvene animale. ⊃ pullula. ⊂ puer(o) -ulo. || G. p**ō**los, A. foal, D. Fohlen, Füllen = juvene equo.
+**pullo** -us = juvene animale. ⊃ pullula. ⊂ puer(o) -ulo. || G. p
+
+**ō**los, A. foal, D. Fohlen, Füllen = juvene equo.
 
 **—** 100 | pollo | poulet | pullet. || juvene gallo.
 
@@ -20400,9 +20538,65 @@ L. quatenus = usque ad.
 
 **QUATUOR** -uor | quattro, H. cuatro, P. quatro | quatre | four | vier. ⊃ quadra, quarto. ⊂ E. ⊃ A. four, D. vier, G. tetra, R. c’etyre, S. c’atvar.
 
-**QUE** (*thema de* quem qui quod quam) | che, chi, H. P. que | que, qui | *that*, who, which, what | wer, was. ⊃ quale, quanto, quando, quoto, quare, ubi, unde, utro. ⊂ E. ⊃ A. who, what, D. wer, was, G. po-, R. ko, c’to, S. ka. In præsente vocabulario, *que* indica « participio præsente », et satisfac conditione: **que** + **es** = 0, id es « que es » destrue se; stude**nte** = **que** stude; stude = **es** stude**nte**; noc**ivo** = **que** noce; act**ivo** = **que** age; tim**ido** = **que** time; audi**tore** = **que** audi.
+**QUE** ( *thema de* quem qui quod quam) | che, chi, H. P. que | que, qui | *that*, who, which, what | wer, was. ⊃ quale, quanto, quando, quoto, quare, ubi, unde, utro. ⊂ E. ⊃ A. who, what, D. wer, was, G. po-, R. ko, c’to, S. ka. <br />In præsente vocabulario, *que* indica « participio præsente », et satisfac conditione:
 
-**QUEM,** *accusativo de* que. | H. quien, P. quem. In præsente vocabulario, **quem** indica « participio passivo »; ama**to** = **quem** ama; doc**to** = **quem** doce; ac**to** = **quem** age; posi**to** = **quem** pone; clau**so** = **quem** claude; mi**sso** = **quem** mitte; lato = **quem** fer.
+**que** +
+
+**es** = 0, id es « que es » destrue se; stude
+
+**nte** =
+
+**que** stude; stude =
+
+**es** stude
+
+**nte**; noc
+
+**ivo** =
+
+**que** noce; act
+
+**ivo** =
+
+**que** age; tim
+
+**ido** =
+
+**que** time; audi
+
+**tore** =
+
+**que** audi.
+
+**QUEM,** *accusativo de* que. | H. quien, P. quem. <br />In præsente vocabulario,
+
+**quem** indica « participio passivo »; ama
+
+**to** =
+
+**quem** ama; doc
+
+**to** =
+
+**quem** doce; ac
+
+**to** =
+
+**quem** age; posi
+
+**to** =
+
+**quem** pone; clau
+
+**so** =
+
+**quem** claude; mi
+
+**sso** =
+
+**quem** mitte; lato =
+
+**quem** fer.
 
 **quercu** -us | quercia | *chêne* | *oak* | *Eiche*. = Bot. « quercus robur ».
 
@@ -20494,7 +20688,7 @@ L. quum = quando. = || D. wenn.
 
 ## R
 
-**ra** (*thema de* reor, ratus) = ratiocina, calcula. ⊃ ratione, rata. ⊂ E. ⊃ G. arithmo = numero, D. Rede = oratione.
+**ra** ( *thema de* reor, ratus) = ratiocina, calcula. ⊃ ratione, rata. ⊂ E. ⊃ G. arithmo = numero, D. Rede = oratione.
 
 **rabe** -io | arrabiarsi | rager | rage | *rasen*. ⊃ A. rave = delira.
 
@@ -21782,7 +21976,11 @@ rude -o = rugi.
 
 **—ale** -alis | -ale | -al | -al | -al.
 
-**rurso,** *thema de* **rursum,** *et* **rursus,** *adverbio* = de novo, iterum. ⊂ re- verso.
+**rurso,** *thema de*
+
+**rursum,** *et*
+
+**rursus,** *adverbio* = de novo, iterum. ⊂ re- verso.
 
 **rus,** *thema – nominativo*, = rure.
 
@@ -21976,7 +22174,9 @@ sæpe -es, v. sepe.
 
 **—ioso** 100 | -ioso | -ieux | -ious | -iös. = putrido.
 
-**sano** -us | I. H. sano | sain | sound, sane | gesund. ⊃ sana. ⊂ E. ⊃ A. sund, D. gesund, G. s**ō**s = sano et salvo, (creo)so(to). ⊃
+**sano** -us | I. H. sano | sain | sound, sane | gesund. ⊃ sana. ⊂ E. ⊃ A. sund, D. gesund, G. s
+
+**ō**s = sano et salvo, (creo)so(to). ⊃
 
 **—itario** | -ario | -aire | -ary | -är. = medico, que sana.
 
@@ -22216,7 +22416,9 @@ G. scop scopéō = observa. ⊂ scep. ⊃ anemoscopio, caleidoscopio, episcopo, 
 
 **scopulo** -ŭlus | scoglio | écueil | *rock*, *shelf*, *reef* | *Felsen*. = rupe in mari. ⊂ G. scópelos.
 
-**scoria** 100 | scoria | scorie | scori | Scorie. ⊂ G. scōría. ⊂ sc**ō**r = excremento.
+**scoria** 100 | scoria | scorie | scori | Scorie. ⊂ G. scōría. ⊂ sc
+
+**ō**r = excremento.
 
 **scorpione** -pio | -pione | -pion | -pion | -pion. ⊂ G. scorpíos.
 
@@ -22564,7 +22766,7 @@ sere -o = semina, see.
 
 **—itate** -itas | -ità | sérénité | -ity.
 
-**serico** -ĭcus | serico, *seta* | (*de*) *soie* | sericeous, silk | serisch, *Seide*. ⊃ F. serge = panno ex serico et lana. ⊂ G. sēricós ⊂ Sere s**ē**res, regione de Asia orientale.
+**serico** -ĭcus | serico, *seta* | ( *de*) *soie* | sericeous, silk | serisch, *Seide*. ⊃ F. serge = panno ex serico et lana. ⊂ G. sēricós ⊂ Sere s**ē**res, regione de Asia orientale.
 
 **—icultura** | sericicultura | sé—ure | -ure.
 
@@ -22772,7 +22974,9 @@ L. sicut = ut.
 
 **—itate** 100 | -ità | sincérité | -ity | -ität.
 
-**sindone** ŏ 100 | -one | -on | -on | -on. ⊂ G. sind**ō**n = linteo.
+**sindone** ŏ 100 | -one | -on | -on | -on. ⊂ G. sind
+
+**ō**n = linteo.
 
 **SINE** sine | senza, H. sin, P. sem | sans | *without* | *ohne*. = ne cum. ⊃ sinecura.
 
@@ -22880,7 +23084,7 @@ L. sive = aut.
 
 **sole** -eo | solere, H. soler, P. soer. = es « solito », habe pro more. ⊃ insolente.
 
-**solea** -ea | suola | semelle | sole (*of shoe*) | *Fuss*sohle. ⊂ solo.
+**solea** -ea | suola | semelle | sole ( *of shoe*) | *Fuss*sohle. ⊂ solo.
 
 **solemne** -is, *et*
 
@@ -23462,7 +23666,9 @@ G. stig stízō = punge, signa. ⊃ stigma. || L. stingue.
 
 **strage** -es | strage. = magno occisione, cæde, ruina.
 
-**stramine** -men -mĭn- | strame | *litière*, étrain | straw, *bed for horses* | Streu. = || G. str**ō**ma ⊂ stra -men.
+**stramine** -men -mĭn- | strame | *litière*, étrain | straw, *bed for horses* | Streu. = || G. str
+
+**ō**ma ⊂ stra -men.
 
 **strangula** -ŭlo | strangolare | étrangler | to strangle | -ieren. ⊂ G. strango straggós = tortuoso, straggálē = laqueo, straggalóō = strangula. || L. stringe.
 
@@ -23782,7 +23988,9 @@ succo, -ino, -oso, v. suco.
 
 **—ulento** 200 | succolento | succulent | succulent | succulent.
 
-**SUDA** -o | sudare, H. sudar | suer | to sweat | schwitzen. ⊃ transuda, exsuda. ⊂ E. ⊃ A. D.; G. hidr**ō**s = sudore, S. svid.
+**SUDA** -o | sudare, H. sudar | suer | to sweat | schwitzen. ⊃ transuda, exsuda. ⊂ E. ⊃ A. D.; G. hidr
+
+**ō**s = sudore, S. svid.
 
 **—tione** 100 | essudazione | -tion | -tion | -tion.
 
@@ -24122,7 +24330,9 @@ G. sylae suláō = spolia, devasta, viola. ⊃ asylo.
 
 **—ale** | sinodale | -al | -al | -al.
 
-**synonymo** ŭ | sinonimo | -yme | -ym | -ym. = vocabulos cum idem significatione. ⊂ G. sun**ō**numos ⊂ syn onoma.
+**synonymo** ŭ | sinonimo | -yme | -ym | -ym. = vocabulos cum idem significatione. ⊂ G. sun
+
+**ō**numos ⊂ syn onoma.
 
 **—ia** ĭ 100 | sinonimia | -ie | -y | -ie. ⊂ G. sunōnumía.
 
@@ -24340,7 +24550,9 @@ G. teleo télos -leos = fine.
 
 **—ico** -ĭcus | -ico | té—ique | -ic | -isch.
 
-**telonio** 300 | *dazio*, *dogana* | *octroi*, tonlieu | toll | Zoll. = officio que exige tributo de transitu. ⊂ G. tel**ō**nion.
+**telonio** 300 | *dazio*, *dogana* | *octroi*, tonlieu | toll | Zoll. = officio que exige tributo de transitu. ⊂ G. tel
+
+**ō**nion.
 
 **tellure** tellus = terra, globo, terrestre, continente.
 
@@ -24360,7 +24572,7 @@ temēto -um = vino inebriante. ⊃ abstemio, temulento.
 
 **temone** temo | timone | timon. = quod ditige curru, aratro, nave.
 
-**tempera** -ĕro | -erare | -érer, tremper (*l’acier*) | -er | -erieren. = modera, mitiga.
+**tempera** -ĕro | -erare | -érer, tremper ( *l’acier*) | -er | -erieren. = modera, mitiga.
 
 **—mento** -um | -amento | tempérament | -ament | -ament. = charactere.
 
@@ -24468,7 +24680,9 @@ L. ter = « tres » vice.
 
 **—tione** 100 | terebrazione, trivellazione | térébration | -tion | -tion.
 
-**teredine** -do -dĭn- | -dine | | -do | -do. = Zool. « teredo navalis », verme que rode ligno. ⊂ G. terēd**ō**n ⊂ tere.
+**teredine** -do -dĭn- | -dine | | -do | -do. = Zool. « teredo navalis », verme que rode ligno. ⊂ G. terēd
+
+**ō**n ⊂ tere.
 
 **terge** -eo *et* -o | tergere. = « absterge », « deterge ». ⊃ terso.
 
@@ -24714,7 +24928,9 @@ G. thyra thúra = porta, janua, valva. = || L. fores. ⊃
 
 **—are** | titolare | -aire | -ar | -ar.
 
-**to,** *thema de* L. (is)to, t(ale), t(anto), to(t), t(am), t(unc); I (ques)to, H. (es)to, P. (is)to, F. (ce)t. ⊂ E. to ⊃ G. tó [pronomine in Homero, articulo in græco classico], A. the, D. der, das, R. to [pronomine], S. ta. In præsente vocabulario, **to** indica « statu », et satisfac conditione: **habe** + **to** = 0; **to** +
+**to,** *thema de* L. (is)to, t(ale), t(anto), to(t), t(am), t(unc); I (ques)to, H. (es)to, P. (is)to, F. (ce)t. ⊂ E. to ⊃ G. tó [pronomine in Homero, articulo in græco classico], A. the, D. der, das, R. to [pronomine], S. ta. In præsente vocabulario,
+
+**to** indica « statu », et satisfac conditione: **habe** + **to** = 0; **to** +
 **habe** = 0. Exemplo: tim**ore** = **to** time; **habe** tim**ore** = time; ori**gine** = **to** ori; **habe** ori**gine** = ori; gaud**io** = **to** gaude; **habe** gaud**io** = gaude; opin**ione** = **to** opina, **habe** opin**ione** = opina; dista**ntia** = **to** dista, **habe** dista**ntia** = dista; aud**acia** = **to** aude, **habe** aud**acia** = aude; vict**oria** = **to** vince, **habe** vict**oria** = vince.
 
 **toga** -a | toga | toge | toga | Toga. = veste longo et amplo. ⊂ tege.
@@ -25177,7 +25393,9 @@ G. trigōno trígōnon = triangolo. ⊂ tri gon(ia) -o.
 
 **——itate** | -ità | -ité | -ity | -ität.
 
-G. trogle tr**ō**glē = caverna.
+G. trogle tr
+
+**ō**glē = caverna.
 
 **troglodyta** -a | -dite | -dyte | -dyte | -dyt. = habitante de caverna. ⊂ G. trōglodútēs ⊂ trogle dy [dúnō = penetra].
 
@@ -25335,7 +25553,9 @@ G. typ túptō = percute, pulsa. ⊃ tympano, typo.
 
 **typhone** -phon = gigante necato ab Jove.
 
-**typhone** 100 | tifone | typhon | typhoon | Teifun. ⊂ G. tuph**ō**n. = vento impetuoso et vorticoso.
+**typhone** 100 | tifone | typhon | typhoon | Teifun. ⊂ G. tuph
+
+**ō**n. = vento impetuoso et vorticoso.
 
 **typico** ĭ 400 | tipico | -ique | -ic | -isch. = de « typo ». ⊂ G. -icós.
 
@@ -26165,7 +26385,7 @@ L. velut = ut.
 
 **—iatu** | -iato | -iat | -iate | -iat. = officio de vicario.
 
-**vice,** *sine nominativo*, *genitivo* vicis | vicenda, vece, le veci, *volta*, fiata; H. P. vez | vicissitude, fois | *change*, *time* (*repetition*) | Wechsel, *Mal*. = « vicissitudine », successione, loco, functione. ⊃ vicario. = || D. Wechsel || A. week, D. Woche = septimana, mutatione de luna.
+**vice,** *sine nominativo*, *genitivo* vicis | vicenda, vece, le veci, *volta*, fiata; H. P. vez | vicissitude, fois | *change*, *time* ( *repetition*) | Wechsel, *Mal*. = « vicissitudine », successione, loco, functione. ⊃ vicario. = || D. Wechsel || A. week, D. Woche = septimana, mutatione de luna.
 
 **—cancellario** | -cancelliere | -chancelier | -chancellor | -kanzler.
 
@@ -26443,7 +26663,7 @@ E.
 
 **——tione** -tio | -zione | -tion | -tion | -tion.
 
-**VOL** (*thema de* L. volo, *inf.* velle) | volere | vouloir | to will | wollen. ⊃ volitione, volitivo, voluntate, voluptate, velleitate, benevolo, malevolo. ⊂ E. ⊃ A. D.; R. volja = voluntate.
+**VOL** ( *thema de* L. volo, *inf.* velle) | volere | vouloir | to will | wollen. ⊃ volitione, volitivo, voluntate, voluptate, velleitate, benevolo, malevolo. ⊂ E. ⊃ A. D.; R. volja = voluntate.
 
 **VOLA** -o | volare, H. volar, P. voar | voler (dans l’air) | *to fly* | *fliegen*. ⊃ F. voler = fura.
 
@@ -26597,9 +26817,13 @@ G. ze zéō = bulli. ⊃ eczema.
 
 **—ale** | -ale | -al | -al | -al.
 
-**zona** -a | I. H. P. zona | zone | zone | Zone. ⊂ G. z**ō**nē = fasce, cinctura.
+**zona** -a | I. H. P. zona | zone | zone | Zone. ⊂ G. z
 
-G. zoo z**ō**on = animale, vivente. ⊃ zoologia, zodiaco, protozoo, epizootia. || L. vive.
+**ō**nē = fasce, cinctura.
+
+G. zoo z
+
+**ō**on = animale, vivente. ⊃ zoologia, zodiaco, protozoo, epizootia. || L. vive.
 
 **zoologo** ŏ | -ologo | -ologue, -ologiste | -ologist | -olog. = qui stude animales [zoo].
 
