@@ -16334,9 +16334,7 @@ G. nosto nóstos = reditu. ⊃ -algia.
 
 **novella** ( *nominativo neutro de* novello) | novella | nouvelle | novel | Novelle. = re novo, novitate, nuntio, fama, fabula.
 
-**no** <span style="font-size:10pt">
-
-**vello** -us | novello | nouveau | novel. = novo.</span>
+**novello** -us | novello | nouveau | novel. = novo.
 
 **NOVEM** -em | nove | neuf | nine | neun. ⊃ novembre, novena, nono. ⊂ E. ⊃ A. D., G. ennéa, S. nava.
 
@@ -17230,7 +17228,7 @@ G. pæd país = puero. ⊃ pæd(agogo), pæd(ia), (pro)pæd(eutica).
 
 G. pædia paideía = educatione de puero. ⊃ encyclopædia, orthopædia. ⊂ pæd -īa.
 
-**pæne** -e, et <b style="font-size:10pt">pene** <span style="font-size:10pt"> = quasi, vix.</span>
+**pæne** -e, et **pene** = quasi, vix.
 
 **—insula** -ŭla | penisola | péninsule | peninsula | -ula.
 
