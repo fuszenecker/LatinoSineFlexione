@@ -60,7 +60,7 @@ Interlingua habe base exclusivamente latina, non solum quia base commune de majo
 
 Tres objectiones es facto contra ista adoptione:
 
-1.° *difficullale de grammatica latina* (declinatione, conjugatione, etc.). Ista difficultate es victa, nam Interlingua supprime omne elemento grammaticale non necessario et redde grammatica de una facilitate sine exemplo in linguas nationale. Quasi omne flexione es inutile; suppressione de flexiones reduce grammatica latina ad quasi nihil.
+1.° *difficultate de grammatica latina* (declinatione, conjugatione, etc.). Ista difficultate es victa, nam Interlingua supprime omne elemento grammaticale non necessario et redde grammatica de una facilitate sine exemplo in linguas nationale. Quasi omne flexione es inutile; suppressione de flexiones reduce grammatica latina ad quasi nihil.
 
 2.° *latino contine multum vocabulos incomprehensibile (sine studio) illos que non cognosce latino.* Ad ista objectione nos responde que majore parte de isto vocabulos mortuo es inutile nam latino contine multo synonymos et per selectione opportuna inter differente synonymos es quasi semper possibile utere solum vocabulos, intelligibile ad primo visu, etiam pro illos qui non cognosce latino.
 
