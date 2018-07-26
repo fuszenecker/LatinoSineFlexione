@@ -401,7 +401,7 @@ Plurale es facto per adjunctione de suffixo *-s* ad forma non mutata de singular
 
 *-S* es signo de plurale in anglo, in franco, hispano et portugueso, id es in 4 super 7 principale linguas de Europa, et ista 4 linguas es locuta in 28 aut 29 nationes, que forma un totale de 350 millione de homines.
 
-Signo de plurale *pote* essere omisso quando ambiguitate non pote nascere. Ex.: in propositiones, *duo oculo*, *tres die*, etc. plurale es jarn implicito in numero, et repetitione es superflua. Illa pote essere facta aut non, secundum gustu de scriptore. Ipsa repetitione es inutile — sed licita — quando plurale es jam indicato in substantivo; ex.: *divite familias*, *isto agros*, etc.
+Signo de plurale *pote* essere omisso quando ambiguitate non pote nascere. Ex.: in propositiones, *duo oculo*, *tres die*, etc. plurale es jam implicito in numero, et repetitione es superflua. Illa pote essere facta aut non, secundum gustu de scriptore. Ipsa repetitione es inutile — sed licita — quando plurale es jam indicato in substantivo; ex.: *divite familias*, *isto agros*, etc.
 
 Aliquo interlinguista, sectatore de una majore puritate latina, forma plurale mutando finale *-a* ad *-ae*, *-o* ad *-i*, adjungendo *-s* solum ad finales *-e* et *-u*. In isto modo forma plurale in Interlingua corresponde ad forma latina, excepto pro pauco vocabulos neutro, sed quasi totalitate de interlinguistas prefer plurale semper equale in *-s*.
 
