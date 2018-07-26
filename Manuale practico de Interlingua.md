@@ -14,7 +14,7 @@ PER GIUSEPPE PEANO, VENTIMIGLIA, REVISTA UNIVERSALE, 1913
 
 ## INDICE
 
-< !-- TOC -->
+<!-- TOC -->
 
 - [MANUALE PRACTICO DE INTERLINGUA](#manuale-practico-de-interlingua)
     - [ABBREVIATIONES](#abbreviationes)
