@@ -70,7 +70,7 @@ Ergo Interlingua:
 
 1.° adopta lingua latina ut lingua internationale.
 
-2.° recurre ad duo temperamentos, de que primo supprime quasi completamente grammatica et secundo duce ad non utere que vocabulos intelligibile pro omnes. *Vocabulario Internationale* de Basso contine 20,000 vocabulos que es latino internationale, id es latino que vive in plurimo linguas de Europa et es ergo intelligibile etiam ad illos que non cognosce latino.
+2.° recurre ad duo temperamentos, de que primo supprime quasi completamente grammatica et secundo duce ad non utere que vocabulos intelligibile pro omnes. *Vocabulario Internationale* de Basso contine 20.000 vocabulos que es latino internationale, id es latino que vive in plurimo linguas de Europa et es ergo intelligibile etiam ad illos que non cognosce latino.
 
 ## DE THEMA
 
@@ -80,7 +80,7 @@ Nulla alia lingua habe simile internationalitate. Ista veritate de facto es sic 
 
 Imperio Romano es mortuo, nulla idea politica es unita ad sua lingua, que constitue un medio de communicatione de una neutralitate sine equale.
 
-*Vocabulario internationale* de Basso contine quasi 20,000 vocabulos sub forma de thema, et es necessario ad omne interlinguista, nam illo contine — excepto forsan 20 vocabulos grammaticale — solum vocabulos de latino vivente et hodie in linguas de Europa, ergo de latino intelligibile ad primo visu ad omne homine de media instructione de Europa aut de America *que non sci latino*. Quanquam Interlingua adopta in theoria toto vocabulario latino, tamen in practica es opportuno utere solo latino vivente pro majore intelligibilitate pro omnes; ex hoc utilitate maxima de Vocabulario de Basso.
+*Vocabulario internationale* de Basso contine quasi 20.000 vocabulos sub forma de thema, et es necessario ad omne interlinguista, nam illo contine — excepto forsan 20 vocabulos grammaticale — solum vocabulos de latino vivente et hodie in linguas de Europa, ergo de latino intelligibile ad primo visu ad omne homine de media instructione de Europa aut de America *que non sci latino*. Quanquam Interlingua adopta in theoria toto vocabulario latino, tamen in practica es opportuno utere solo latino vivente pro majore intelligibilitate pro omnes; ex hoc utilitate maxima de Vocabulario de Basso.
 
 Vocabulario de Basso es etiam de ultra magna utilitate pro vocabulos moderno que non existe in latino, nam illo suggere vocabulo internationale plus apto in absentia de vocabulo latino.
 
