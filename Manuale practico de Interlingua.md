@@ -113,7 +113,7 @@ Ex.: —
 | brevis -is -e    | breve |
 | acer acris acre  | acre. |
 
-Interlingua adopta ablativo singulare mutando semper desinentia in *e*.
+Interlingua adopta ablativo singulare mutando semper desinentia in *-e*.
 
 Thema ablativo es cognito ad linguas moderna non solo pro voce simplice sed et per omne derivato, et illo da voce plus naturale et plus facili intellecto.
 
